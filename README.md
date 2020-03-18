@@ -1,8 +1,8 @@
 Biggest ISK Kills
 -----------------
 
-* A curated list of the most expensive kills in EVE Online, based upon the `Grand Total` ISK value reported on [zkillboard.com](https://zkillboard.com).
-* [Pull requests](https://github.com/honzi/BiggestISK/pulls) and [issues](https://github.com/honzi/BiggestISK/issues) are welcome! Many things explode every day so this list may become quickly outdated. If you know of a more expensive kill, or if a kill has had its value updated, then please contribute it to this list.
+* A curated list of the most expensive kills in EVE Online, based upon the `Grand Total` ISK value reported on [zkillboard.com](https://zkillboard.com) and without the restrictions used on https://zkillboard.com/bigisk/.
+* [Pull requests](https://github.com/honzi/biggestisk/pulls) and [issues](https://github.com/honzi/biggestisk/issues) are welcome! Many things explode every day so this list may become quickly outdated. If you know of a more expensive kill, or if a kill has had its value updated, then please contribute it to this list.
 * This list does not yet include every type, as there are many kills to go through, but eventually every type will be added.
 
 Rank | Destroyed                      | ISK Value            | Link
