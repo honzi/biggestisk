@@ -31,38 +31,42 @@ Rank | Destroyed                      | ISK Value            | Link
   22 | Ragnarok                       |   137,371,037,040.66 | https://zkillboard.com/kill/61365379/
   23 | Caedes                         |   124,193,461,731.91 | https://zkillboard.com/kill/73307938/
   24 | Loki                           |   124,011,278,892.90 | https://zkillboard.com/kill/82266299/
-  25 | Vangel                         |   103,776,919,955.60 | https://zkillboard.com/kill/22278966/
-  26 | Whiptail                       |   103,085,417,188.60 | https://zkillboard.com/kill/75560800/
-  27 | Silver Magnate                 |   102,740,300,346.28 | https://zkillboard.com/kill/66370950/
-  28 | Cambion                        |   100,079,013,469.54 | https://zkillboard.com/kill/32369995/
-  29 | Etana                          |   100,035,144,752.95 | https://zkillboard.com/kill/56613434/
-  30 | Widow                          |    90,327,024,099.98 | https://zkillboard.com/kill/80681361/
-  31 | 'Draccous' Fortizar            |    88,213,901,868.96 | https://zkillboard.com/kill/70668698/
-  32 | 'Moreau' Fortizar              |    85,955,144,535.83 | https://zkillboard.com/kill/71297180/
-  33 | 'Prometheus' Fortizar          |    83,517,433,111.51 | https://zkillboard.com/kill/70844463/
-  34 | Utu                            |    81,620,840,543.61 | https://zkillboard.com/kill/14417218/
-  35 | Malice                         |    80,016,825,713.74 | https://zkillboard.com/kill/26777738/
-  36 | Hematos                        |    79,684,772,715.41 | https://zkillboard.com/kill/79649125/
-  37 | 'Horizon' Fortizar             |    75,513,446,687.66 | https://zkillboard.com/kill/72362136/
-  38 | 'Marginis' Fortizar            |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
-  39 | Zirnitra                       |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
-  40 | Nestor                         |    21,344,452,730.86 | https://zkillboard.com/kill/75772608/
-  41 | Capsule                        |    14,106,237,513.46 | https://zkillboard.com/kill/42439974/
-  42 | Scorpion Ishukone Watch        |    11,208,349,284.60 | https://zkillboard.com/kill/34416198/
-  43 | Chemosh                        |     9,723,176,662.94 | https://zkillboard.com/kill/79916322/
-  44 | Gold Magnate                   |     7,099,932,495.68 | https://zkillboard.com/kill/75525466/
-  45 | InterBus Shuttle               |     4,152,990,959.27 | https://zkillboard.com/kill/53181989/
-  46 | Civilian Amarr Shuttle         |     3,180,014,180.67 | https://zkillboard.com/kill/71762961/
-  47 | Megathron Quafe Edition        |     2,465,508,501.72 | https://zkillboard.com/kill/44406980/
-  48 | Dominix Quafe Edition          |       959,188,069.93 | https://zkillboard.com/kill/45498604/
-  49 | Concord Special Ops Battleship |       908,012,876.10 | https://zkillboard.com/kill/13753189/
-  50 | Concord SWAT Battleship        |       401,711,415.79 | https://zkillboard.com/kill/33493600/
-  51 | Tristan Quafe Edition          |       350,716,935.61 | https://zkillboard.com/kill/45678409/
-  52 | Vexor Quafe Edition            |       296,639,604.63 | https://zkillboard.com/kill/45485383/
-  53 | Concord Special Ops Frigate    |       108,507,511.16 | https://zkillboard.com/kill/12816753/
-  54 | Freki                          |        29,790,703.29 | https://zkillboard.com/kill/13343786/
-  55 | Civilian Minmatar Shuttle      |         8,734,281.11 | https://zkillboard.com/kill/31335165/
-  56 | Civilian Gallente Shuttle      |         1,193,376.36 | https://zkillboard.com/kill/31744154/
-  57 | Civilian Caldari Shuttle       |           752,505.00 | https://zkillboard.com/kill/58831028/
-  58 | Gallente Media Shuttle         |            12,605.04 | https://zkillboard.com/kill/2860172/
-  59 | Amarr Media Shuttle            |            11,654.66 | https://zkillboard.com/kill/9620742/
+  25 | Marshal                        |   109,471,072,673.91 | https://zkillboard.com/kill/70357303/
+  26 | Vangel                         |   103,776,919,955.60 | https://zkillboard.com/kill/22278966/
+  27 | Whiptail                       |   103,085,417,188.60 | https://zkillboard.com/kill/75560800/
+  28 | Silver Magnate                 |   102,740,300,346.28 | https://zkillboard.com/kill/66370950/
+  29 | Cambion                        |   100,079,013,469.54 | https://zkillboard.com/kill/32369995/
+  30 | Etana                          |   100,035,144,752.95 | https://zkillboard.com/kill/56613434/
+  31 | Widow                          |    90,327,024,099.98 | https://zkillboard.com/kill/80681361/
+  32 | 'Draccous' Fortizar            |    88,213,901,868.96 | https://zkillboard.com/kill/70668698/
+  33 | 'Moreau' Fortizar              |    85,955,144,535.83 | https://zkillboard.com/kill/71297180/
+  34 | 'Prometheus' Fortizar          |    83,517,433,111.51 | https://zkillboard.com/kill/70844463/
+  35 | Vehement                       |    83,194,308,231.78 | https://zkillboard.com/kill/77855451/
+  36 | Utu                            |    81,620,840,543.61 | https://zkillboard.com/kill/14417218/
+  37 | Malice                         |    80,016,825,713.74 | https://zkillboard.com/kill/26777738/
+  38 | Hematos                        |    79,684,772,715.41 | https://zkillboard.com/kill/79649125/
+  39 | 'Horizon' Fortizar             |    75,513,446,687.66 | https://zkillboard.com/kill/72362136/
+  40 | 'Marginis' Fortizar            |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
+  41 | Zirnitra                       |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
+  42 | Nestor                         |    21,344,452,730.86 | https://zkillboard.com/kill/75772608/
+  43 | Loggerhead                     |    17,403,763,057.88 | https://zkillboard.com/kill/78727503/
+  44 | Capsule                        |    14,106,237,513.46 | https://zkillboard.com/kill/42439974/
+  45 | Scorpion Ishukone Watch        |    11,208,349,284.60 | https://zkillboard.com/kill/34416198/
+  46 | Chemosh                        |     9,723,176,662.94 | https://zkillboard.com/kill/79916322/
+  47 | Gold Magnate                   |     7,099,932,495.68 | https://zkillboard.com/kill/75525466/
+  48 | InterBus Shuttle               |     4,152,990,959.27 | https://zkillboard.com/kill/53181989/
+  49 | Civilian Amarr Shuttle         |     3,180,014,180.67 | https://zkillboard.com/kill/71762961/
+  50 | Megathron Quafe Edition        |     2,465,508,501.72 | https://zkillboard.com/kill/44406980/
+  51 | Monitor                        |     1,484,634,006.91 | https://zkillboard.com/kill/72766460/
+  52 | Dominix Quafe Edition          |       959,188,069.93 | https://zkillboard.com/kill/45498604/
+  53 | Concord Special Ops Battleship |       908,012,876.10 | https://zkillboard.com/kill/13753189/
+  54 | Concord SWAT Battleship        |       401,711,415.79 | https://zkillboard.com/kill/33493600/
+  55 | Tristan Quafe Edition          |       350,716,935.61 | https://zkillboard.com/kill/45678409/
+  56 | Vexor Quafe Edition            |       296,639,604.63 | https://zkillboard.com/kill/45485383/
+  57 | Concord Special Ops Frigate    |       108,507,511.16 | https://zkillboard.com/kill/12816753/
+  58 | Freki                          |        29,790,703.29 | https://zkillboard.com/kill/13343786/
+  59 | Civilian Minmatar Shuttle      |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+  60 | Civilian Gallente Shuttle      |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+  61 | Civilian Caldari Shuttle       |           752,505.00 | https://zkillboard.com/kill/58831028/
+  62 | Gallente Media Shuttle         |            12,605.04 | https://zkillboard.com/kill/2860172/
+  63 | Amarr Media Shuttle            |            11,654.66 | https://zkillboard.com/kill/9620742/
