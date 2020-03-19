@@ -53,20 +53,24 @@ Rank | Destroyed                      | ISK Value            | Link
   44 | Capsule                        |    14,106,237,513.46 | https://zkillboard.com/kill/42439974/
   45 | Scorpion Ishukone Watch        |    11,208,349,284.60 | https://zkillboard.com/kill/34416198/
   46 | Chemosh                        |     9,723,176,662.94 | https://zkillboard.com/kill/79916322/
-  47 | Gold Magnate                   |     7,099,932,495.68 | https://zkillboard.com/kill/75525466/
-  48 | InterBus Shuttle               |     4,152,990,959.27 | https://zkillboard.com/kill/53181989/
-  49 | Civilian Amarr Shuttle         |     3,180,014,180.67 | https://zkillboard.com/kill/71762961/
-  50 | Megathron Quafe Edition        |     2,465,508,501.72 | https://zkillboard.com/kill/44406980/
-  51 | Monitor                        |     1,484,634,006.91 | https://zkillboard.com/kill/72766460/
-  52 | Dominix Quafe Edition          |       959,188,069.93 | https://zkillboard.com/kill/45498604/
-  53 | Concord Special Ops Battleship |       908,012,876.10 | https://zkillboard.com/kill/13753189/
-  54 | Concord SWAT Battleship        |       401,711,415.79 | https://zkillboard.com/kill/33493600/
-  55 | Tristan Quafe Edition          |       350,716,935.61 | https://zkillboard.com/kill/45678409/
-  56 | Vexor Quafe Edition            |       296,639,604.63 | https://zkillboard.com/kill/45485383/
-  57 | Concord Special Ops Frigate    |       108,507,511.16 | https://zkillboard.com/kill/12816753/
-  58 | Freki                          |        29,790,703.29 | https://zkillboard.com/kill/13343786/
-  59 | Civilian Minmatar Shuttle      |         8,734,281.11 | https://zkillboard.com/kill/31335165/
-  60 | Civilian Gallente Shuttle      |         1,193,376.36 | https://zkillboard.com/kill/31744154/
-  61 | Civilian Caldari Shuttle       |           752,505.00 | https://zkillboard.com/kill/58831028/
-  62 | Gallente Media Shuttle         |            12,605.04 | https://zkillboard.com/kill/2860172/
-  63 | Amarr Media Shuttle            |            11,654.66 | https://zkillboard.com/kill/9620742/
+  47 | Naglfar Justice Edition        |     7,842,094,756.44 | https://zkillboard.com/kill/43497248/
+  48 | Moros Interbus Edition         |     7,339,889,013.25 | https://zkillboard.com/kill/44953894/
+  49 | Gold Magnate                   |     7,099,932,495.68 | https://zkillboard.com/kill/75525466/
+  50 | Revelation Sarum Edition       |     6,060,818,159.03 | https://zkillboard.com/kill/43685336/
+  51 | Phoenix Wiyrkomi Edition       |     5,938,716,354.67 | https://zkillboard.com/kill/46256266/
+  52 | InterBus Shuttle               |     4,152,990,959.27 | https://zkillboard.com/kill/53181989/
+  53 | Civilian Amarr Shuttle         |     3,180,014,180.67 | https://zkillboard.com/kill/71762961/
+  54 | Megathron Quafe Edition        |     2,465,508,501.72 | https://zkillboard.com/kill/44406980/
+  55 | Monitor                        |     1,484,634,006.91 | https://zkillboard.com/kill/72766460/
+  56 | Dominix Quafe Edition          |       959,188,069.93 | https://zkillboard.com/kill/45498604/
+  57 | Concord Special Ops Battleship |       908,012,876.10 | https://zkillboard.com/kill/13753189/
+  58 | Concord SWAT Battleship        |       401,711,415.79 | https://zkillboard.com/kill/33493600/
+  59 | Tristan Quafe Edition          |       350,716,935.61 | https://zkillboard.com/kill/45678409/
+  60 | Vexor Quafe Edition            |       296,639,604.63 | https://zkillboard.com/kill/45485383/
+  61 | Concord Special Ops Frigate    |       108,507,511.16 | https://zkillboard.com/kill/12816753/
+  62 | Freki                          |        29,790,703.29 | https://zkillboard.com/kill/13343786/
+  63 | Civilian Minmatar Shuttle      |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+  64 | Civilian Gallente Shuttle      |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+  65 | Civilian Caldari Shuttle       |           752,505.00 | https://zkillboard.com/kill/58831028/
+  66 | Gallente Media Shuttle         |            12,605.04 | https://zkillboard.com/kill/2860172/
+  67 | Amarr Media Shuttle            |            11,654.66 | https://zkillboard.com/kill/9620742/
