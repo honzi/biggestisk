@@ -61,30 +61,30 @@ Rank | Destroyed                                  | ISK Value            | Link
   52 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
   53 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
   54 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
-  55 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
-  56 | Paladin                                    |    40,448,526,101.10 | https://zkillboard.com/kill/33333330/
-  57 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
-  58 | Wyvern                                     |    34,926,140,191.25 | https://zkillboard.com/kill/73573293/
-  59 | Typhoon Fleet Issue                        |    34,910,682,319.93 | https://zkillboard.com/kill/55798335/
-  60 | Svipul                                     |    34,295,908,810.48 | https://zkillboard.com/kill/54887995/
-  61 | Aeon                                       |    34,235,329,861.50 | https://zkillboard.com/kill/3613935/
-  62 | Ibis                                       |    29,808,415,926.17 | https://zkillboard.com/kill/79634531/
-  63 | Raven Navy Issue                           |    29,219,136,218.19 | https://zkillboard.com/kill/67360198/
-  64 | Rattlesnake                                |    28,445,017,336.33 | https://zkillboard.com/kill/52048880/
-  65 | Vindicator                                 |    28,422,665,729.12 | https://zkillboard.com/kill/46058586/
-  66 | Revelation                                 |    27,956,324,709.12 | https://zkillboard.com/kill/74969682/
-  67 | Obelisk                                    |    26,924,828,898.29 | https://zkillboard.com/kill/82333662/
-  68 | Bhaalgorn                                  |    23,424,633,789.85 | https://zkillboard.com/kill/31646748/
-  69 | Phoenix                                    |    23,184,580,801.85 | https://zkillboard.com/kill/54182823/
-  70 | Apocalypse Navy Issue                      |    22,234,573,521.90 | https://zkillboard.com/kill/37898496/
-  71 | Rattlesnake Victory Edition                |    21,806,284,235.31 | https://zkillboard.com/kill/50736149/
-  72 | Nestor                                     |    21,344,452,730.86 | https://zkillboard.com/kill/75772608/
-  73 | Apostle                                    |    19,976,202,600.39 | https://zkillboard.com/kill/78109790/
-  74 | Nidhoggur                                  |    19,407,979,844.30 | https://zkillboard.com/kill/40070585/
-  75 | Tengu                                      |    18,448,003,918.25 | https://zkillboard.com/kill/25421219/
-  76 | Worm                                       |    17,582,867,159.79 | https://zkillboard.com/kill/64012436/
-  77 | Loggerhead                                 |    17,403,763,057.88 | https://zkillboard.com/kill/78727503/
-  78 | Fortizar                                   |    17,055,810,615.80 | https://zkillboard.com/kill/82366559/
+  55 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
+  56 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
+  57 | Paladin                                    |    40,448,526,101.10 | https://zkillboard.com/kill/33333330/
+  58 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
+  59 | Wyvern                                     |    34,926,140,191.25 | https://zkillboard.com/kill/73573293/
+  60 | Typhoon Fleet Issue                        |    34,910,682,319.93 | https://zkillboard.com/kill/55798335/
+  61 | Svipul                                     |    34,295,908,810.48 | https://zkillboard.com/kill/54887995/
+  62 | Aeon                                       |    34,235,329,861.50 | https://zkillboard.com/kill/3613935/
+  63 | Ibis                                       |    29,808,415,926.17 | https://zkillboard.com/kill/79634531/
+  64 | Raven Navy Issue                           |    29,219,136,218.19 | https://zkillboard.com/kill/67360198/
+  65 | Rattlesnake                                |    28,445,017,336.33 | https://zkillboard.com/kill/52048880/
+  66 | Vindicator                                 |    28,422,665,729.12 | https://zkillboard.com/kill/46058586/
+  67 | Revelation                                 |    27,956,324,709.12 | https://zkillboard.com/kill/74969682/
+  68 | Obelisk                                    |    26,924,828,898.29 | https://zkillboard.com/kill/82333662/
+  69 | Bhaalgorn                                  |    23,424,633,789.85 | https://zkillboard.com/kill/31646748/
+  70 | Phoenix                                    |    23,184,580,801.85 | https://zkillboard.com/kill/54182823/
+  71 | Apocalypse Navy Issue                      |    22,234,573,521.90 | https://zkillboard.com/kill/37898496/
+  72 | Rattlesnake Victory Edition                |    21,806,284,235.31 | https://zkillboard.com/kill/50736149/
+  73 | Nestor                                     |    21,344,452,730.86 | https://zkillboard.com/kill/75772608/
+  74 | Apostle                                    |    19,976,202,600.39 | https://zkillboard.com/kill/78109790/
+  75 | Nidhoggur                                  |    19,407,979,844.30 | https://zkillboard.com/kill/40070585/
+  76 | Tengu                                      |    18,448,003,918.25 | https://zkillboard.com/kill/25421219/
+  77 | Worm                                       |    17,582,867,159.79 | https://zkillboard.com/kill/64012436/
+  78 | Loggerhead                                 |    17,403,763,057.88 | https://zkillboard.com/kill/78727503/
   79 | Guristas Shuttle                           |    16,937,359,247.71 | https://zkillboard.com/kill/17395448/
   80 | Mastodon                                   |    16,816,264,362.74 | https://zkillboard.com/kill/82272191/
   81 | Ikitursa                                   |    16,743,539,585.17 | https://zkillboard.com/kill/80749109/
