@@ -115,55 +115,55 @@ Rank | Destroyed                                  | ISK Value            | Link
  106 | Phantasm                                   |     9,447,026,106.81 | https://zkillboard.com/kill/30032977/
  107 | Harpy                                      |     9,087,932,157.00 | https://zkillboard.com/kill/67669842/
  108 | Sigil                                      |     8,805,773,721.41 | https://zkillboard.com/kill/31604433/
- 109 | Moros                                      |     7,998,555,657.32 | https://zkillboard.com/kill/31251585/
- 110 | 'Wetu' Mobile Depot                        |     7,911,268,555.29 | https://zkillboard.com/kill/60104493/
- 111 | Archon                                     |     7,853,401,586.67 | https://zkillboard.com/kill/53888835/
- 112 | Naglfar Justice Edition                    |     7,842,094,756.44 | https://zkillboard.com/kill/43497248/
- 113 | Providence                                 |     7,805,969,288.94 | https://zkillboard.com/kill/82312820/
- 114 | Prowler                                    |     7,764,568,824.21 | https://zkillboard.com/kill/77626228/
- 115 | Echo                                       |     7,726,496,279.40 | https://zkillboard.com/kill/69094141/
- 116 | Legion                                     |     7,701,569,645.51 | https://zkillboard.com/kill/78825165/
- 117 | Ninazu                                     |     7,551,010,500.30 | https://zkillboard.com/kill/75947842/
- 118 | Moros Interbus Edition                     |     7,339,889,013.25 | https://zkillboard.com/kill/44953894/
- 119 | Drake Navy Issue                           |     7,236,711,692.78 | https://zkillboard.com/kill/63055974/
- 120 | Sleipnir                                   |     7,177,828,253.08 | https://zkillboard.com/kill/37842827/
- 121 | Lif                                        |     7,151,487,445.96 | https://zkillboard.com/kill/59835039/
- 122 | Gold Magnate                               |     7,099,932,495.68 | https://zkillboard.com/kill/75525466/
- 123 | Moa                                        |     6,894,623,463.70 | https://zkillboard.com/kill/57658186/
- 124 | Naga                                       |     6,745,307,654.42 | https://zkillboard.com/kill/67551649/
- 125 | Damnation                                  |     6,581,617,818.77 | https://zkillboard.com/kill/81645100/
- 126 | Vedmak                                     |     6,447,829,802.33 | https://zkillboard.com/kill/70273542/
- 127 | Sin                                        |     6,397,909,810.29 | https://zkillboard.com/kill/77253020/
- 128 | Charon                                     |     6,275,418,772.83 | https://zkillboard.com/kill/82362103/
- 129 | Broadsword                                 |     6,193,836,512.64 | https://zkillboard.com/kill/57695723/
- 130 | Vigilant                                   |     6,179,939,679.73 | https://zkillboard.com/kill/73532440/
- 131 | Revelation Sarum Edition                   |     6,060,818,159.03 | https://zkillboard.com/kill/43685336/
- 132 | Naglfar                                    |     6,039,787,527.92 | https://zkillboard.com/kill/31082842/
- 133 | Bestower                                   |     5,945,667,272.00 | https://zkillboard.com/kill/82220751/
- 134 | Phoenix Wiyrkomi Edition                   |     5,938,716,354.67 | https://zkillboard.com/kill/46256266/
- 135 | Ansiblex Jump Gate                         |     5,925,487,028.60 | https://zkillboard.com/kill/79160229/
- 136 | Cerberus                                   |     5,752,508,005.46 | https://zkillboard.com/kill/38083217/
- 137 | Hurricane                                  |     5,683,942,949.05 | https://zkillboard.com/kill/59966657/
- 138 | Jackdaw                                    |     5,582,524,388.31 | https://zkillboard.com/kill/47050538/
- 139 | Bestower Tash-Murkon Edition               |     5,551,597,949.06 | https://zkillboard.com/kill/39527390/
- 140 | 'Yurt' Mobile Depot                        |     5,536,830,544.80 | https://zkillboard.com/kill/69592230/
- 141 | PRorator                                   |     5,252,915,037.64 | https://zkillboard.com/kill/82307033/
- 142 | Raitaru                                    |     4,954,495,593.27 | https://zkillboard.com/kill/82393514/
- 143 | Megathron Navy Issue                       |     4,934,529,795.03 | https://zkillboard.com/kill/39841706/
- 144 | Miasmos Quafe Ultra Edition                |     4,905,552,765.67 | https://zkillboard.com/kill/36764266/
- 145 | Gila                                       |     4,890,492,771.00 | https://zkillboard.com/kill/72237492/
- 146 | Rook                                       |     4,868,138,075.59 | https://zkillboard.com/kill/44069568/
- 147 | Hulk                                       |     4,856,454,779.18 | https://zkillboard.com/kill/76876544/
- 148 | Bustard                                    |     4,781,655,912.21 | https://zkillboard.com/kill/82283437/
- 149 | Miasmos Quafe Ultramarine Edition          |     4,702,659,693.28 | https://zkillboard.com/kill/75737493/
- 150 | Rifter Nefantar Edition                    |     4,568,736,189.77 | https://zkillboard.com/kill/42654115/
- 151 | Abaddon Kador Edition                      |     4,540,657,589.89 | https://zkillboard.com/kill/41132368/
- 152 | Purifier                                   |     4,439,559,419.04 | https://zkillboard.com/kill/70813326/
- 153 | Miasmos Amastris Edition                   |     4,380,493,652.53 | https://zkillboard.com/kill/26328441/
- 154 | Violator                                   |     4,366,514,894.99 | https://zkillboard.com/kill/55229995/
- 155 | Scorpion                                   |     4,294,224,224.85 | https://zkillboard.com/kill/51068815/
- 156 | Vagabond                                   |     4,230,160,342.03 | https://zkillboard.com/kill/41133177/
- 157 | InterBus Shuttle                           |     4,152,990,959.27 | https://zkillboard.com/kill/53181989/
+ 109 | InterBus Shuttle                           |     8,405,932,287.88 | https://zkillboard.com/kill/14874071/
+ 110 | Moros                                      |     7,998,555,657.32 | https://zkillboard.com/kill/31251585/
+ 111 | 'Wetu' Mobile Depot                        |     7,911,268,555.29 | https://zkillboard.com/kill/60104493/
+ 112 | Archon                                     |     7,853,401,586.67 | https://zkillboard.com/kill/53888835/
+ 113 | Naglfar Justice Edition                    |     7,842,094,756.44 | https://zkillboard.com/kill/43497248/
+ 114 | Providence                                 |     7,805,969,288.94 | https://zkillboard.com/kill/82312820/
+ 115 | Prowler                                    |     7,764,568,824.21 | https://zkillboard.com/kill/77626228/
+ 116 | Echo                                       |     7,726,496,279.40 | https://zkillboard.com/kill/69094141/
+ 117 | Legion                                     |     7,701,569,645.51 | https://zkillboard.com/kill/78825165/
+ 118 | Ninazu                                     |     7,551,010,500.30 | https://zkillboard.com/kill/75947842/
+ 119 | Moros Interbus Edition                     |     7,339,889,013.25 | https://zkillboard.com/kill/44953894/
+ 120 | Drake Navy Issue                           |     7,236,711,692.78 | https://zkillboard.com/kill/63055974/
+ 121 | Sleipnir                                   |     7,177,828,253.08 | https://zkillboard.com/kill/37842827/
+ 122 | Lif                                        |     7,151,487,445.96 | https://zkillboard.com/kill/59835039/
+ 123 | Gold Magnate                               |     7,099,932,495.68 | https://zkillboard.com/kill/75525466/
+ 124 | Moa                                        |     6,894,623,463.70 | https://zkillboard.com/kill/57658186/
+ 125 | Naga                                       |     6,745,307,654.42 | https://zkillboard.com/kill/67551649/
+ 126 | Damnation                                  |     6,581,617,818.77 | https://zkillboard.com/kill/81645100/
+ 127 | Vedmak                                     |     6,447,829,802.33 | https://zkillboard.com/kill/70273542/
+ 128 | Sin                                        |     6,397,909,810.29 | https://zkillboard.com/kill/77253020/
+ 129 | Charon                                     |     6,275,418,772.83 | https://zkillboard.com/kill/82362103/
+ 130 | Broadsword                                 |     6,193,836,512.64 | https://zkillboard.com/kill/57695723/
+ 131 | Vigilant                                   |     6,179,939,679.73 | https://zkillboard.com/kill/73532440/
+ 132 | Revelation Sarum Edition                   |     6,060,818,159.03 | https://zkillboard.com/kill/43685336/
+ 133 | Naglfar                                    |     6,039,787,527.92 | https://zkillboard.com/kill/31082842/
+ 134 | Bestower                                   |     5,945,667,272.00 | https://zkillboard.com/kill/82220751/
+ 135 | Phoenix Wiyrkomi Edition                   |     5,938,716,354.67 | https://zkillboard.com/kill/46256266/
+ 136 | Ansiblex Jump Gate                         |     5,925,487,028.60 | https://zkillboard.com/kill/79160229/
+ 137 | Cerberus                                   |     5,752,508,005.46 | https://zkillboard.com/kill/38083217/
+ 138 | Hurricane                                  |     5,683,942,949.05 | https://zkillboard.com/kill/59966657/
+ 139 | Jackdaw                                    |     5,582,524,388.31 | https://zkillboard.com/kill/47050538/
+ 140 | Bestower Tash-Murkon Edition               |     5,551,597,949.06 | https://zkillboard.com/kill/39527390/
+ 141 | 'Yurt' Mobile Depot                        |     5,536,830,544.80 | https://zkillboard.com/kill/69592230/
+ 142 | PRorator                                   |     5,252,915,037.64 | https://zkillboard.com/kill/82307033/
+ 143 | Raitaru                                    |     4,954,495,593.27 | https://zkillboard.com/kill/82393514/
+ 144 | Megathron Navy Issue                       |     4,934,529,795.03 | https://zkillboard.com/kill/39841706/
+ 145 | Miasmos Quafe Ultra Edition                |     4,905,552,765.67 | https://zkillboard.com/kill/36764266/
+ 146 | Gila                                       |     4,890,492,771.00 | https://zkillboard.com/kill/72237492/
+ 147 | Rook                                       |     4,868,138,075.59 | https://zkillboard.com/kill/44069568/
+ 148 | Hulk                                       |     4,856,454,779.18 | https://zkillboard.com/kill/76876544/
+ 149 | Bustard                                    |     4,781,655,912.21 | https://zkillboard.com/kill/82283437/
+ 150 | Miasmos Quafe Ultramarine Edition          |     4,702,659,693.28 | https://zkillboard.com/kill/75737493/
+ 151 | Rifter Nefantar Edition                    |     4,568,736,189.77 | https://zkillboard.com/kill/42654115/
+ 152 | Abaddon Kador Edition                      |     4,540,657,589.89 | https://zkillboard.com/kill/41132368/
+ 153 | Purifier                                   |     4,439,559,419.04 | https://zkillboard.com/kill/70813326/
+ 154 | Miasmos Amastris Edition                   |     4,380,493,652.53 | https://zkillboard.com/kill/26328441/
+ 155 | Violator                                   |     4,366,514,894.99 | https://zkillboard.com/kill/55229995/
+ 156 | Scorpion                                   |     4,294,224,224.85 | https://zkillboard.com/kill/51068815/
+ 157 | Vagabond                                   |     4,230,160,342.03 | https://zkillboard.com/kill/41133177/
  158 | Eagle                                      |     4,126,615,971.81 | https://zkillboard.com/kill/73907924/
  159 | Panther                                    |     4,071,911,845.15 | https://zkillboard.com/kill/73264225/
  160 | Gnosis                                     |     4,065,130,071.10 | https://zkillboard.com/kill/42388067/
