@@ -148,7 +148,7 @@ Rank | Destroyed                                  | ISK Value            | Link
  139 | Jackdaw                                    |     5,582,524,388.31 | https://zkillboard.com/kill/47050538/
  140 | Bestower Tash-Murkon Edition               |     5,551,597,949.06 | https://zkillboard.com/kill/39527390/
  141 | 'Yurt' Mobile Depot                        |     5,536,830,544.80 | https://zkillboard.com/kill/69592230/
- 142 | PRorator                                   |     5,252,915,037.64 | https://zkillboard.com/kill/82307033/
+ 142 | Prorator                                   |     5,252,915,037.64 | https://zkillboard.com/kill/82307033/
  143 | Raitaru                                    |     4,954,495,593.27 | https://zkillboard.com/kill/82393514/
  144 | Megathron Navy Issue                       |     4,934,529,795.03 | https://zkillboard.com/kill/39841706/
  145 | Miasmos Quafe Ultra Edition                |     4,905,552,765.67 | https://zkillboard.com/kill/36764266/
