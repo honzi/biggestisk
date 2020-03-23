@@ -425,22 +425,22 @@ Rank | Destroyed                                  | ISK Value            | Link
  416 | Inner Zone Shipping Catalyst               |       176,233,205.80 | https://zkillboard.com/kill/29295146/
  417 | Stabber Nefantar Edition                   |       171,461,479.16 | https://zkillboard.com/kill/41384304/
  418 | Kitsune                                    |       154,039,669.89 | https://zkillboard.com/kill/74902644/
- 419 | Minmatar Shuttle                           |       131,891,945.80 | https://zkillboard.com/kill/82438226/
- 420 | Kirin                                      |       128,309,236.29 | https://zkillboard.com/kill/50607642/
- 421 | Thorax Inner Zone Shipping Edition         |       121,292,846.45 | https://zkillboard.com/kill/42935364/
- 422 | Vigil                                      |       113,906,220.99 | https://zkillboard.com/kill/49085318/
- 423 | Concord Special Ops Frigate                |       108,507,511.16 | https://zkillboard.com/kill/12816753/
- 424 | Incursus Inner Zone Shipping Edition       |       107,434,728.24 | https://zkillboard.com/kill/45327486/
- 425 | Zephyr                                     |       102,058,880.64 | https://zkillboard.com/kill/79897387/
- 426 | Small Mobile 'Rote' Siphon Unit            |        96,611,242.40 | https://zkillboard.com/kill/54274189/
- 427 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
- 428 | Primae                                     |        53,553,318.87 | https://zkillboard.com/kill/66105009/
- 429 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
- 430 | Council Diplomatic Shuttle                 |        41,182,951.71 | https://zkillboard.com/kill/82288600/
- 431 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
- 432 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
- 433 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
- 434 | Cormorant Guristas Edition                 |        27,571,975.65 | https://zkillboard.com/kill/39541376/
+ 419 | Cormorant Guristas Edition                 |       146,755,525.32 | https://zkillboard.com/kill/45542839/
+ 420 | Minmatar Shuttle                           |       131,891,945.80 | https://zkillboard.com/kill/82438226/
+ 421 | Kirin                                      |       128,309,236.29 | https://zkillboard.com/kill/50607642/
+ 422 | Thorax Inner Zone Shipping Edition         |       121,292,846.45 | https://zkillboard.com/kill/42935364/
+ 423 | Vigil                                      |       113,906,220.99 | https://zkillboard.com/kill/49085318/
+ 424 | Concord Special Ops Frigate                |       108,507,511.16 | https://zkillboard.com/kill/12816753/
+ 425 | Incursus Inner Zone Shipping Edition       |       107,434,728.24 | https://zkillboard.com/kill/45327486/
+ 426 | Zephyr                                     |       102,058,880.64 | https://zkillboard.com/kill/79897387/
+ 427 | Small Mobile 'Rote' Siphon Unit            |        96,611,242.40 | https://zkillboard.com/kill/54274189/
+ 428 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
+ 429 | Primae                                     |        53,553,318.87 | https://zkillboard.com/kill/66105009/
+ 430 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
+ 431 | Council Diplomatic Shuttle                 |        41,182,951.71 | https://zkillboard.com/kill/82288600/
+ 432 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
+ 433 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
+ 434 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
  435 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
  436 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
  437 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
