@@ -252,20 +252,20 @@ Rank | Destroyed                                  | ISK Value            | Link
  243 | Rokh Wiyrkomi Edition                      |     2,074,306,403.10 | https://zkillboard.com/kill/39709983/
  244 | Megathron                                  |     2,060,954,126.64 | https://zkillboard.com/kill/3159998/
  245 | Pacifier                                   |     2,037,079,108.64 | https://zkillboard.com/kill/78935306/
- 246 | Brutix Navy Issue                          |     1,994,293,264.57 | https://zkillboard.com/kill/59213032/
- 247 | Vexor                                      |     1,969,235,030.03 | https://zkillboard.com/kill/5436929/
- 248 | Vexor Navy Issue                           |     1,967,409,088.62 | https://zkillboard.com/kill/3758838/
- 249 | Caldari Navy Hookbill                      |     1,963,050,013.64 | https://zkillboard.com/kill/25656050/
- 250 | Ares                                       |     1,961,923,424.20 | https://zkillboard.com/kill/67655020/
- 251 | Damavik                                    |     1,932,733,487.58 | https://zkillboard.com/kill/70281340/
- 252 | Ishkur                                     |     1,926,523,092.41 | https://zkillboard.com/kill/25358206/
- 253 | Enyo                                       |     1,926,041,429.51 | https://zkillboard.com/kill/24468637/
- 254 | Apocalypse                                 |     1,913,647,701.71 | https://zkillboard.com/kill/9180627/
- 255 | Iteron Mark V                              |     1,907,574,513.40 | https://zkillboard.com/kill/82334657/
- 256 | Heron                                      |     1,876,981,580.30 | https://zkillboard.com/kill/31537898/
- 257 | Nighthawk                                  |     1,876,396,211.57 | https://zkillboard.com/kill/78462790/
- 258 | Rokh Nugoeihuvi Edition                    |     1,870,559,846.75 | https://zkillboard.com/kill/37656225/
- 259 | Nation                                     |     1,868,346,892.80 | https://zkillboard.com/kill/16539951/
+ 246 | Nation                                     |     2,035,475,143.52 | https://zkillboard.com/kill/19365136/
+ 247 | Brutix Navy Issue                          |     1,994,293,264.57 | https://zkillboard.com/kill/59213032/
+ 248 | Vexor                                      |     1,969,235,030.03 | https://zkillboard.com/kill/5436929/
+ 249 | Vexor Navy Issue                           |     1,967,409,088.62 | https://zkillboard.com/kill/3758838/
+ 250 | Caldari Navy Hookbill                      |     1,963,050,013.64 | https://zkillboard.com/kill/25656050/
+ 251 | Ares                                       |     1,961,923,424.20 | https://zkillboard.com/kill/67655020/
+ 252 | Damavik                                    |     1,932,733,487.58 | https://zkillboard.com/kill/70281340/
+ 253 | Ishkur                                     |     1,926,523,092.41 | https://zkillboard.com/kill/25358206/
+ 254 | Enyo                                       |     1,926,041,429.51 | https://zkillboard.com/kill/24468637/
+ 255 | Apocalypse                                 |     1,913,647,701.71 | https://zkillboard.com/kill/9180627/
+ 256 | Iteron Mark V                              |     1,907,574,513.40 | https://zkillboard.com/kill/82334657/
+ 257 | Heron                                      |     1,876,981,580.30 | https://zkillboard.com/kill/31537898/
+ 258 | Nighthawk                                  |     1,876,396,211.57 | https://zkillboard.com/kill/78462790/
+ 259 | Rokh Nugoeihuvi Edition                    |     1,870,559,846.75 | https://zkillboard.com/kill/37656225/
  260 | Eris                                       |     1,866,271,453.53 | https://zkillboard.com/kill/26132234/
  261 | Hyperion Inner Zone Shipping Edition       |     1,821,078,136.22 | https://zkillboard.com/kill/40063216/
  262 | Procurer                                   |     1,784,108,973.20 | https://zkillboard.com/kill/61164959/
