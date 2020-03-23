@@ -386,15 +386,15 @@ Rank | Destroyed                                  | ISK Value            | Link
  377 | Maulus Navy Issue                          |       443,135,423.45 | https://zkillboard.com/kill/62695247/
  378 | Cheetah                                    |       430,882,174.16 | https://zkillboard.com/kill/79167159/
  379 | Sunesis                                    |       420,190,576.41 | https://zkillboard.com/kill/65346528/
- 380 | Blackbird                                  |       414,481,570.31 | https://zkillboard.com/kill/64593573/
- 381 | Bantam                                     |       409,516,641.35 | https://zkillboard.com/kill/25491003/
- 382 | Concord SWAT Battleship                    |       401,711,415.79 | https://zkillboard.com/kill/33493600/
- 383 | Vigil Fleet Issue                          |       398,386,471.85 | https://zkillboard.com/kill/77523845/
- 384 | Tormentor                                  |       388,565,151.06 | https://zkillboard.com/kill/72202266/
- 385 | Omen                                       |       386,538,018.05 | https://zkillboard.com/kill/4724037/
- 386 | Thrasher Thukker Tribe Edition             |       377,605,488.81 | https://zkillboard.com/kill/45351485/
- 387 | Inner Zone Shipping Imicus                 |       373,361,367.23 | https://zkillboard.com/kill/31497819/
- 388 | Omen Kador Edition                         |       364,092,556.47 | https://zkillboard.com/kill/41322374/
+ 380 | Omen Kador Edition                         |       416,651,334.10 | https://zkillboard.com/kill/41322374/
+ 381 | Blackbird                                  |       414,481,570.31 | https://zkillboard.com/kill/64593573/
+ 382 | Bantam                                     |       409,516,641.35 | https://zkillboard.com/kill/25491003/
+ 383 | Concord SWAT Battleship                    |       401,711,415.79 | https://zkillboard.com/kill/33493600/
+ 384 | Vigil Fleet Issue                          |       398,386,471.85 | https://zkillboard.com/kill/77523845/
+ 385 | Tormentor                                  |       388,565,151.06 | https://zkillboard.com/kill/72202266/
+ 386 | Omen                                       |       386,538,018.05 | https://zkillboard.com/kill/4724037/
+ 387 | Thrasher Thukker Tribe Edition             |       377,605,488.81 | https://zkillboard.com/kill/45351485/
+ 388 | Inner Zone Shipping Imicus                 |       373,361,367.23 | https://zkillboard.com/kill/31497819/
  389 | Tristan Quafe Edition                      |       350,716,935.61 | https://zkillboard.com/kill/45678409/
  390 | Omen Tash-Murkon Edition                   |       338,811,031.02 | https://zkillboard.com/kill/43405588/
  391 | Sarum Magnate                              |       337,493,215.05 | https://zkillboard.com/kill/29692082/
