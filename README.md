@@ -386,7 +386,7 @@ Rank | Destroyed                                  | ISK Value            | Link
  377 | Maulus Navy Issue                          |       443,135,423.45 | https://zkillboard.com/kill/62695247/
  378 | Cheetah                                    |       430,882,174.16 | https://zkillboard.com/kill/79167159/
  379 | Sunesis                                    |       420,190,576.41 | https://zkillboard.com/kill/65346528/
- 380 | Omen Kador Edition                         |       416,651,334.10 | https://zkillboard.com/kill/41322374/
+ 380 | Omen Kador Edition                         |       416,651,334.10 | https://zkillboard.com/kill/40385874/
  381 | Blackbird                                  |       414,481,570.31 | https://zkillboard.com/kill/64593573/
  382 | Bantam                                     |       409,516,641.35 | https://zkillboard.com/kill/25491003/
  383 | Concord SWAT Battleship                    |       401,711,415.79 | https://zkillboard.com/kill/33493600/
