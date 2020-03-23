@@ -386,29 +386,29 @@ Rank | Destroyed                                  | ISK Value            | Link
  377 | Maulus Navy Issue                          |       443,135,423.45 | https://zkillboard.com/kill/62695247/
  378 | Cheetah                                    |       430,882,174.16 | https://zkillboard.com/kill/79167159/
  379 | Sunesis                                    |       420,190,576.41 | https://zkillboard.com/kill/65346528/
- 380 | Omen Kador Edition                         |       416,651,334.10 | https://zkillboard.com/kill/40385874/
- 381 | Blackbird                                  |       414,481,570.31 | https://zkillboard.com/kill/64593573/
- 382 | Bantam                                     |       409,516,641.35 | https://zkillboard.com/kill/25491003/
- 383 | Concord SWAT Battleship                    |       401,711,415.79 | https://zkillboard.com/kill/33493600/
- 384 | Vigil Fleet Issue                          |       398,386,471.85 | https://zkillboard.com/kill/77523845/
- 385 | Tormentor                                  |       388,565,151.06 | https://zkillboard.com/kill/72202266/
- 386 | Omen                                       |       386,538,018.05 | https://zkillboard.com/kill/4724037/
- 387 | Tash-Murkon Magnate                        |       381,694,275.09 | https://zkillboard.com/kill/34402852/
- 388 | Thrasher Thukker Tribe Edition             |       377,605,488.81 | https://zkillboard.com/kill/45351485/
- 389 | Inner Zone Shipping Imicus                 |       373,361,367.23 | https://zkillboard.com/kill/31497819/
- 390 | Tristan Quafe Edition                      |       350,716,935.61 | https://zkillboard.com/kill/45678409/
- 391 | Omen Tash-Murkon Edition                   |       338,811,031.02 | https://zkillboard.com/kill/43405588/
- 392 | Sarum Magnate                              |       337,493,215.05 | https://zkillboard.com/kill/29692082/
- 393 | Probe                                      |       329,416,623.63 | https://zkillboard.com/kill/52303367/
- 394 | Catalyst Serpentis Edition                 |       323,875,111.99 | https://zkillboard.com/kill/40465815/
- 395 | Hyena                                      |       322,645,113.30 | https://zkillboard.com/kill/68494967/
- 396 | Dragoon                                    |       313,056,595.71 | https://zkillboard.com/kill/68979403/
- 397 | Navitas                                    |       297,261,504.13 | https://zkillboard.com/kill/43987739/
- 398 | Vexor Quafe Edition                        |       296,639,604.63 | https://zkillboard.com/kill/45485383/
- 399 | Scalpel                                    |       263,004,205.10 | https://zkillboard.com/kill/51966832/
- 400 | Griffin Navy Issue                         |       262,457,882.59 | https://zkillboard.com/kill/67288101/
- 401 | Sukuuvestaa Heron                          |       256,640,015.83 | https://zkillboard.com/kill/43123424/
- 402 | Caracal Nugoeihuvi Edition                 |       249,779,037.64 | https://zkillboard.com/kill/44387234/
+ 380 | Caracal Nugoeihuvi Edition                 |       419,167,408.78 | https://zkillboard.com/kill/42727503/
+ 381 | Omen Kador Edition                         |       416,651,334.10 | https://zkillboard.com/kill/40385874/
+ 382 | Blackbird                                  |       414,481,570.31 | https://zkillboard.com/kill/64593573/
+ 383 | Bantam                                     |       409,516,641.35 | https://zkillboard.com/kill/25491003/
+ 384 | Concord SWAT Battleship                    |       401,711,415.79 | https://zkillboard.com/kill/33493600/
+ 385 | Vigil Fleet Issue                          |       398,386,471.85 | https://zkillboard.com/kill/77523845/
+ 386 | Tormentor                                  |       388,565,151.06 | https://zkillboard.com/kill/72202266/
+ 387 | Omen                                       |       386,538,018.05 | https://zkillboard.com/kill/4724037/
+ 388 | Tash-Murkon Magnate                        |       381,694,275.09 | https://zkillboard.com/kill/34402852/
+ 389 | Thrasher Thukker Tribe Edition             |       377,605,488.81 | https://zkillboard.com/kill/45351485/
+ 390 | Inner Zone Shipping Imicus                 |       373,361,367.23 | https://zkillboard.com/kill/31497819/
+ 391 | Tristan Quafe Edition                      |       350,716,935.61 | https://zkillboard.com/kill/45678409/
+ 392 | Omen Tash-Murkon Edition                   |       338,811,031.02 | https://zkillboard.com/kill/43405588/
+ 393 | Sarum Magnate                              |       337,493,215.05 | https://zkillboard.com/kill/29692082/
+ 394 | Probe                                      |       329,416,623.63 | https://zkillboard.com/kill/52303367/
+ 395 | Catalyst Serpentis Edition                 |       323,875,111.99 | https://zkillboard.com/kill/40465815/
+ 396 | Hyena                                      |       322,645,113.30 | https://zkillboard.com/kill/68494967/
+ 397 | Dragoon                                    |       313,056,595.71 | https://zkillboard.com/kill/68979403/
+ 398 | Navitas                                    |       297,261,504.13 | https://zkillboard.com/kill/43987739/
+ 399 | Vexor Quafe Edition                        |       296,639,604.63 | https://zkillboard.com/kill/45485383/
+ 400 | Scalpel                                    |       263,004,205.10 | https://zkillboard.com/kill/51966832/
+ 401 | Griffin Navy Issue                         |       262,457,882.59 | https://zkillboard.com/kill/67288101/
+ 402 | Sukuuvestaa Heron                          |       256,640,015.83 | https://zkillboard.com/kill/43123424/
  403 | Maulus                                     |       248,558,093.72 | https://zkillboard.com/kill/80077718/
  404 | Burst                                      |       240,350,639.64 | https://zkillboard.com/kill/49339940/
  405 | Inquisitor                                 |       239,428,001.99 | https://zkillboard.com/kill/77505700/
