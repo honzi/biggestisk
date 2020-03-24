@@ -434,18 +434,19 @@ Rank | Destroyed                                  | ISK Value            | Link
  425 | Incursus Inner Zone Shipping Edition       |       107,434,728.24 | https://zkillboard.com/kill/45327486/
  426 | Zephyr                                     |       102,058,880.64 | https://zkillboard.com/kill/79897387/
  427 | Small Mobile 'Rote' Siphon Unit            |        96,611,242.40 | https://zkillboard.com/kill/54274189/
- 428 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
- 429 | Primae                                     |        53,553,318.87 | https://zkillboard.com/kill/66105009/
- 430 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
- 431 | Council Diplomatic Shuttle                 |        41,182,951.71 | https://zkillboard.com/kill/82288600/
- 432 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
- 433 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
- 434 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
- 435 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
- 436 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 437 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 438 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 439 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 440 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 441 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 442 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 428 | Thukker Component Assembly Array           |        81,247,327.31 | https://zkillboard.com/kill/63109174/
+ 429 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
+ 430 | Primae                                     |        53,553,318.87 | https://zkillboard.com/kill/66105009/
+ 431 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
+ 432 | Council Diplomatic Shuttle                 |        41,182,951.71 | https://zkillboard.com/kill/82288600/
+ 433 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
+ 434 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
+ 435 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
+ 436 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
+ 437 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+ 438 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 439 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 440 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 441 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 442 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 443 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
