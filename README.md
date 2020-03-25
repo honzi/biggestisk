@@ -364,36 +364,36 @@ Rank | Destroyed                                  | ISK Value            | Link
  355 | Algos                                      |       838,692,057.15 | https://zkillboard.com/kill/64395809/
  356 | Caracal Wiyrkomi Edition                   |       837,505,942.38 | https://zkillboard.com/kill/42087586/
  357 | Shadow Control Tower Medium                |       835,950,949.50 | https://zkillboard.com/kill/42193283/
- 358 | Atron                                      |       798,871,905.51 | https://zkillboard.com/kill/39845162/
- 359 | Crusader                                   |       782,919,160.44 | https://zkillboard.com/kill/59888530/
- 360 | Mammoth Nefantar Edition                   |       777,119,451.61 | https://zkillboard.com/kill/40697423/
- 361 | Venture                                    |       758,510,959.42 | https://zkillboard.com/kill/54285145/
- 362 | Bellicose                                  |       753,158,919.68 | https://zkillboard.com/kill/3617443/
- 363 | Thrasher Thukker Tribe Edition             |       741,187,143.58 | https://zkillboard.com/kill/45771231/
- 364 | Magnate                                    |       733,951,699.47 | https://zkillboard.com/kill/60766146/
- 365 | Prospect                                   |       733,740,174.66 | https://zkillboard.com/kill/50797352/
- 366 | Sabre                                      |       718,270,948.04 | https://zkillboard.com/kill/70645634/
- 367 | Caracal                                    |       713,817,142.50 | https://zkillboard.com/kill/76897647/
- 368 | Shadow Control Tower Small                 |       698,000,049.50 | https://zkillboard.com/kill/2031960/
- 369 | InterBus Catalyst                          |       695,264,105.73 | https://zkillboard.com/kill/30168373/
- 370 | Tornado                                    |       689,698,955.41 | https://zkillboard.com/kill/28259637/
- 371 | Scythe                                     |       683,413,147.04 | https://zkillboard.com/kill/37857408/
- 372 | Buzzard                                    |       673,464,477.35 | https://zkillboard.com/kill/34369493/
- 373 | Kestrel                                    |       672,557,695.71 | https://zkillboard.com/kill/25586599/
- 374 | Stabber                                    |       664,162,788.21 | https://zkillboard.com/kill/63650989/
- 375 | Ferox Guristas Edition                     |       660,971,414.92 | https://zkillboard.com/kill/44537106/
- 376 | Breacher                                   |       647,927,632.19 | https://zkillboard.com/kill/54882438/
- 377 | Talwar                                     |       645,822,989.14 | https://zkillboard.com/kill/38179874/
- 378 | Raptor                                     |       636,397,714.61 | https://zkillboard.com/kill/67444009/
- 379 | Stabber Krusual Edition                    |       621,558,143.90 | https://zkillboard.com/kill/43982525/
- 380 | Taranis                                    |       613,752,446.89 | https://zkillboard.com/kill/72002979/
- 381 | 'Magpie' Mobile Tractor Unit               |       611,418,629.00 | https://zkillboard.com/kill/82355131/
- 382 | Keres                                      |       610,686,986.16 | https://zkillboard.com/kill/78790414/
- 383 | Coercer                                    |       604,977,782.73 | https://zkillboard.com/kill/29640592/
- 384 | Thalia                                     |       534,179,030.38 | https://zkillboard.com/kill/81571571/
- 385 | Merlin Nugoeihuvi Edition                  |       549,166,299.50 | https://zkillboard.com/kill/44578024/
- 386 | Crucifier Navy Issue                       |       525,194,448.61 | https://zkillboard.com/kill/80509645/
- 387 | Police Pursuit Comet                       |       509,619,476.08 | https://zkillboard.com/kill/38583598/
+ 358 | Police Pursuit Comet                       |       824,113,430.17 | https://zkillboard.com/kill/45074279/
+ 359 | Atron                                      |       798,871,905.51 | https://zkillboard.com/kill/39845162/
+ 360 | Crusader                                   |       782,919,160.44 | https://zkillboard.com/kill/59888530/
+ 361 | Mammoth Nefantar Edition                   |       777,119,451.61 | https://zkillboard.com/kill/40697423/
+ 362 | Venture                                    |       758,510,959.42 | https://zkillboard.com/kill/54285145/
+ 363 | Bellicose                                  |       753,158,919.68 | https://zkillboard.com/kill/3617443/
+ 364 | Thrasher Thukker Tribe Edition             |       741,187,143.58 | https://zkillboard.com/kill/45771231/
+ 365 | Magnate                                    |       733,951,699.47 | https://zkillboard.com/kill/60766146/
+ 366 | Prospect                                   |       733,740,174.66 | https://zkillboard.com/kill/50797352/
+ 367 | Sabre                                      |       718,270,948.04 | https://zkillboard.com/kill/70645634/
+ 368 | Caracal                                    |       713,817,142.50 | https://zkillboard.com/kill/76897647/
+ 369 | Shadow Control Tower Small                 |       698,000,049.50 | https://zkillboard.com/kill/2031960/
+ 370 | InterBus Catalyst                          |       695,264,105.73 | https://zkillboard.com/kill/30168373/
+ 371 | Tornado                                    |       689,698,955.41 | https://zkillboard.com/kill/28259637/
+ 372 | Scythe                                     |       683,413,147.04 | https://zkillboard.com/kill/37857408/
+ 373 | Buzzard                                    |       673,464,477.35 | https://zkillboard.com/kill/34369493/
+ 374 | Kestrel                                    |       672,557,695.71 | https://zkillboard.com/kill/25586599/
+ 375 | Stabber                                    |       664,162,788.21 | https://zkillboard.com/kill/63650989/
+ 376 | Ferox Guristas Edition                     |       660,971,414.92 | https://zkillboard.com/kill/44537106/
+ 377 | Breacher                                   |       647,927,632.19 | https://zkillboard.com/kill/54882438/
+ 378 | Talwar                                     |       645,822,989.14 | https://zkillboard.com/kill/38179874/
+ 379 | Raptor                                     |       636,397,714.61 | https://zkillboard.com/kill/67444009/
+ 380 | Stabber Krusual Edition                    |       621,558,143.90 | https://zkillboard.com/kill/43982525/
+ 381 | Taranis                                    |       613,752,446.89 | https://zkillboard.com/kill/72002979/
+ 382 | 'Magpie' Mobile Tractor Unit               |       611,418,629.00 | https://zkillboard.com/kill/82355131/
+ 383 | Keres                                      |       610,686,986.16 | https://zkillboard.com/kill/78790414/
+ 384 | Coercer                                    |       604,977,782.73 | https://zkillboard.com/kill/29640592/
+ 385 | Thalia                                     |       534,179,030.38 | https://zkillboard.com/kill/81571571/
+ 386 | Merlin Nugoeihuvi Edition                  |       549,166,299.50 | https://zkillboard.com/kill/44578024/
+ 387 | Crucifier Navy Issue                       |       525,194,448.61 | https://zkillboard.com/kill/80509645/
  388 | Serpentis Control Tower Small              |       498,999,999.50 | https://zkillboard.com/kill/293923/
  389 | Merlin                                     |       481,324,673.51 | https://zkillboard.com/kill/63881123/
  390 | Celestis                                   |       469,142,969.45 | https://zkillboard.com/kill/30452012/
