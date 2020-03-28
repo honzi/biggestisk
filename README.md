@@ -42,31 +42,31 @@ Rank | Destroyed                                  | ISK Value            | Link
   33 | Vangel                                     |   103,776,919,955.60 | https://zkillboard.com/kill/22278966/
   34 | Whiptail                                   |   103,085,417,188.60 | https://zkillboard.com/kill/75560800/
   35 | Silver Magnate                             |   102,740,300,346.28 | https://zkillboard.com/kill/66370950/
-  36 | Vargur                                     |   100,826,201,220.33 | https://zkillboard.com/kill/51482562/
-  37 | Cambion                                    |   100,079,013,469.54 | https://zkillboard.com/kill/32369995/
-  38 | Etana                                      |   100,035,144,752.95 | https://zkillboard.com/kill/56613434/
-  39 | Primae                                     |    96,134,960,843.63 | https://zkillboard.com/kill/15201225/
-  40 | Azbel                                      |    91,547,734,012.72 | https://zkillboard.com/kill/74813118/
-  41 | Widow                                      |    90,327,024,099.98 | https://zkillboard.com/kill/80681361/
-  42 | 'Draccous' Fortizar                        |    88,213,901,868.96 | https://zkillboard.com/kill/70668698/
-  43 | 'Moreau' Fortizar                          |    85,955,144,535.83 | https://zkillboard.com/kill/71297180/
-  44 | 'Prometheus' Fortizar                      |    83,517,433,111.51 | https://zkillboard.com/kill/70844463/
-  45 | Vehement                                   |    83,194,308,231.78 | https://zkillboard.com/kill/77855451/
-  46 | Nomad                                      |    82,303,714,141.83 | https://zkillboard.com/kill/81218404/
-  47 | Utu                                        |    81,620,840,543.61 | https://zkillboard.com/kill/14417218/
-  48 | Malediction                                |    80,189,997,922.12 | https://zkillboard.com/kill/79616971/
-  49 | Malice                                     |    80,016,825,713.74 | https://zkillboard.com/kill/26777738/
-  50 | Hematos                                    |    79,684,772,715.41 | https://zkillboard.com/kill/79649125/
-  51 | 'Horizon' Fortizar                         |    75,513,446,687.66 | https://zkillboard.com/kill/72362136/
-  52 | Machariel                                  |    68,211,833,765.20 | https://zkillboard.com/kill/27694789/
-  53 | 'Marginis' Fortizar                        |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
-  54 | Ark                                        |    65,116,217,444.57 | https://zkillboard.com/kill/74352396/
-  55 | Aeon                                       |    64,453,411,196.63 | https://zkillboard.com/kill/12583986/
-  56 | Hel                                        |    61,667,309,269.63 | https://zkillboard.com/kill/66112586/
-  57 | Rorqual                                    |    54,746,712,831.88 | https://zkillboard.com/kill/68363661/
-  58 | Wyvern                                     |    50,620,327,578.42 | https://zkillboard.com/kill/38862700/
-  59 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
-  60 | Nyx                                        |    44,873,542,708.44 | https://zkillboard.com/kill/61130240/
+  36 | Nyx                                        |   101,618,804,133.50 | https://zkillboard.com/kill/58707661/
+  37 | Vargur                                     |   100,826,201,220.33 | https://zkillboard.com/kill/51482562/
+  38 | Cambion                                    |   100,079,013,469.54 | https://zkillboard.com/kill/32369995/
+  39 | Etana                                      |   100,035,144,752.95 | https://zkillboard.com/kill/56613434/
+  40 | Primae                                     |    96,134,960,843.63 | https://zkillboard.com/kill/15201225/
+  41 | Azbel                                      |    91,547,734,012.72 | https://zkillboard.com/kill/74813118/
+  42 | Widow                                      |    90,327,024,099.98 | https://zkillboard.com/kill/80681361/
+  43 | 'Draccous' Fortizar                        |    88,213,901,868.96 | https://zkillboard.com/kill/70668698/
+  44 | 'Moreau' Fortizar                          |    85,955,144,535.83 | https://zkillboard.com/kill/71297180/
+  45 | 'Prometheus' Fortizar                      |    83,517,433,111.51 | https://zkillboard.com/kill/70844463/
+  46 | Vehement                                   |    83,194,308,231.78 | https://zkillboard.com/kill/77855451/
+  47 | Nomad                                      |    82,303,714,141.83 | https://zkillboard.com/kill/81218404/
+  48 | Utu                                        |    81,620,840,543.61 | https://zkillboard.com/kill/14417218/
+  49 | Malediction                                |    80,189,997,922.12 | https://zkillboard.com/kill/79616971/
+  50 | Malice                                     |    80,016,825,713.74 | https://zkillboard.com/kill/26777738/
+  51 | Hematos                                    |    79,684,772,715.41 | https://zkillboard.com/kill/79649125/
+  52 | 'Horizon' Fortizar                         |    75,513,446,687.66 | https://zkillboard.com/kill/72362136/
+  53 | Machariel                                  |    68,211,833,765.20 | https://zkillboard.com/kill/27694789/
+  54 | 'Marginis' Fortizar                        |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
+  55 | Ark                                        |    65,116,217,444.57 | https://zkillboard.com/kill/74352396/
+  56 | Aeon                                       |    64,453,411,196.63 | https://zkillboard.com/kill/12583986/
+  57 | Hel                                        |    61,667,309,269.63 | https://zkillboard.com/kill/66112586/
+  58 | Rorqual                                    |    54,746,712,831.88 | https://zkillboard.com/kill/68363661/
+  59 | Wyvern                                     |    50,620,327,578.42 | https://zkillboard.com/kill/38862700/
+  60 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
   61 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
   62 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
   63 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
