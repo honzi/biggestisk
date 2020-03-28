@@ -61,21 +61,21 @@ Rank | Destroyed                                  | ISK Value            | Link
   52 | Machariel                                  |    68,211,833,765.20 | https://zkillboard.com/kill/27694789/
   53 | 'Marginis' Fortizar                        |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
   54 | Ark                                        |    65,116,217,444.57 | https://zkillboard.com/kill/74352396/
-  55 | Hel                                        |    61,667,309,269.63 | https://zkillboard.com/kill/66112586/
-  56 | Rorqual                                    |    54,746,712,831.88 | https://zkillboard.com/kill/68363661/
-  57 | Wyvern                                     |    50,620,327,578.42 | https://zkillboard.com/kill/38862700/
-  58 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
-  59 | Nyx                                        |    44,873,542,708.44 | https://zkillboard.com/kill/61130240/
-  60 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
-  61 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
-  62 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
-  63 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
-  64 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
-  65 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
-  66 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
-  67 | Typhoon Fleet Issue                        |    34,910,682,319.93 | https://zkillboard.com/kill/55798335/
-  68 | Svipul                                     |    34,295,908,810.48 | https://zkillboard.com/kill/54887995/
-  69 | Aeon                                       |    34,235,329,861.50 | https://zkillboard.com/kill/3613935/
+  55 | Aeon                                       |    64,453,411,196.63 | https://zkillboard.com/kill/12583986/
+  56 | Hel                                        |    61,667,309,269.63 | https://zkillboard.com/kill/66112586/
+  57 | Rorqual                                    |    54,746,712,831.88 | https://zkillboard.com/kill/68363661/
+  58 | Wyvern                                     |    50,620,327,578.42 | https://zkillboard.com/kill/38862700/
+  59 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
+  60 | Nyx                                        |    44,873,542,708.44 | https://zkillboard.com/kill/61130240/
+  61 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
+  62 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
+  63 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
+  64 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
+  65 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
+  66 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
+  67 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
+  68 | Typhoon Fleet Issue                        |    34,910,682,319.93 | https://zkillboard.com/kill/55798335/
+  69 | Svipul                                     |    34,295,908,810.48 | https://zkillboard.com/kill/54887995/
   70 | Ibis                                       |    29,808,415,926.17 | https://zkillboard.com/kill/79634531/
   71 | Raven Navy Issue                           |    29,219,136,218.19 | https://zkillboard.com/kill/67360198/
   72 | Rattlesnake                                |    28,445,017,336.33 | https://zkillboard.com/kill/52048880/
