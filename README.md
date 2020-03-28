@@ -63,16 +63,16 @@ Rank | Destroyed                                  | ISK Value            | Link
   54 | Ark                                        |    65,116,217,444.57 | https://zkillboard.com/kill/74352396/
   55 | Hel                                        |    61,667,309,269.63 | https://zkillboard.com/kill/66112586/
   56 | Rorqual                                    |    54,746,712,831.88 | https://zkillboard.com/kill/68363661/
-  57 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
-  58 | Nyx                                        |    44,873,542,708.44 | https://zkillboard.com/kill/61130240/
-  59 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
-  60 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
-  61 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
-  62 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
-  63 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
-  64 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
-  65 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
-  66 | Wyvern                                     |    34,926,140,191.25 | https://zkillboard.com/kill/73573293/
+  57 | Wyvern                                     |    50,620,327,578.42 | https://zkillboard.com/kill/38862700/
+  58 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
+  59 | Nyx                                        |    44,873,542,708.44 | https://zkillboard.com/kill/61130240/
+  60 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
+  61 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
+  62 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
+  63 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
+  64 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
+  65 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
+  66 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
   67 | Typhoon Fleet Issue                        |    34,910,682,319.93 | https://zkillboard.com/kill/55798335/
   68 | Svipul                                     |    34,295,908,810.48 | https://zkillboard.com/kill/54887995/
   69 | Aeon                                       |    34,235,329,861.50 | https://zkillboard.com/kill/3613935/
