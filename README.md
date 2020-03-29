@@ -334,150 +334,151 @@ Rank | Destroyed                                  | ISK Value            | Link
  325 | Exequror Navy Issue                        |     1,208,640,211.25 | https://zkillboard.com/kill/29372701/
  326 | Kryos                                      |     1,193,774,586.87 | https://zkillboard.com/kill/68100988/
  327 | Aliastra Catalyst                          |     1,191,686,731.30 | https://zkillboard.com/kill/27309041/
- 328 | Blood Control Tower                        |     1,132,750,000.46 | https://zkillboard.com/kill/32171466/
- 329 | Basilisk                                   |     1,120,142,509.12 | https://zkillboard.com/kill/43797037/
- 330 | Epithal                                    |     1,118,761,879.67 | https://zkillboard.com/kill/68867957/
- 331 | Huginn                                     |     1,112,001,014.26 | https://zkillboard.com/kill/46320908/
- 332 | Condor                                     |     1,086,128,326.11 | https://zkillboard.com/kill/71813765/
- 333 | Scimitar                                   |     1,075,238,449.06 | https://zkillboard.com/kill/52962828/
- 334 | Flycatcher                                 |     1,051,777,447.31 | https://zkillboard.com/kill/80288805/
- 335 | Falcon                                     |     1,051,315,063.60 | https://zkillboard.com/kill/69625426/
- 336 | Imicus                                     |     1,029,423,578.26 | https://zkillboard.com/kill/25103357/
- 337 | Iteron Inner Zone Shipping Edition         |     1,006,479,449.35 | https://zkillboard.com/kill/39624917/
- 338 | Dread Guristas Control Tower Medium        |       998,197,397.90 | https://zkillboard.com/kill/29335998/
- 339 | Slasher                                    |       993,689,582.70 | https://zkillboard.com/kill/82246361/
- 340 | Abaddon Tash-Murkon Edition                |       988,026,927.08 | https://zkillboard.com/kill/41388287/
- 341 | Heretic                                    |       973,185,088.72 | https://zkillboard.com/kill/73626533/
- 342 | Dominix Quafe Edition                      |       959,188,069.93 | https://zkillboard.com/kill/45498604/
- 343 | Nemesis                                    |       958,675,539.33 | https://zkillboard.com/kill/72932759/
- 344 | Hoarder                                    |       952,639,299.61 | https://zkillboard.com/kill/29495275/
- 345 | Leopard                                    |       947,416,140.54 | https://zkillboard.com/kill/82241006/
- 346 | Bifrost                                    |       943,105,085.78 | https://zkillboard.com/kill/75110879/
- 347 | Quafe Catalyst                             |       938,751,514.29 | https://zkillboard.com/kill/40111813/
- 348 | Ferox                                      |       934,917,278.89 | https://zkillboard.com/kill/27813390/
- 349 | Cormorant                                  |       934,440,219.16 | https://zkillboard.com/kill/64920478/
- 350 | Serpentis Control Tower                    |       931,271,643.20 | https://zkillboard.com/kill/41413583/
- 351 | Anathema                                   |       931,035,912.19 | https://zkillboard.com/kill/49128822/
- 352 | Corax                                      |       929,889,091.16 | https://zkillboard.com/kill/30230881/
- 353 | Augoror                                    |       927,771,053.21 | https://zkillboard.com/kill/29963577/
- 354 | Victorieux Luxury Yacht                    |       916,120,124.85 | https://zkillboard.com/kill/67869076/
- 355 | Intaki Syndicate Catalyst                  |       913,035,396.69 | https://zkillboard.com/kill/29481648/
- 356 | Sentinel                                   |       909,151,221.11 | https://zkillboard.com/kill/69379217/
- 357 | Concord Special Ops Battleship             |       908,012,876.10 | https://zkillboard.com/kill/13753189/
- 358 | Reaper                                     |       904,291,253.20 | https://zkillboard.com/kill/56445501/
- 359 | Osprey Navy Issue                          |       903,891,329.12 | https://zkillboard.com/kill/81438291/
- 360 | Noctis                                     |       903,595,147.81 | https://zkillboard.com/kill/80156986/
- 361 | Dark Blood Control Tower Medium            |       899,999,499.50 | https://zkillboard.com/kill/352503/
- 362 | Helios                                     |       883,561,914.15 | https://zkillboard.com/kill/42566599/
- 363 | Brutix Serpentis Edition                   |       882,221,463.67 | https://zkillboard.com/kill/40022639/
- 364 | Serpentis Control Tower Medium             |       869,999,994.99 | https://zkillboard.com/kill/8300082/
- 365 | Endurance                                  |       868,903,490.55 | https://zkillboard.com/kill/52425946/
- 366 | Osprey                                     |       853,936,397.52 | https://zkillboard.com/kill/22643105/
- 367 | Sansha Control Tower                       |       842,794,448.24 | https://zkillboard.com/kill/41136912/
- 368 | Domination Control Tower Medium            |       839,349,947.46 | https://zkillboard.com/kill/12081476/
- 369 | Algos                                      |       838,692,057.15 | https://zkillboard.com/kill/64395809/
- 370 | Caracal Wiyrkomi Edition                   |       837,505,942.38 | https://zkillboard.com/kill/42087586/
- 371 | Shadow Control Tower Medium                |       835,950,949.50 | https://zkillboard.com/kill/42193283/
- 372 | Police Pursuit Comet                       |       824,113,430.17 | https://zkillboard.com/kill/45074279/
- 373 | Atron                                      |       798,871,905.51 | https://zkillboard.com/kill/39845162/
- 374 | Crusader                                   |       782,919,160.44 | https://zkillboard.com/kill/59888530/
- 375 | Mammoth Nefantar Edition                   |       777,119,451.61 | https://zkillboard.com/kill/40697423/
- 376 | Domination Control Tower Small             |       769,999,499.50 | https://zkillboard.com/kill/2479655/
- 377 | Dark Blood Control Tower Small             |       758,899,999.99 | https://zkillboard.com/kill/2501536/
- 378 | Venture                                    |       758,510,959.42 | https://zkillboard.com/kill/54285145/
- 379 | Bellicose                                  |       753,158,919.68 | https://zkillboard.com/kill/3617443/
- 380 | Angel Control Tower Medium                 |       749,400,000.00 | https://zkillboard.com/kill/4193118/
- 381 | Thrasher Thukker Tribe Edition             |       741,187,143.58 | https://zkillboard.com/kill/45771231/
- 382 | Magnate                                    |       733,951,699.47 | https://zkillboard.com/kill/60766146/
- 383 | Prospect                                   |       733,740,174.66 | https://zkillboard.com/kill/50797352/
- 384 | Sabre                                      |       718,270,948.04 | https://zkillboard.com/kill/70645634/
- 385 | Caracal                                    |       713,817,142.50 | https://zkillboard.com/kill/76897647/
- 386 | Shadow Control Tower Small                 |       698,000,049.50 | https://zkillboard.com/kill/2031960/
- 387 | InterBus Catalyst                          |       695,264,105.73 | https://zkillboard.com/kill/30168373/
- 388 | Tornado                                    |       689,698,955.41 | https://zkillboard.com/kill/28259637/
- 389 | Scythe                                     |       683,413,147.04 | https://zkillboard.com/kill/37857408/
- 390 | Buzzard                                    |       673,464,477.35 | https://zkillboard.com/kill/34369493/
- 391 | Kestrel                                    |       672,557,695.71 | https://zkillboard.com/kill/25586599/
- 392 | Stabber                                    |       664,162,788.21 | https://zkillboard.com/kill/63650989/
- 393 | Shadow                                     |       663,151,969.92 | https://zkillboard.com/kill/69953902/
- 394 | Ferox Guristas Edition                     |       660,971,414.92 | https://zkillboard.com/kill/44537106/
- 395 | Breacher                                   |       647,927,632.19 | https://zkillboard.com/kill/54882438/
- 396 | Talwar                                     |       645,822,989.14 | https://zkillboard.com/kill/38179874/
- 397 | Raptor                                     |       636,397,714.61 | https://zkillboard.com/kill/67444009/
- 398 | Stabber Krusual Edition                    |       621,558,143.90 | https://zkillboard.com/kill/43982525/
- 399 | Taranis                                    |       613,752,446.89 | https://zkillboard.com/kill/72002979/
- 400 | Keres                                      |       610,686,986.16 | https://zkillboard.com/kill/78790414/
- 401 | Coercer                                    |       604,977,782.73 | https://zkillboard.com/kill/29640592/
- 402 | Thalia                                     |       534,179,030.38 | https://zkillboard.com/kill/81571571/
- 403 | Merlin Nugoeihuvi Edition                  |       549,166,299.50 | https://zkillboard.com/kill/44578024/
- 404 | Crucifier Navy Issue                       |       525,194,448.61 | https://zkillboard.com/kill/80509645/
- 405 | Sansha Control Tower Small                 |       500,000,000.00 | https://zkillboard.com/kill/27805187/
- 406 | Serpentis Control Tower Small              |       498,999,999.50 | https://zkillboard.com/kill/293923/
- 407 | Merlin                                     |       481,324,673.51 | https://zkillboard.com/kill/63881123/
- 408 | Celestis                                   |       469,142,969.45 | https://zkillboard.com/kill/30452012/
- 409 | Angel Control Tower Small                  |       457,500,000.00 | https://zkillboard.com/kill/1937173/
- 410 | Deacon                                     |       448,308,018.81 | https://zkillboard.com/kill/55841171/
- 411 | Maulus Navy Issue                          |       443,135,423.45 | https://zkillboard.com/kill/62695247/
- 412 | Cheetah                                    |       430,882,174.16 | https://zkillboard.com/kill/79167159/
- 413 | Sunesis                                    |       420,190,576.41 | https://zkillboard.com/kill/65346528/
- 414 | Caracal Nugoeihuvi Edition                 |       419,167,408.78 | https://zkillboard.com/kill/42727503/
- 415 | Omen Kador Edition                         |       416,651,334.10 | https://zkillboard.com/kill/40385874/
- 416 | Blackbird                                  |       414,481,570.31 | https://zkillboard.com/kill/64593573/
- 417 | Bantam                                     |       409,516,641.35 | https://zkillboard.com/kill/25491003/
- 418 | Concord SWAT Battleship                    |       401,711,415.79 | https://zkillboard.com/kill/33493600/
- 419 | Vigil Fleet Issue                          |       398,386,471.85 | https://zkillboard.com/kill/77523845/
- 420 | Tormentor                                  |       388,565,151.06 | https://zkillboard.com/kill/72202266/
- 421 | Omen                                       |       386,538,018.05 | https://zkillboard.com/kill/4724037/
- 422 | Tash-Murkon Magnate                        |       381,694,275.09 | https://zkillboard.com/kill/34402852/
- 423 | Cyclone Thukker Tribe Edition              |       379,518,781.59 | https://zkillboard.com/kill/41648460/
- 424 | Incursus Aliastra Edition                  |       362,155,399.61 | https://zkillboard.com/kill/41478151/
- 425 | Tristan Quafe Edition                      |       350,716,935.61 | https://zkillboard.com/kill/45678409/
- 426 | Omen Tash-Murkon Edition                   |       338,811,031.02 | https://zkillboard.com/kill/43405588/
- 427 | Probe                                      |       329,416,623.63 | https://zkillboard.com/kill/52303367/
- 428 | Blood Control Tower Medium                 |       326,307,481.42 | https://zkillboard.com/kill/35610264/
- 429 | Catalyst Serpentis Edition                 |       323,875,111.99 | https://zkillboard.com/kill/40465815/
- 430 | Hyena                                      |       322,645,113.30 | https://zkillboard.com/kill/68494967/
- 431 | Dragoon                                    |       313,056,595.71 | https://zkillboard.com/kill/68979403/
- 432 | Navitas                                    |       297,261,504.13 | https://zkillboard.com/kill/43987739/
- 433 | Vexor Quafe Edition                        |       296,639,604.63 | https://zkillboard.com/kill/45485383/
- 434 | Sansha Control Tower Medium                |       291,621,944.75 | https://zkillboard.com/kill/79339468/
- 435 | Blood Control Tower Small                  |       264,827,744.43 | https://zkillboard.com/kill/79823919/
- 436 | Scalpel                                    |       263,004,205.10 | https://zkillboard.com/kill/51966832/
- 437 | Griffin Navy Issue                         |       262,457,882.59 | https://zkillboard.com/kill/67288101/
- 438 | Maulus                                     |       248,558,093.72 | https://zkillboard.com/kill/80077718/
- 439 | Burst                                      |       240,350,639.64 | https://zkillboard.com/kill/49339940/
- 440 | Inquisitor                                 |       239,428,001.99 | https://zkillboard.com/kill/77505700/
- 441 | Coercer Blood Raiders Edition              |       231,749,728.83 | https://zkillboard.com/kill/39482906/
- 442 | Punisher Kador Edition                     |       210,697,090.46 | https://zkillboard.com/kill/40650905/
- 443 | Cynosural System Jammer                    |       209,670,333.22 | https://zkillboard.com/kill/71861035/
- 444 | Amarr Shuttle                              |       199,581,813.82 | https://zkillboard.com/kill/82223416/
- 445 | Griffin                                    |       194,561,566.17 | https://zkillboard.com/kill/71959189/
- 446 | Small Mobile 'Hybrid' Siphon Unit          |       185,846,826.58 | https://zkillboard.com/kill/44924268/
- 447 | Inner Zone Shipping Catalyst               |       176,233,205.80 | https://zkillboard.com/kill/29295146/
- 448 | Stabber Nefantar Edition                   |       171,461,479.16 | https://zkillboard.com/kill/41384304/
- 449 | Kitsune                                    |       154,039,669.89 | https://zkillboard.com/kill/74902644/
- 450 | Cormorant Guristas Edition                 |       146,755,525.32 | https://zkillboard.com/kill/45542839/
- 451 | Minmatar Shuttle                           |       131,891,945.80 | https://zkillboard.com/kill/82438226/
- 452 | Kirin                                      |       128,309,236.29 | https://zkillboard.com/kill/50607642/
- 453 | Thorax Inner Zone Shipping Edition         |       121,292,846.45 | https://zkillboard.com/kill/42935364/
- 454 | Vigil                                      |       113,906,220.99 | https://zkillboard.com/kill/49085318/
- 455 | Concord Special Ops Frigate                |       108,507,511.16 | https://zkillboard.com/kill/12816753/
- 456 | Incursus Inner Zone Shipping Edition       |       107,434,728.24 | https://zkillboard.com/kill/45327486/
- 457 | Small Mobile 'Rote' Siphon Unit            |        96,611,242.40 | https://zkillboard.com/kill/54274189/
- 458 | Drug Lab                                   |        83,102,018.95 | https://zkillboard.com/kill/54948225/
- 459 | Thukker Component Assembly Array           |        81,247,327.31 | https://zkillboard.com/kill/63109174/
- 460 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
- 461 | Rapid Equipment Assembly Array             |        51,547,030.71 | https://zkillboard.com/kill/55407253/
- 462 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
- 463 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
- 464 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
- 465 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
- 466 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
- 467 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
- 468 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 469 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 470 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 471 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 472 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 473 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 474 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 328 | Dread Guristas Control Tower Small         |     1,136,000,000.00 | https://zkillboard.com/kill/9749271/
+ 329 | Blood Control Tower                        |     1,132,750,000.46 | https://zkillboard.com/kill/32171466/
+ 330 | Basilisk                                   |     1,120,142,509.12 | https://zkillboard.com/kill/43797037/
+ 331 | Epithal                                    |     1,118,761,879.67 | https://zkillboard.com/kill/68867957/
+ 332 | Huginn                                     |     1,112,001,014.26 | https://zkillboard.com/kill/46320908/
+ 333 | Condor                                     |     1,086,128,326.11 | https://zkillboard.com/kill/71813765/
+ 334 | Scimitar                                   |     1,075,238,449.06 | https://zkillboard.com/kill/52962828/
+ 335 | Flycatcher                                 |     1,051,777,447.31 | https://zkillboard.com/kill/80288805/
+ 336 | Falcon                                     |     1,051,315,063.60 | https://zkillboard.com/kill/69625426/
+ 337 | Imicus                                     |     1,029,423,578.26 | https://zkillboard.com/kill/25103357/
+ 338 | Iteron Inner Zone Shipping Edition         |     1,006,479,449.35 | https://zkillboard.com/kill/39624917/
+ 339 | Dread Guristas Control Tower Medium        |       998,197,397.90 | https://zkillboard.com/kill/29335998/
+ 340 | Slasher                                    |       993,689,582.70 | https://zkillboard.com/kill/82246361/
+ 341 | Abaddon Tash-Murkon Edition                |       988,026,927.08 | https://zkillboard.com/kill/41388287/
+ 342 | Heretic                                    |       973,185,088.72 | https://zkillboard.com/kill/73626533/
+ 343 | Dominix Quafe Edition                      |       959,188,069.93 | https://zkillboard.com/kill/45498604/
+ 344 | Nemesis                                    |       958,675,539.33 | https://zkillboard.com/kill/72932759/
+ 345 | Hoarder                                    |       952,639,299.61 | https://zkillboard.com/kill/29495275/
+ 346 | Leopard                                    |       947,416,140.54 | https://zkillboard.com/kill/82241006/
+ 347 | Bifrost                                    |       943,105,085.78 | https://zkillboard.com/kill/75110879/
+ 348 | Quafe Catalyst                             |       938,751,514.29 | https://zkillboard.com/kill/40111813/
+ 349 | Ferox                                      |       934,917,278.89 | https://zkillboard.com/kill/27813390/
+ 350 | Cormorant                                  |       934,440,219.16 | https://zkillboard.com/kill/64920478/
+ 351 | Serpentis Control Tower                    |       931,271,643.20 | https://zkillboard.com/kill/41413583/
+ 352 | Anathema                                   |       931,035,912.19 | https://zkillboard.com/kill/49128822/
+ 353 | Corax                                      |       929,889,091.16 | https://zkillboard.com/kill/30230881/
+ 354 | Augoror                                    |       927,771,053.21 | https://zkillboard.com/kill/29963577/
+ 355 | Victorieux Luxury Yacht                    |       916,120,124.85 | https://zkillboard.com/kill/67869076/
+ 356 | Intaki Syndicate Catalyst                  |       913,035,396.69 | https://zkillboard.com/kill/29481648/
+ 357 | Sentinel                                   |       909,151,221.11 | https://zkillboard.com/kill/69379217/
+ 358 | Concord Special Ops Battleship             |       908,012,876.10 | https://zkillboard.com/kill/13753189/
+ 359 | Reaper                                     |       904,291,253.20 | https://zkillboard.com/kill/56445501/
+ 360 | Osprey Navy Issue                          |       903,891,329.12 | https://zkillboard.com/kill/81438291/
+ 361 | Noctis                                     |       903,595,147.81 | https://zkillboard.com/kill/80156986/
+ 362 | Dark Blood Control Tower Medium            |       899,999,499.50 | https://zkillboard.com/kill/352503/
+ 363 | Helios                                     |       883,561,914.15 | https://zkillboard.com/kill/42566599/
+ 364 | Brutix Serpentis Edition                   |       882,221,463.67 | https://zkillboard.com/kill/40022639/
+ 365 | Serpentis Control Tower Medium             |       869,999,994.99 | https://zkillboard.com/kill/8300082/
+ 366 | Endurance                                  |       868,903,490.55 | https://zkillboard.com/kill/52425946/
+ 367 | Osprey                                     |       853,936,397.52 | https://zkillboard.com/kill/22643105/
+ 368 | Sansha Control Tower                       |       842,794,448.24 | https://zkillboard.com/kill/41136912/
+ 369 | Domination Control Tower Medium            |       839,349,947.46 | https://zkillboard.com/kill/12081476/
+ 370 | Algos                                      |       838,692,057.15 | https://zkillboard.com/kill/64395809/
+ 371 | Caracal Wiyrkomi Edition                   |       837,505,942.38 | https://zkillboard.com/kill/42087586/
+ 372 | Shadow Control Tower Medium                |       835,950,949.50 | https://zkillboard.com/kill/42193283/
+ 373 | Police Pursuit Comet                       |       824,113,430.17 | https://zkillboard.com/kill/45074279/
+ 374 | Atron                                      |       798,871,905.51 | https://zkillboard.com/kill/39845162/
+ 375 | Crusader                                   |       782,919,160.44 | https://zkillboard.com/kill/59888530/
+ 376 | Mammoth Nefantar Edition                   |       777,119,451.61 | https://zkillboard.com/kill/40697423/
+ 377 | Domination Control Tower Small             |       769,999,499.50 | https://zkillboard.com/kill/2479655/
+ 378 | Dark Blood Control Tower Small             |       758,899,999.99 | https://zkillboard.com/kill/2501536/
+ 379 | Venture                                    |       758,510,959.42 | https://zkillboard.com/kill/54285145/
+ 380 | Bellicose                                  |       753,158,919.68 | https://zkillboard.com/kill/3617443/
+ 381 | Angel Control Tower Medium                 |       749,400,000.00 | https://zkillboard.com/kill/4193118/
+ 382 | Thrasher Thukker Tribe Edition             |       741,187,143.58 | https://zkillboard.com/kill/45771231/
+ 383 | Magnate                                    |       733,951,699.47 | https://zkillboard.com/kill/60766146/
+ 384 | Prospect                                   |       733,740,174.66 | https://zkillboard.com/kill/50797352/
+ 385 | Sabre                                      |       718,270,948.04 | https://zkillboard.com/kill/70645634/
+ 386 | Caracal                                    |       713,817,142.50 | https://zkillboard.com/kill/76897647/
+ 387 | Shadow Control Tower Small                 |       698,000,049.50 | https://zkillboard.com/kill/2031960/
+ 388 | InterBus Catalyst                          |       695,264,105.73 | https://zkillboard.com/kill/30168373/
+ 389 | Tornado                                    |       689,698,955.41 | https://zkillboard.com/kill/28259637/
+ 390 | Scythe                                     |       683,413,147.04 | https://zkillboard.com/kill/37857408/
+ 391 | Buzzard                                    |       673,464,477.35 | https://zkillboard.com/kill/34369493/
+ 392 | Kestrel                                    |       672,557,695.71 | https://zkillboard.com/kill/25586599/
+ 393 | Stabber                                    |       664,162,788.21 | https://zkillboard.com/kill/63650989/
+ 394 | Shadow                                     |       663,151,969.92 | https://zkillboard.com/kill/69953902/
+ 395 | Ferox Guristas Edition                     |       660,971,414.92 | https://zkillboard.com/kill/44537106/
+ 396 | Breacher                                   |       647,927,632.19 | https://zkillboard.com/kill/54882438/
+ 397 | Talwar                                     |       645,822,989.14 | https://zkillboard.com/kill/38179874/
+ 398 | Raptor                                     |       636,397,714.61 | https://zkillboard.com/kill/67444009/
+ 399 | Stabber Krusual Edition                    |       621,558,143.90 | https://zkillboard.com/kill/43982525/
+ 400 | Taranis                                    |       613,752,446.89 | https://zkillboard.com/kill/72002979/
+ 401 | Keres                                      |       610,686,986.16 | https://zkillboard.com/kill/78790414/
+ 402 | Coercer                                    |       604,977,782.73 | https://zkillboard.com/kill/29640592/
+ 403 | Thalia                                     |       534,179,030.38 | https://zkillboard.com/kill/81571571/
+ 404 | Merlin Nugoeihuvi Edition                  |       549,166,299.50 | https://zkillboard.com/kill/44578024/
+ 405 | Crucifier Navy Issue                       |       525,194,448.61 | https://zkillboard.com/kill/80509645/
+ 406 | Sansha Control Tower Small                 |       500,000,000.00 | https://zkillboard.com/kill/27805187/
+ 407 | Serpentis Control Tower Small              |       498,999,999.50 | https://zkillboard.com/kill/293923/
+ 408 | Merlin                                     |       481,324,673.51 | https://zkillboard.com/kill/63881123/
+ 409 | Celestis                                   |       469,142,969.45 | https://zkillboard.com/kill/30452012/
+ 410 | Angel Control Tower Small                  |       457,500,000.00 | https://zkillboard.com/kill/1937173/
+ 411 | Deacon                                     |       448,308,018.81 | https://zkillboard.com/kill/55841171/
+ 412 | Maulus Navy Issue                          |       443,135,423.45 | https://zkillboard.com/kill/62695247/
+ 413 | Cheetah                                    |       430,882,174.16 | https://zkillboard.com/kill/79167159/
+ 414 | Sunesis                                    |       420,190,576.41 | https://zkillboard.com/kill/65346528/
+ 415 | Caracal Nugoeihuvi Edition                 |       419,167,408.78 | https://zkillboard.com/kill/42727503/
+ 416 | Omen Kador Edition                         |       416,651,334.10 | https://zkillboard.com/kill/40385874/
+ 417 | Blackbird                                  |       414,481,570.31 | https://zkillboard.com/kill/64593573/
+ 418 | Bantam                                     |       409,516,641.35 | https://zkillboard.com/kill/25491003/
+ 419 | Concord SWAT Battleship                    |       401,711,415.79 | https://zkillboard.com/kill/33493600/
+ 420 | Vigil Fleet Issue                          |       398,386,471.85 | https://zkillboard.com/kill/77523845/
+ 421 | Tormentor                                  |       388,565,151.06 | https://zkillboard.com/kill/72202266/
+ 422 | Omen                                       |       386,538,018.05 | https://zkillboard.com/kill/4724037/
+ 423 | Tash-Murkon Magnate                        |       381,694,275.09 | https://zkillboard.com/kill/34402852/
+ 424 | Cyclone Thukker Tribe Edition              |       379,518,781.59 | https://zkillboard.com/kill/41648460/
+ 425 | Incursus Aliastra Edition                  |       362,155,399.61 | https://zkillboard.com/kill/41478151/
+ 426 | Tristan Quafe Edition                      |       350,716,935.61 | https://zkillboard.com/kill/45678409/
+ 427 | Omen Tash-Murkon Edition                   |       338,811,031.02 | https://zkillboard.com/kill/43405588/
+ 428 | Probe                                      |       329,416,623.63 | https://zkillboard.com/kill/52303367/
+ 429 | Blood Control Tower Medium                 |       326,307,481.42 | https://zkillboard.com/kill/35610264/
+ 430 | Catalyst Serpentis Edition                 |       323,875,111.99 | https://zkillboard.com/kill/40465815/
+ 431 | Hyena                                      |       322,645,113.30 | https://zkillboard.com/kill/68494967/
+ 432 | Dragoon                                    |       313,056,595.71 | https://zkillboard.com/kill/68979403/
+ 433 | Navitas                                    |       297,261,504.13 | https://zkillboard.com/kill/43987739/
+ 434 | Vexor Quafe Edition                        |       296,639,604.63 | https://zkillboard.com/kill/45485383/
+ 435 | Sansha Control Tower Medium                |       291,621,944.75 | https://zkillboard.com/kill/79339468/
+ 436 | Blood Control Tower Small                  |       264,827,744.43 | https://zkillboard.com/kill/79823919/
+ 437 | Scalpel                                    |       263,004,205.10 | https://zkillboard.com/kill/51966832/
+ 438 | Griffin Navy Issue                         |       262,457,882.59 | https://zkillboard.com/kill/67288101/
+ 439 | Maulus                                     |       248,558,093.72 | https://zkillboard.com/kill/80077718/
+ 440 | Burst                                      |       240,350,639.64 | https://zkillboard.com/kill/49339940/
+ 441 | Inquisitor                                 |       239,428,001.99 | https://zkillboard.com/kill/77505700/
+ 442 | Coercer Blood Raiders Edition              |       231,749,728.83 | https://zkillboard.com/kill/39482906/
+ 443 | Punisher Kador Edition                     |       210,697,090.46 | https://zkillboard.com/kill/40650905/
+ 444 | Cynosural System Jammer                    |       209,670,333.22 | https://zkillboard.com/kill/71861035/
+ 445 | Amarr Shuttle                              |       199,581,813.82 | https://zkillboard.com/kill/82223416/
+ 446 | Griffin                                    |       194,561,566.17 | https://zkillboard.com/kill/71959189/
+ 447 | Small Mobile 'Hybrid' Siphon Unit          |       185,846,826.58 | https://zkillboard.com/kill/44924268/
+ 448 | Inner Zone Shipping Catalyst               |       176,233,205.80 | https://zkillboard.com/kill/29295146/
+ 449 | Stabber Nefantar Edition                   |       171,461,479.16 | https://zkillboard.com/kill/41384304/
+ 450 | Kitsune                                    |       154,039,669.89 | https://zkillboard.com/kill/74902644/
+ 451 | Cormorant Guristas Edition                 |       146,755,525.32 | https://zkillboard.com/kill/45542839/
+ 452 | Minmatar Shuttle                           |       131,891,945.80 | https://zkillboard.com/kill/82438226/
+ 453 | Kirin                                      |       128,309,236.29 | https://zkillboard.com/kill/50607642/
+ 454 | Thorax Inner Zone Shipping Edition         |       121,292,846.45 | https://zkillboard.com/kill/42935364/
+ 455 | Vigil                                      |       113,906,220.99 | https://zkillboard.com/kill/49085318/
+ 456 | Concord Special Ops Frigate                |       108,507,511.16 | https://zkillboard.com/kill/12816753/
+ 457 | Incursus Inner Zone Shipping Edition       |       107,434,728.24 | https://zkillboard.com/kill/45327486/
+ 458 | Small Mobile 'Rote' Siphon Unit            |        96,611,242.40 | https://zkillboard.com/kill/54274189/
+ 459 | Drug Lab                                   |        83,102,018.95 | https://zkillboard.com/kill/54948225/
+ 460 | Thukker Component Assembly Array           |        81,247,327.31 | https://zkillboard.com/kill/63109174/
+ 461 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
+ 462 | Rapid Equipment Assembly Array             |        51,547,030.71 | https://zkillboard.com/kill/55407253/
+ 463 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
+ 464 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
+ 465 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
+ 466 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
+ 467 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
+ 468 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
+ 469 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+ 470 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 471 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 472 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 473 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 474 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 475 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
