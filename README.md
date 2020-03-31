@@ -483,9 +483,10 @@ Rank | Destroyed                                  | ISK Value            | Link
  474 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
  475 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
  476 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 477 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 478 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 479 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 480 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 481 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 482 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 477 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
+ 478 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 479 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 480 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 481 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 482 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 483 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
