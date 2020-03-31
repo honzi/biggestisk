@@ -28,7 +28,7 @@ Rank | Destroyed                                  | ISK Value            | Link
   19 | Fiend                                      |   175,425,712,701.48 | https://zkillboard.com/kill/51797738/
   20 | Avatar                                     |   172,334,158,466.62 | https://zkillboard.com/kill/40647458/
   21 | Chameleon                                  |   163,379,669,099.61 | https://zkillboard.com/kill/78373188/
-  22 | Rhea                                       |   159,213,761,759.85 | https://zkillboard.com/kill/82772374/
+  22 | Rhea                                       |   158,797,684,321.91 | https://zkillboard.com/kill/82772374/
   23 | Adrestia                                   |   156,113,811,656.31 | https://zkillboard.com/kill/50724250/
   24 | Virtuoso                                   |   155,529,503,018.16 | https://zkillboard.com/kill/75790303/
   25 | Imp                                        |   147,599,036,862.12 | https://zkillboard.com/kill/77789901/
