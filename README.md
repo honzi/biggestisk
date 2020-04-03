@@ -460,36 +460,37 @@ Rank | Destroyed                                  | ISK Value            | Link
  451 | Amarr Shuttle                              |       199,581,813.82 | https://zkillboard.com/kill/82223416/
  452 | Griffin                                    |       194,561,566.17 | https://zkillboard.com/kill/71959189/
  453 | Small Mobile 'Hybrid' Siphon Unit          |       185,846,826.58 | https://zkillboard.com/kill/44924268/
- 454 | Inner Zone Shipping Catalyst               |       176,233,205.80 | https://zkillboard.com/kill/29295146/
- 455 | Stabber Nefantar Edition                   |       171,461,479.16 | https://zkillboard.com/kill/41384304/
- 456 | Kitsune                                    |       154,039,669.89 | https://zkillboard.com/kill/74902644/
- 457 | Cormorant Guristas Edition                 |       146,755,525.32 | https://zkillboard.com/kill/45542839/
- 458 | Minmatar Shuttle                           |       131,891,945.80 | https://zkillboard.com/kill/82438226/
- 459 | Kirin                                      |       128,309,236.29 | https://zkillboard.com/kill/50607642/
- 460 | Thorax Inner Zone Shipping Edition         |       121,292,846.45 | https://zkillboard.com/kill/42935364/
- 461 | Vigil                                      |       113,906,220.99 | https://zkillboard.com/kill/49085318/
- 462 | Concord Special Ops Frigate                |       108,507,511.16 | https://zkillboard.com/kill/12816753/
- 463 | Incursus Inner Zone Shipping Edition       |       107,434,728.24 | https://zkillboard.com/kill/45327486/
- 464 | Large Ship Assembly Array                  |       106,733,446.95 | https://zkillboard.com/kill/53363179/
- 465 | Small Ship Assembly Array                  |       105,327,042.07 | https://zkillboard.com/kill/55133756/
- 466 | Small Mobile 'Rote' Siphon Unit            |        96,611,242.40 | https://zkillboard.com/kill/54274189/
- 467 | Subsystem Assembly Array                   |        89,939,416.86 | https://zkillboard.com/kill/45530649/
- 468 | Drug Lab                                   |        83,102,018.95 | https://zkillboard.com/kill/54948225/
- 469 | Thukker Component Assembly Array           |        81,247,327.31 | https://zkillboard.com/kill/63109174/
- 470 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
- 471 | Rapid Equipment Assembly Array             |        51,547,030.71 | https://zkillboard.com/kill/55407253/
- 472 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
- 473 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
- 474 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
- 475 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
- 476 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
- 477 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
- 478 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
- 479 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 480 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
- 481 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 482 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 483 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 484 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 485 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 486 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 454 | Advanced Large Ship Assembly Array         |       178,960,234.17 | https://zkillboard.com/kill/80873218/
+ 455 | Inner Zone Shipping Catalyst               |       176,233,205.80 | https://zkillboard.com/kill/29295146/
+ 456 | Stabber Nefantar Edition                   |       171,461,479.16 | https://zkillboard.com/kill/41384304/
+ 457 | Kitsune                                    |       154,039,669.89 | https://zkillboard.com/kill/74902644/
+ 458 | Cormorant Guristas Edition                 |       146,755,525.32 | https://zkillboard.com/kill/45542839/
+ 459 | Minmatar Shuttle                           |       131,891,945.80 | https://zkillboard.com/kill/82438226/
+ 460 | Kirin                                      |       128,309,236.29 | https://zkillboard.com/kill/50607642/
+ 461 | Thorax Inner Zone Shipping Edition         |       121,292,846.45 | https://zkillboard.com/kill/42935364/
+ 462 | Vigil                                      |       113,906,220.99 | https://zkillboard.com/kill/49085318/
+ 463 | Concord Special Ops Frigate                |       108,507,511.16 | https://zkillboard.com/kill/12816753/
+ 464 | Incursus Inner Zone Shipping Edition       |       107,434,728.24 | https://zkillboard.com/kill/45327486/
+ 465 | Large Ship Assembly Array                  |       106,733,446.95 | https://zkillboard.com/kill/53363179/
+ 466 | Small Ship Assembly Array                  |       105,327,042.07 | https://zkillboard.com/kill/55133756/
+ 467 | Small Mobile 'Rote' Siphon Unit            |        96,611,242.40 | https://zkillboard.com/kill/54274189/
+ 468 | Subsystem Assembly Array                   |        89,939,416.86 | https://zkillboard.com/kill/45530649/
+ 469 | Drug Lab                                   |        83,102,018.95 | https://zkillboard.com/kill/54948225/
+ 470 | Thukker Component Assembly Array           |        81,247,327.31 | https://zkillboard.com/kill/63109174/
+ 471 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
+ 472 | Rapid Equipment Assembly Array             |        51,547,030.71 | https://zkillboard.com/kill/55407253/
+ 473 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
+ 474 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
+ 475 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
+ 476 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
+ 477 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
+ 478 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
+ 479 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
+ 480 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+ 481 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
+ 482 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 483 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 484 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 485 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 486 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 487 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
