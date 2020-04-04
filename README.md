@@ -491,8 +491,8 @@ Rank | Destroyed                                  | ISK Value            | Link
  482 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
  483 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
  484 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
- 485 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
- 486 | Mobile Medium Warp Disruptor II            |        10,802,533.33 | https://zkillboard.com/kill/82262124/
+ 485 | Mobile Medium Warp Disruptor II            |        17,412,343.35 | https://zkillboard.com/kill/64992704/
+ 486 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
  487 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
  488 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
  489 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
