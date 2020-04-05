@@ -498,11 +498,12 @@ Rank | Destroyed                                  | ISK Value            | Link
  489 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
  490 | Mobile Medium Warp Disruptor II            |        17,412,343.35 | https://zkillboard.com/kill/64992704/
  491 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
- 492 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 493 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
- 494 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 495 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 496 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 497 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 498 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 499 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 492 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
+ 493 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+ 494 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
+ 495 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 496 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 497 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 498 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 499 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 500 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
