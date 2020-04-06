@@ -482,28 +482,29 @@ Rank | Destroyed                                  | ISK Value            | Link
  473 | Drug Lab                                   |        83,102,018.95 | https://zkillboard.com/kill/54948225/
  474 | Thukker Component Assembly Array           |        81,247,327.31 | https://zkillboard.com/kill/63109174/
  475 | Equipment Assembly Array                   |        73,454,504.58 | https://zkillboard.com/kill/54379351/
- 476 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
- 477 | Rapid Equipment Assembly Array             |        51,547,030.71 | https://zkillboard.com/kill/55407253/
- 478 | Standup Termite II                         |        48,067,390.69 | https://zkillboard.com/kill/75196328/
- 479 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
- 480 | Standup Tyrfing II                         |        41,847,221.23 | https://zkillboard.com/kill/71479618/
- 481 | Complex Reactor Array                      |        35,792,160.78 | https://zkillboard.com/kill/54739408/
- 482 | Standup Templar II                         |        35,749,996.03 | https://zkillboard.com/kill/68098907/
- 483 | Standup Termite I                          |        31,350,669.30 | https://zkillboard.com/kill/72222117/
- 484 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
- 485 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
- 486 | Standup Tyrfing I                          |        29,145,353.84 | https://zkillboard.com/kill/72374756/
- 487 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
- 488 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
- 489 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
- 490 | Mobile Medium Warp Disruptor II            |        17,412,343.35 | https://zkillboard.com/kill/64992704/
- 491 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
- 492 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
- 493 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 494 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
- 495 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 496 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 497 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 498 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 499 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 500 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 476 | Standup Siren II                           |        64,402,309.91 | https://zkillboard.com/kill/77499321/
+ 477 | Merlin Wiyrkomi Edition                    |        55,730,728.63 | https://zkillboard.com/kill/43373399/
+ 478 | Rapid Equipment Assembly Array             |        51,547,030.71 | https://zkillboard.com/kill/55407253/
+ 479 | Standup Termite II                         |        48,067,390.69 | https://zkillboard.com/kill/75196328/
+ 480 | Mobile Scan Inhibitor                      |        45,537,340.26 | https://zkillboard.com/kill/65572472/
+ 481 | Standup Tyrfing II                         |        41,847,221.23 | https://zkillboard.com/kill/71479618/
+ 482 | Complex Reactor Array                      |        35,792,160.78 | https://zkillboard.com/kill/54739408/
+ 483 | Standup Templar II                         |        35,749,996.03 | https://zkillboard.com/kill/68098907/
+ 484 | Standup Termite I                          |        31,350,669.30 | https://zkillboard.com/kill/72222117/
+ 485 | Apotheosis                                 |        29,994,992.63 | https://zkillboard.com/kill/27537508/
+ 486 | Freki                                      |        29,790,703.29 | https://zkillboard.com/kill/13343786/
+ 487 | Standup Tyrfing I                          |        29,145,353.84 | https://zkillboard.com/kill/72374756/
+ 488 | Punisher Tash-Murkon Edition               |        28,540,368.67 | https://zkillboard.com/kill/44422776/
+ 489 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
+ 490 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
+ 491 | Mobile Medium Warp Disruptor II            |        17,412,343.35 | https://zkillboard.com/kill/64992704/
+ 492 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
+ 493 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
+ 494 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+ 495 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
+ 496 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 497 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 498 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 499 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 500 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 501 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
