@@ -509,12 +509,13 @@ Rank | Destroyed                                  | ISK Value            | Link
  500 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
  501 | Mobile Medium Warp Disruptor II            |        17,412,343.35 | https://zkillboard.com/kill/64992704/
  502 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
- 503 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
- 504 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 505 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
- 506 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 507 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 508 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 509 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 510 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 511 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 503 | Standup Locust I                           |        10,850,746.27 | https://zkillboard.com/kill/68469476/
+ 504 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
+ 505 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+ 506 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
+ 507 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 508 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 509 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 510 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 511 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 512 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
