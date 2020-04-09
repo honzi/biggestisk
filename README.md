@@ -67,7 +67,7 @@ Rank | Destroyed                                  | ISK Value            | Link
   58 | Malice                                     |    80,016,825,713.74 | https://zkillboard.com/kill/26777738/
   59 | Hematos                                    |    79,684,772,715.41 | https://zkillboard.com/kill/79649125/
   60 | 'Horizon' Fortizar                         |    75,513,446,687.66 | https://zkillboard.com/kill/72362136/
-  61 | Prowler                                    |    70,303,541,285.73 | https://zkillboard.com/kill/82993566/
+  61 | Prowler                                    |    68,906,140,668.43 | https://zkillboard.com/kill/82993566/
   62 | Machariel                                  |    68,211,833,765.20 | https://zkillboard.com/kill/27694789/
   63 | 'Marginis' Fortizar                        |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
   64 | Ark                                        |    65,116,217,444.57 | https://zkillboard.com/kill/74352396/
@@ -80,10 +80,10 @@ Rank | Destroyed                                  | ISK Value            | Link
   71 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
   72 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
   73 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
-  74 | Iteron Mark V                              |    41,075,249,450.43 | https://zkillboard.com/kill/83013009/
-  75 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
-  76 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
-  77 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
+  74 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
+  75 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
+  76 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
+  77 | Iteron Mark V                              |    40,388,651,809.75 | https://zkillboard.com/kill/83013009/
   78 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
   79 | Kronos                                     |    37,059,583,138.53 | https://zkillboard.com/kill/42225642/
   80 | Typhoon Fleet Issue                        |    34,910,682,319.93 | https://zkillboard.com/kill/55798335/
