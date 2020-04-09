@@ -509,16 +509,17 @@ Rank | Destroyed                                  | ISK Value            | Link
  500 | Standup Scarab I                           |        23,865,830.46 | https://zkillboard.com/kill/72695368/
  501 | Standup Gram II                            |        23,582,280.18 | https://zkillboard.com/kill/72142652/
  502 | Biochemical Reactor Array                  |        22,783,331.35 | https://zkillboard.com/kill/62897667/
- 503 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
- 504 | Mobile Medium Warp Disruptor II            |        17,412,343.35 | https://zkillboard.com/kill/64992704/
- 505 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
- 506 | Standup Locust I                           |        10,850,746.27 | https://zkillboard.com/kill/68469476/
- 507 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
- 508 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
- 509 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
- 510 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 511 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 512 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 513 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 514 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 515 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 503 | Standup Gram I                             |        20,240,565.42 | https://zkillboard.com/kill/68055274/
+ 504 | Polymer Reactor Array                      |        19,289,185.89 | https://zkillboard.com/kill/58686477/
+ 505 | Mobile Medium Warp Disruptor II            |        17,412,343.35 | https://zkillboard.com/kill/64992704/
+ 506 | Medium Biochemical Reactor Array           |        12,999,999.98 | https://zkillboard.com/kill/55821329/
+ 507 | Standup Locust I                           |        10,850,746.27 | https://zkillboard.com/kill/68469476/
+ 508 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
+ 509 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
+ 510 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
+ 511 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 512 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 513 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 514 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 515 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 516 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
