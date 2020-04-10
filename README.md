@@ -7,83 +7,83 @@ Biggest ISK
 
 Rank | Destroyed                                  | ISK Value            | Link
 ----:|--------------------------------------------|---------------------:|--------------------------------------
-   1 | Cockroach                                  | 1,000,018,000,000.01 | https://zkillboard.com/kill/22231822/
-   2 | Crucifier                                  |   787,510,073,466.62 | https://zkillboard.com/kill/79719133/
-   3 | Keepstar                                   |   708,517,961,280.96 | https://zkillboard.com/kill/63507899/
-   4 | Molok                                      |   569,501,538,678.05 | https://zkillboard.com/kill/71605015/
-   5 | Ibis                                       |   559,519,219,015.91 | https://zkillboard.com/kill/14846898/
-   6 | Moracha                                    |   517,121,034,591.32 | https://zkillboard.com/kill/53900531/
-   7 | Opux Dragoon Yacht                         |   500,000,000,000.02 | https://zkillboard.com/kill/63711228/
-   8 | Providence                                 |   357,241,547,899.82 | https://zkillboard.com/kill/40690841/
-   9 | Vanquisher                                 |   356,503,570,276.42 | https://zkillboard.com/kill/62097910/
-  10 | Malediction                                |   336,784,680,124.03 | https://zkillboard.com/kill/79630034/
-  11 | Charon                                     |   330,556,993,400.53 | https://zkillboard.com/kill/14535158/
-  12 | Sotiyo                                     |   306,716,565,707.43 | https://zkillboard.com/kill/69924279/
-  13 | Obelisk                                    |   268,005,623,416.29 | https://zkillboard.com/kill/7154867/
-  14 | Victor                                     |   241,160,936,535.20 | https://zkillboard.com/kill/66343539/
-  15 | Komodo                                     |   239,585,972,566.16 | https://zkillboard.com/kill/75489664/
-  16 | Tiamat                                     |   234,715,301,387.18 | https://zkillboard.com/kill/77663854/
-  17 | Anshar                                     |   215,339,178,087.90 | https://zkillboard.com/kill/73085962/
-  18 | Probe                                      |   214,988,177,725.28 | https://zkillboard.com/kill/79632461/
-  19 | Revenant                                   |   211,391,320,178.61 | https://zkillboard.com/kill/56582915/
-  20 | Chremoas                                   |   208,435,078,755.25 | https://zkillboard.com/kill/73676084/
-  21 | Victorieux Luxury Yacht                    |   204,732,318,545.73 | https://zkillboard.com/kill/55270851/
-  22 | Rabisu                                     |   200,029,102,315.20 | https://zkillboard.com/kill/64049309/
-  23 | Leviathan                                  |   197,501,591,662.00 | https://zkillboard.com/kill/61574649/
-  24 | Erebus                                     |   182,586,735,296.69 | https://zkillboard.com/kill/56895433/
-  25 | Vendetta                                   |   178,318,716,845.32 | https://zkillboard.com/kill/62842109/
-  26 | Fiend                                      |   175,425,712,701.48 | https://zkillboard.com/kill/51797738/
-  27 | Avatar                                     |   172,334,158,466.62 | https://zkillboard.com/kill/40647458/
-  28 | Chameleon                                  |   163,379,669,099.61 | https://zkillboard.com/kill/78373188/
-  29 | Rhea                                       |   158,797,684,321.91 | https://zkillboard.com/kill/82772374/
-  30 | Adrestia                                   |   156,113,811,656.31 | https://zkillboard.com/kill/50724250/
-  31 | Virtuoso                                   |   155,529,503,018.16 | https://zkillboard.com/kill/75790303/
-  32 | Imp                                        |   147,599,036,862.12 | https://zkillboard.com/kill/77789901/
-  33 | Ragnarok                                   |   137,371,037,040.66 | https://zkillboard.com/kill/61365379/
-  34 | Taipan                                     |   135,014,791,964.57 | https://zkillboard.com/kill/79691222/
-  35 | Tartara                                    |   132,956,226,827.52 | https://zkillboard.com/kill/70510179/
-  36 | Caedes                                     |   124,193,461,731.91 | https://zkillboard.com/kill/73307938/
-  37 | Loki                                       |   124,011,278,892.90 | https://zkillboard.com/kill/82266299/
-  38 | X-Large Ship Maintenance Array             |   113,041,707,120.58 | https://zkillboard.com/kill/54775306/
-  39 | Fenrir                                     |   111,021,365,794.39 | https://zkillboard.com/kill/79622491/
-  40 | Marshal                                    |   109,471,072,673.91 | https://zkillboard.com/kill/70357303/
-  41 | Vangel                                     |   103,776,919,955.60 | https://zkillboard.com/kill/22278966/
-  42 | Whiptail                                   |   103,085,417,188.60 | https://zkillboard.com/kill/75560800/
-  43 | Silver Magnate                             |   102,740,300,346.28 | https://zkillboard.com/kill/66370950/
-  44 | Nyx                                        |   101,618,804,133.50 | https://zkillboard.com/kill/58707661/
-  45 | Vargur                                     |   100,826,201,220.33 | https://zkillboard.com/kill/51482562/
-  46 | Cambion                                    |   100,079,013,469.54 | https://zkillboard.com/kill/32369995/
-  47 | Etana                                      |   100,035,144,752.95 | https://zkillboard.com/kill/56613434/
-  48 | Badger                                     |    98,484,374,097.30 | https://zkillboard.com/kill/79697962/
-  49 | Primae                                     |    96,134,960,843.63 | https://zkillboard.com/kill/15201225/
-  50 | Azbel                                      |    91,547,734,012.72 | https://zkillboard.com/kill/74813118/
-  51 | Widow                                      |    90,327,024,099.98 | https://zkillboard.com/kill/80681361/
-  52 | 'Draccous' Fortizar                        |    88,213,901,868.96 | https://zkillboard.com/kill/70668698/
-  53 | 'Moreau' Fortizar                          |    85,955,144,535.83 | https://zkillboard.com/kill/71297180/
-  54 | 'Prometheus' Fortizar                      |    83,517,433,111.51 | https://zkillboard.com/kill/70844463/
-  55 | Vehement                                   |    83,194,308,231.78 | https://zkillboard.com/kill/77855451/
-  56 | Nomad                                      |    82,303,714,141.83 | https://zkillboard.com/kill/81218404/
-  57 | Utu                                        |    81,620,840,543.61 | https://zkillboard.com/kill/14417218/
-  58 | Malice                                     |    80,016,825,713.74 | https://zkillboard.com/kill/26777738/
-  59 | Hematos                                    |    79,684,772,715.41 | https://zkillboard.com/kill/79649125/
-  60 | 'Horizon' Fortizar                         |    75,513,446,687.66 | https://zkillboard.com/kill/72362136/
-  61 | Prowler                                    |    68,906,140,668.43 | https://zkillboard.com/kill/82993566/
-  62 | Machariel                                  |    68,211,833,765.20 | https://zkillboard.com/kill/27694789/
-  63 | 'Marginis' Fortizar                        |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
-  64 | Ark                                        |    65,116,217,444.57 | https://zkillboard.com/kill/74352396/
-  65 | Aeon                                       |    64,453,411,196.63 | https://zkillboard.com/kill/12583986/
-  66 | Hel                                        |    61,667,309,269.63 | https://zkillboard.com/kill/66112586/
-  67 | Reaper                                     |    55,976,768,857.93 | https://zkillboard.com/kill/15135600/
-  68 | Rorqual                                    |    54,746,712,831.88 | https://zkillboard.com/kill/68363661/
-  69 | Wyvern                                     |    50,620,327,578.42 | https://zkillboard.com/kill/38862700/
-  70 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
-  71 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
-  72 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
-  73 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
-  74 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
-  75 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
-  76 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
-  77 | Iteron Mark V                              |    40,388,651,809.75 | https://zkillboard.com/kill/83013009/
+   1 | Iteron Mark V                              | 2,083,045,200,229.53 | https://zkillboard.com/kill/79723240/
+   2 | Cockroach                                  | 1,000,018,000,000.01 | https://zkillboard.com/kill/22231822/
+   3 | Crucifier                                  |   787,510,073,466.62 | https://zkillboard.com/kill/79719133/
+   4 | Keepstar                                   |   708,517,961,280.96 | https://zkillboard.com/kill/63507899/
+   5 | Molok                                      |   569,501,538,678.05 | https://zkillboard.com/kill/71605015/
+   6 | Ibis                                       |   559,519,219,015.91 | https://zkillboard.com/kill/14846898/
+   7 | Moracha                                    |   517,121,034,591.32 | https://zkillboard.com/kill/53900531/
+   8 | Opux Dragoon Yacht                         |   500,000,000,000.02 | https://zkillboard.com/kill/63711228/
+   9 | Providence                                 |   357,241,547,899.82 | https://zkillboard.com/kill/40690841/
+  10 | Vanquisher                                 |   356,503,570,276.42 | https://zkillboard.com/kill/62097910/
+  11 | Malediction                                |   336,784,680,124.03 | https://zkillboard.com/kill/79630034/
+  12 | Charon                                     |   330,556,993,400.53 | https://zkillboard.com/kill/14535158/
+  13 | Sotiyo                                     |   306,716,565,707.43 | https://zkillboard.com/kill/69924279/
+  14 | Obelisk                                    |   268,005,623,416.29 | https://zkillboard.com/kill/7154867/
+  15 | Victor                                     |   241,160,936,535.20 | https://zkillboard.com/kill/66343539/
+  16 | Komodo                                     |   239,585,972,566.16 | https://zkillboard.com/kill/75489664/
+  17 | Tiamat                                     |   234,715,301,387.18 | https://zkillboard.com/kill/77663854/
+  18 | Anshar                                     |   215,339,178,087.90 | https://zkillboard.com/kill/73085962/
+  19 | Probe                                      |   214,988,177,725.28 | https://zkillboard.com/kill/79632461/
+  20 | Revenant                                   |   211,391,320,178.61 | https://zkillboard.com/kill/56582915/
+  21 | Chremoas                                   |   208,435,078,755.25 | https://zkillboard.com/kill/73676084/
+  22 | Victorieux Luxury Yacht                    |   204,732,318,545.73 | https://zkillboard.com/kill/55270851/
+  23 | Rabisu                                     |   200,029,102,315.20 | https://zkillboard.com/kill/64049309/
+  24 | Leviathan                                  |   197,501,591,662.00 | https://zkillboard.com/kill/61574649/
+  25 | Erebus                                     |   182,586,735,296.69 | https://zkillboard.com/kill/56895433/
+  26 | Vendetta                                   |   178,318,716,845.32 | https://zkillboard.com/kill/62842109/
+  27 | Fiend                                      |   175,425,712,701.48 | https://zkillboard.com/kill/51797738/
+  28 | Avatar                                     |   172,334,158,466.62 | https://zkillboard.com/kill/40647458/
+  29 | Chameleon                                  |   163,379,669,099.61 | https://zkillboard.com/kill/78373188/
+  30 | Rhea                                       |   158,797,684,321.91 | https://zkillboard.com/kill/82772374/
+  31 | Adrestia                                   |   156,113,811,656.31 | https://zkillboard.com/kill/50724250/
+  32 | Virtuoso                                   |   155,529,503,018.16 | https://zkillboard.com/kill/75790303/
+  33 | Imp                                        |   147,599,036,862.12 | https://zkillboard.com/kill/77789901/
+  34 | Ragnarok                                   |   137,371,037,040.66 | https://zkillboard.com/kill/61365379/
+  35 | Taipan                                     |   135,014,791,964.57 | https://zkillboard.com/kill/79691222/
+  36 | Tartara                                    |   132,956,226,827.52 | https://zkillboard.com/kill/70510179/
+  37 | Caedes                                     |   124,193,461,731.91 | https://zkillboard.com/kill/73307938/
+  38 | Loki                                       |   124,011,278,892.90 | https://zkillboard.com/kill/82266299/
+  39 | X-Large Ship Maintenance Array             |   113,041,707,120.58 | https://zkillboard.com/kill/54775306/
+  40 | Fenrir                                     |   111,021,365,794.39 | https://zkillboard.com/kill/79622491/
+  41 | Marshal                                    |   109,471,072,673.91 | https://zkillboard.com/kill/70357303/
+  42 | Vangel                                     |   103,776,919,955.60 | https://zkillboard.com/kill/22278966/
+  43 | Whiptail                                   |   103,085,417,188.60 | https://zkillboard.com/kill/75560800/
+  44 | Silver Magnate                             |   102,740,300,346.28 | https://zkillboard.com/kill/66370950/
+  45 | Nyx                                        |   101,618,804,133.50 | https://zkillboard.com/kill/58707661/
+  46 | Vargur                                     |   100,826,201,220.33 | https://zkillboard.com/kill/51482562/
+  47 | Cambion                                    |   100,079,013,469.54 | https://zkillboard.com/kill/32369995/
+  48 | Etana                                      |   100,035,144,752.95 | https://zkillboard.com/kill/56613434/
+  49 | Badger                                     |    98,484,374,097.30 | https://zkillboard.com/kill/79697962/
+  50 | Primae                                     |    96,134,960,843.63 | https://zkillboard.com/kill/15201225/
+  51 | Azbel                                      |    91,547,734,012.72 | https://zkillboard.com/kill/74813118/
+  52 | Widow                                      |    90,327,024,099.98 | https://zkillboard.com/kill/80681361/
+  53 | 'Draccous' Fortizar                        |    88,213,901,868.96 | https://zkillboard.com/kill/70668698/
+  54 | 'Moreau' Fortizar                          |    85,955,144,535.83 | https://zkillboard.com/kill/71297180/
+  55 | 'Prometheus' Fortizar                      |    83,517,433,111.51 | https://zkillboard.com/kill/70844463/
+  56 | Vehement                                   |    83,194,308,231.78 | https://zkillboard.com/kill/77855451/
+  57 | Nomad                                      |    82,303,714,141.83 | https://zkillboard.com/kill/81218404/
+  58 | Utu                                        |    81,620,840,543.61 | https://zkillboard.com/kill/14417218/
+  59 | Malice                                     |    80,016,825,713.74 | https://zkillboard.com/kill/26777738/
+  60 | Hematos                                    |    79,684,772,715.41 | https://zkillboard.com/kill/79649125/
+  61 | 'Horizon' Fortizar                         |    75,513,446,687.66 | https://zkillboard.com/kill/72362136/
+  62 | Prowler                                    |    68,906,140,668.43 | https://zkillboard.com/kill/82993566/
+  63 | Machariel                                  |    68,211,833,765.20 | https://zkillboard.com/kill/27694789/
+  64 | 'Marginis' Fortizar                        |    67,341,494,294.08 | https://zkillboard.com/kill/75937628/
+  65 | Ark                                        |    65,116,217,444.57 | https://zkillboard.com/kill/74352396/
+  66 | Aeon                                       |    64,453,411,196.63 | https://zkillboard.com/kill/12583986/
+  67 | Hel                                        |    61,667,309,269.63 | https://zkillboard.com/kill/66112586/
+  68 | Reaper                                     |    55,976,768,857.93 | https://zkillboard.com/kill/15135600/
+  69 | Rorqual                                    |    54,746,712,831.88 | https://zkillboard.com/kill/68363661/
+  70 | Wyvern                                     |    50,620,327,578.42 | https://zkillboard.com/kill/38862700/
+  71 | Paladin                                    |    50,178,909,369.93 | https://zkillboard.com/kill/28003625/
+  72 | Zirnitra                                   |    44,322,715,660.47 | https://zkillboard.com/kill/81282897/
+  73 | Leshak                                     |    43,409,211,765.76 | https://zkillboard.com/kill/71937771/
+  74 | Bowhead                                    |    41,634,694,650.28 | https://zkillboard.com/kill/59135248/
+  75 | Nightmare                                  |    41,020,898,645.96 | https://zkillboard.com/kill/26451268/
+  76 | Fortizar                                   |    40,862,491,539.47 | https://zkillboard.com/kill/59249664/
+  77 | Abaddon                                    |    40,796,623,103.65 | https://zkillboard.com/kill/32463577/
   78 | Barghest                                   |    38,848,902,428.07 | https://zkillboard.com/kill/56496354/
   79 | Kronos                                     |    37,059,583,138.53 | https://zkillboard.com/kill/42225642/
   80 | Typhoon Fleet Issue                        |    34,910,682,319.93 | https://zkillboard.com/kill/55798335/
