@@ -6,7 +6,7 @@ Biggest ISK
 * This list does not yet include every type, as there are many kills to go through, but eventually every type will be added.
 
 Rank | Destroyed                                  | ISK Value              | Link
-----:|--------------------------------------------|--0--------------------:|--------------------------------------
+----:|--------------------------------------------|-----------------------:|--------------------------------------
    1 | Iteron Mark V                              | `2,083,045,200,229.53` | https://zkillboard.com/kill/79723240/
    2 | Cockroach                                  | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
    3 | Crucifier                                  | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
