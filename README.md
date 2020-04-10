@@ -519,9 +519,10 @@ Rank | Destroyed                                  | ISK Value            | Link
  510 | Standup Templar I                          |         9,899,999.95 | https://zkillboard.com/kill/68144150/
  511 | Civilian Minmatar Shuttle                  |         8,734,281.11 | https://zkillboard.com/kill/31335165/
  512 | Drone Assembly Array                       |         8,299,999.00 | https://zkillboard.com/kill/81855413/
- 513 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
- 514 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
- 515 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
- 516 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
- 517 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
- 518 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
+ 513 | Standup Equite I                           |         7,899,998.00 | https://zkillboard.com/kill/68261483/
+ 514 | Mobile Medium Warp Disruptor I             |         2,343,760.00 | https://zkillboard.com/kill/82370263/
+ 515 | Civilian Gallente Shuttle                  |         1,193,376.36 | https://zkillboard.com/kill/31744154/
+ 516 | Civilian Caldari Shuttle                   |           752,505.00 | https://zkillboard.com/kill/58831028/
+ 517 | Gallente Media Shuttle                     |            12,605.04 | https://zkillboard.com/kill/2860172/
+ 518 | Amarr Media Shuttle                        |            11,654.66 | https://zkillboard.com/kill/9620742/
+ 519 | InterBus Customs Office                    |                 0.01 | https://zkillboard.com/kill/21102950/
