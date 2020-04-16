@@ -68,15 +68,15 @@ Rank | Destroyed                                  | ISK Value              | Lin
   59 | Azbel                                      | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
   60 | Widow                                      | `   90,327,024,099.98` | https://zkillboard.com/kill/80681361/
   61 | 'Draccous' Fortizar                        | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
-  62 | 'Moreau' Fortizar                          | `   85,955,144,535.83` | https://zkillboard.com/kill/71297180/
-  63 | 'Prometheus' Fortizar                      | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
-  64 | Vehement                                   | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
-  65 | Nomad                                      | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
-  66 | Utu                                        | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
-  67 | Malice                                     | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
-  68 | Hematos                                    | `   79,684,772,715.41` | https://zkillboard.com/kill/79649125/
-  69 | 'Horizon' Fortizar                         | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
-  70 | Prowler                                    | `   68,906,140,668.43` | https://zkillboard.com/kill/82993566/
+  62 | Prowler                                    | `   87,050,515,483.24` | https://zkillboard.com/kill/2440866/
+  63 | 'Moreau' Fortizar                          | `   85,955,144,535.83` | https://zkillboard.com/kill/71297180/
+  64 | 'Prometheus' Fortizar                      | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
+  65 | Vehement                                   | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
+  66 | Nomad                                      | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
+  67 | Utu                                        | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
+  68 | Malice                                     | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
+  69 | Hematos                                    | `   79,684,772,715.41` | https://zkillboard.com/kill/79649125/
+  70 | 'Horizon' Fortizar                         | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
   71 | Machariel                                  | `   68,211,833,765.20` | https://zkillboard.com/kill/27694789/
   72 | 'Marginis' Fortizar                        | `   67,341,494,294.08` | https://zkillboard.com/kill/75937628/
   73 | Ark                                        | `   65,116,217,444.57` | https://zkillboard.com/kill/74352396/
