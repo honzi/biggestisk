@@ -106,23 +106,23 @@ Rank | Destroyed                                  | ISK Value              | Lin
   97 | Rorqual                                    | `   54,746,712,831.88` | https://zkillboard.com/kill/68363661/
   98 | Wyvern                                     | `   50,620,327,578.42` | https://zkillboard.com/kill/38862700/
   99 | Paladin                                    | `   50,178,909,369.93` | https://zkillboard.com/kill/28003625/
- 100 | Ship Maintenance Array                     | `   48,113,718,999.68` | https://zkillboard.com/kill/50240671/
- 101 | Zirnitra                                   | `   44,322,715,660.47` | https://zkillboard.com/kill/81282897/
- 102 | Leshak                                     | `   43,409,211,765.76` | https://zkillboard.com/kill/71937771/
- 103 | Bowhead                                    | `   41,634,694,650.28` | https://zkillboard.com/kill/59135248/
- 104 | Nightmare                                  | `   41,020,898,645.96` | https://zkillboard.com/kill/26451268/
- 105 | Fortizar                                   | `   40,862,491,539.47` | https://zkillboard.com/kill/59249664/
- 106 | Abaddon                                    | `   40,796,623,103.65` | https://zkillboard.com/kill/32463577/
- 107 | Barghest                                   | `   38,848,902,428.07` | https://zkillboard.com/kill/56496354/
- 108 | Kryos                                      | `   38,546,337,141.24` | https://zkillboard.com/kill/15902412/
- 109 | Kronos                                     | `   37,059,583,138.53` | https://zkillboard.com/kill/42225642/
- 110 | Vigil                                      | `   36,451,224,807.05` | https://zkillboard.com/kill/14086532/
- 111 | Typhoon Fleet Issue                        | `   34,910,682,319.93` | https://zkillboard.com/kill/55798335/
- 112 | Svipul                                     | `   34,295,908,810.48` | https://zkillboard.com/kill/54887995/
- 113 | Magnate                                    | `   34,105,095,666.81` | https://zkillboard.com/kill/15986734/
- 114 | Griffin                                    | `   31,270,907,663.01` | https://zkillboard.com/kill/79625150/
- 115 | Raven Navy Issue                           | `   29,219,136,218.19` | https://zkillboard.com/kill/67360198/
- 116 | Rattlesnake                                | `   28,445,017,336.33` | https://zkillboard.com/kill/52048880/
+ 100 | Rattlesnake                                | `   49,615,223,480.08` | https://zkillboard.com/kill/83497945/
+ 101 | Ship Maintenance Array                     | `   48,113,718,999.68` | https://zkillboard.com/kill/50240671/
+ 102 | Zirnitra                                   | `   44,322,715,660.47` | https://zkillboard.com/kill/81282897/
+ 103 | Leshak                                     | `   43,409,211,765.76` | https://zkillboard.com/kill/71937771/
+ 104 | Bowhead                                    | `   41,634,694,650.28` | https://zkillboard.com/kill/59135248/
+ 105 | Nightmare                                  | `   41,020,898,645.96` | https://zkillboard.com/kill/26451268/
+ 106 | Fortizar                                   | `   40,862,491,539.47` | https://zkillboard.com/kill/59249664/
+ 107 | Abaddon                                    | `   40,796,623,103.65` | https://zkillboard.com/kill/32463577/
+ 108 | Barghest                                   | `   38,848,902,428.07` | https://zkillboard.com/kill/56496354/
+ 109 | Kryos                                      | `   38,546,337,141.24` | https://zkillboard.com/kill/15902412/
+ 110 | Kronos                                     | `   37,059,583,138.53` | https://zkillboard.com/kill/42225642/
+ 111 | Vigil                                      | `   36,451,224,807.05` | https://zkillboard.com/kill/14086532/
+ 112 | Typhoon Fleet Issue                        | `   34,910,682,319.93` | https://zkillboard.com/kill/55798335/
+ 113 | Svipul                                     | `   34,295,908,810.48` | https://zkillboard.com/kill/54887995/
+ 114 | Magnate                                    | `   34,105,095,666.81` | https://zkillboard.com/kill/15986734/
+ 115 | Griffin                                    | `   31,270,907,663.01` | https://zkillboard.com/kill/79625150/
+ 116 | Raven Navy Issue                           | `   29,219,136,218.19` | https://zkillboard.com/kill/67360198/
  117 | Vindicator                                 | `   28,422,665,729.12` | https://zkillboard.com/kill/46058586/
  118 | Revelation                                 | `   27,956,324,709.12` | https://zkillboard.com/kill/74969682/
  119 | Bantam                                     | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
