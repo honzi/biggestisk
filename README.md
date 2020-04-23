@@ -427,8 +427,8 @@ Rank | Destroyed                                  | ISK Value              | Lin
  418 | Keres                                      | `      610,686,986.16` | https://zkillboard.com/kill/78790414/
  419 | Coercer                                    | `      604,977,782.73` | https://zkillboard.com/kill/29640592/
  420 | True Sansha Control Tower Medium           | `      601,999,999.98` | https://zkillboard.com/kill/186476/
- 421 | Thalia                                     | `      534,179,030.38` | https://zkillboard.com/kill/81571571/
- 422 | Merlin Nugoeihuvi Edition                  | `      549,166,299.50` | https://zkillboard.com/kill/44578024/
+ 421 | Merlin Nugoeihuvi Edition                  | `      549,166,299.50` | https://zkillboard.com/kill/44578024/
+ 422 | Thalia                                     | `      540,559,747.98` | https://zkillboard.com/kill/73837905/
  423 | Crucifier Navy Issue                       | `      525,194,448.61` | https://zkillboard.com/kill/80509645/
  424 | Sansha Control Tower Small                 | `      500,000,000.00` | https://zkillboard.com/kill/27805187/
  425 | Serpentis Control Tower Small              | `      498,999,999.50` | https://zkillboard.com/kill/293923/
