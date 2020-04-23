@@ -497,48 +497,49 @@ Rank | Destroyed                                  | ISK Value              | Lin
  488 | Standup Gungnir II                         | `       49,614,821.95` | https://zkillboard.com/kill/82222798/
  489 | Standup Termite II                         | `       48,067,390.69` | https://zkillboard.com/kill/75196328/
  490 | Standup Dragonfly II                       | `       46,850,042.11` | https://zkillboard.com/kill/68253336/
- 491 | Mobile Scan Inhibitor                      | `       45,537,340.26` | https://zkillboard.com/kill/65572472/
- 492 | Standup Malleus II                         | `       43,074,364.76` | https://zkillboard.com/kill/70690282/
- 493 | Standup Tyrfing II                         | `       41,847,221.23` | https://zkillboard.com/kill/71479618/
- 494 | Standup Ametat II                          | `       41,079,448.90` | https://zkillboard.com/kill/77524875/
- 495 | Standup Malleus I                          | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
- 496 | Standup Locust II                          | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
- 497 | Complex Reactor Array                      | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
- 498 | Standup Templar II                         | `       35,749,996.03` | https://zkillboard.com/kill/68098907/
- 499 | Standup Equite II                          | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
- 500 | Standup Antaeus I                          | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
- 501 | Standup Stayr II                           | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
- 502 | Standup Termite I                          | `       31,350,669.30` | https://zkillboard.com/kill/72222117/
- 503 | Standup Cenobite I                         | `       30,539,178.59` | https://zkillboard.com/kill/68685802/
- 504 | Standup Dromi I                            | `       30,099,639.65` | https://zkillboard.com/kill/72272018/
- 505 | Standup Ametat I                           | `       29,832,539.59` | https://zkillboard.com/kill/70666430/
- 506 | Freki                                      | `       29,790,703.29` | https://zkillboard.com/kill/13343786/
- 507 | Standup Firbolg II                         | `       29,472,822.98` | https://zkillboard.com/kill/68253335/
- 508 | Standup Tyrfing I                          | `       29,145,353.84` | https://zkillboard.com/kill/72374756/
- 509 | Standup Einherji II                        | `       28,942,578.62` | https://zkillboard.com/kill/77697610/
- 510 | Standup Siren I                            | `       28,830,525.29` | https://zkillboard.com/kill/68096956/
- 511 | Punisher Tash-Murkon Edition               | `       28,540,368.67` | https://zkillboard.com/kill/44422776/
- 512 | Standup Satyr I                            | `       28,287,095.94` | https://zkillboard.com/kill/68171072/
- 513 | Standup Gungnir I                          | `       25,349,191.75` | https://zkillboard.com/kill/71681585/
- 514 | Standup Mantis I                           | `       25,174,857.39` | https://zkillboard.com/kill/69848932/
- 515 | Standup Scarab I                           | `       23,865,830.46` | https://zkillboard.com/kill/72695368/
- 516 | Standup Gram II                            | `       23,582,280.18` | https://zkillboard.com/kill/72142652/
- 517 | Biochemical Reactor Array                  | `       22,783,331.35` | https://zkillboard.com/kill/62897667/
- 518 | Standup Gram I                             | `       20,240,565.42` | https://zkillboard.com/kill/68055274/
- 519 | Polymer Reactor Array                      | `       19,289,185.89` | https://zkillboard.com/kill/58686477/
- 520 | Standup Firbolg I                          | `       18,562,622.80` | https://zkillboard.com/kill/68111007/
- 521 | Standup Einherji I                         | `       17,999,999.97` | https://zkillboard.com/kill/68121130/
- 522 | Mobile Medium Warp Disruptor II            | `       17,412,343.35` | https://zkillboard.com/kill/64992704/
- 523 | Medium Biochemical Reactor Array           | `       12,999,999.98` | https://zkillboard.com/kill/55821329/
- 524 | Standup Locust I                           | `       10,850,746.27` | https://zkillboard.com/kill/68469476/
- 525 | Standup Dragonfly I                        | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
- 526 | Standup Templar I                          | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
- 527 | Civilian Minmatar Shuttle                  | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
- 528 | Drone Assembly Array                       | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
- 529 | Standup Equite I                           | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
- 530 | Mobile Medium Warp Disruptor I             | `        2,343,760.00` | https://zkillboard.com/kill/82370263/
- 531 | Civilian Gallente Shuttle                  | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 532 | Civilian Caldari Shuttle                   | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 533 | Gallente Media Shuttle                     | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 534 | Amarr Media Shuttle                        | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 535 | InterBus Customs Office                    | `                0.01` | https://zkillboard.com/kill/21102950/
+ 491 | Tyrfing II                                 | `       46,498,509.05` | https://zkillboard.com/kill/54179555/
+ 492 | Mobile Scan Inhibitor                      | `       45,537,340.26` | https://zkillboard.com/kill/65572472/
+ 493 | Standup Malleus II                         | `       43,074,364.76` | https://zkillboard.com/kill/70690282/
+ 494 | Standup Tyrfing II                         | `       41,847,221.23` | https://zkillboard.com/kill/71479618/
+ 495 | Standup Ametat II                          | `       41,079,448.90` | https://zkillboard.com/kill/77524875/
+ 496 | Standup Malleus I                          | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
+ 497 | Standup Locust II                          | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
+ 498 | Complex Reactor Array                      | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
+ 499 | Standup Templar II                         | `       35,749,996.03` | https://zkillboard.com/kill/68098907/
+ 500 | Standup Equite II                          | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
+ 501 | Standup Antaeus I                          | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
+ 502 | Standup Stayr II                           | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
+ 503 | Standup Termite I                          | `       31,350,669.30` | https://zkillboard.com/kill/72222117/
+ 504 | Standup Cenobite I                         | `       30,539,178.59` | https://zkillboard.com/kill/68685802/
+ 505 | Standup Dromi I                            | `       30,099,639.65` | https://zkillboard.com/kill/72272018/
+ 506 | Standup Ametat I                           | `       29,832,539.59` | https://zkillboard.com/kill/70666430/
+ 507 | Freki                                      | `       29,790,703.29` | https://zkillboard.com/kill/13343786/
+ 508 | Standup Firbolg II                         | `       29,472,822.98` | https://zkillboard.com/kill/68253335/
+ 509 | Standup Tyrfing I                          | `       29,145,353.84` | https://zkillboard.com/kill/72374756/
+ 510 | Standup Einherji II                        | `       28,942,578.62` | https://zkillboard.com/kill/77697610/
+ 511 | Standup Siren I                            | `       28,830,525.29` | https://zkillboard.com/kill/68096956/
+ 512 | Punisher Tash-Murkon Edition               | `       28,540,368.67` | https://zkillboard.com/kill/44422776/
+ 513 | Standup Satyr I                            | `       28,287,095.94` | https://zkillboard.com/kill/68171072/
+ 514 | Standup Gungnir I                          | `       25,349,191.75` | https://zkillboard.com/kill/71681585/
+ 515 | Standup Mantis I                           | `       25,174,857.39` | https://zkillboard.com/kill/69848932/
+ 516 | Standup Scarab I                           | `       23,865,830.46` | https://zkillboard.com/kill/72695368/
+ 517 | Standup Gram II                            | `       23,582,280.18` | https://zkillboard.com/kill/72142652/
+ 518 | Biochemical Reactor Array                  | `       22,783,331.35` | https://zkillboard.com/kill/62897667/
+ 519 | Standup Gram I                             | `       20,240,565.42` | https://zkillboard.com/kill/68055274/
+ 520 | Polymer Reactor Array                      | `       19,289,185.89` | https://zkillboard.com/kill/58686477/
+ 521 | Standup Firbolg I                          | `       18,562,622.80` | https://zkillboard.com/kill/68111007/
+ 522 | Standup Einherji I                         | `       17,999,999.97` | https://zkillboard.com/kill/68121130/
+ 523 | Mobile Medium Warp Disruptor II            | `       17,412,343.35` | https://zkillboard.com/kill/64992704/
+ 524 | Medium Biochemical Reactor Array           | `       12,999,999.98` | https://zkillboard.com/kill/55821329/
+ 525 | Standup Locust I                           | `       10,850,746.27` | https://zkillboard.com/kill/68469476/
+ 526 | Standup Dragonfly I                        | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
+ 527 | Standup Templar I                          | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
+ 528 | Civilian Minmatar Shuttle                  | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
+ 529 | Drone Assembly Array                       | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
+ 530 | Standup Equite I                           | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
+ 531 | Mobile Medium Warp Disruptor I             | `        2,343,760.00` | https://zkillboard.com/kill/82370263/
+ 532 | Civilian Gallente Shuttle                  | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 533 | Civilian Caldari Shuttle                   | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 534 | Gallente Media Shuttle                     | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 535 | Amarr Media Shuttle                        | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 536 | InterBus Customs Office                    | `                0.01` | https://zkillboard.com/kill/21102950/
