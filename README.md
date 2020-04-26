@@ -550,15 +550,16 @@ Rank | Destroyed                                  | ISK Value              | Lin
  541 | Satyr II                                   | `       11,519,733.07` | https://zkillboard.com/kill/55499869/
  542 | Equite II                                  | `       10,971,002.57` | https://zkillboard.com/kill/55256081/
  543 | Standup Locust I                           | `       10,850,746.27` | https://zkillboard.com/kill/68469476/
- 544 | Standup Dragonfly I                        | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
- 545 | Standup Templar I                          | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
- 546 | Locust II                                  | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
- 547 | Civilian Minmatar Shuttle                  | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
- 548 | Drone Assembly Array                       | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
- 549 | Standup Equite I                           | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
- 550 | Mobile Medium Warp Disruptor I             | `        2,343,760.00` | https://zkillboard.com/kill/82370263/
- 551 | Civilian Gallente Shuttle                  | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 552 | Civilian Caldari Shuttle                   | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 553 | Gallente Media Shuttle                     | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 554 | Amarr Media Shuttle                        | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 555 | InterBus Customs Office                    | `                0.01` | https://zkillboard.com/kill/21102950/
+ 544 | Serpentis Large Railgun Battery            | `       10,652,044.57` | https://zkillboard.com/kill/60294502/
+ 545 | Standup Dragonfly I                        | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
+ 546 | Standup Templar I                          | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
+ 547 | Locust II                                  | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
+ 548 | Civilian Minmatar Shuttle                  | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
+ 549 | Drone Assembly Array                       | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
+ 550 | Standup Equite I                           | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
+ 551 | Mobile Medium Warp Disruptor I             | `        2,343,760.00` | https://zkillboard.com/kill/82370263/
+ 552 | Civilian Gallente Shuttle                  | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 553 | Civilian Caldari Shuttle                   | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 554 | Gallente Media Shuttle                     | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 555 | Amarr Media Shuttle                        | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 556 | InterBus Customs Office                    | `                0.01` | https://zkillboard.com/kill/21102950/
