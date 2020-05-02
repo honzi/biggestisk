@@ -369,7 +369,7 @@ Rank | Destroyed                                  | ISK Value              | Lin
  360 | Stork                                      | `    1,272,844,266.42` | https://zkillboard.com/kill/81656084/
  361 | Maulus Navy Issue                          | `    1,270,952,339.22` | https://zkillboard.com/kill/67263670/
  362 | Dramiel                                    | `    1,242,689,265.73` | https://zkillboard.com/kill/24912063/
- 363 | Exequror Navy Issue                        | `    1,208,640,211.25` | https://zkillboard.com/kill/29372701/
+ 363 | Exequror Navy Issue                        | `    1,213,713,447.37` | https://zkillboard.com/kill/29372701/
  364 | Aliastra Catalyst                          | `    1,191,686,731.30` | https://zkillboard.com/kill/27309041/
  365 | Dread Guristas Control Tower Small         | `    1,136,000,000.00` | https://zkillboard.com/kill/9749271/
  366 | Blood Control Tower                        | `    1,132,750,000.46` | https://zkillboard.com/kill/32171466/
