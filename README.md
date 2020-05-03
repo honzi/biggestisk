@@ -134,17 +134,17 @@ Rank | Destroyed                                  | ISK Value              | Lin
  125 | Barghest                                   | `   38,848,902,428.07` | https://zkillboard.com/kill/56496354/
  126 | Kryos                                      | `   38,546,337,141.24` | https://zkillboard.com/kill/15902412/
  127 | Kronos                                     | `   37,059,583,138.53` | https://zkillboard.com/kill/42225642/
- 128 | Vigil                                      | `   36,451,224,807.05` | https://zkillboard.com/kill/14086532/
- 129 | Hoarder                                    | `   36,291,763,451.01` | https://zkillboard.com/kill/14038048/
- 130 | Typhoon Fleet Issue                        | `   34,910,682,319.93` | https://zkillboard.com/kill/55798335/
- 131 | Svipul                                     | `   34,295,908,810.48` | https://zkillboard.com/kill/54887995/
- 132 | Magnate                                    | `   34,105,095,666.81` | https://zkillboard.com/kill/15986734/
- 133 | Merlin                                     | `   32,294,705,632.33` | https://zkillboard.com/kill/79631286/
- 134 | Punisher                                   | `   32,286,386,397.80` | https://zkillboard.com/kill/79621122/
- 135 | Federation Navy Comet                      | `   31,414,609,305.32` | https://zkillboard.com/kill/20724383/
- 136 | Griffin                                    | `   31,270,907,663.01` | https://zkillboard.com/kill/79625150/
- 137 | Raven Navy Issue                           | `   29,219,136,218.19` | https://zkillboard.com/kill/67360198/
- 138 | Vindicator                                 | `   28,422,665,729.12` | https://zkillboard.com/kill/46058586/
+ 128 | Vindicator                                 | `   36,462,608,016.52` | https://zkillboard.com/kill/21035657/
+ 129 | Vigil                                      | `   36,451,224,807.05` | https://zkillboard.com/kill/14086532/
+ 130 | Hoarder                                    | `   36,291,763,451.01` | https://zkillboard.com/kill/14038048/
+ 131 | Typhoon Fleet Issue                        | `   34,910,682,319.93` | https://zkillboard.com/kill/55798335/
+ 132 | Svipul                                     | `   34,295,908,810.48` | https://zkillboard.com/kill/54887995/
+ 133 | Magnate                                    | `   34,105,095,666.81` | https://zkillboard.com/kill/15986734/
+ 134 | Merlin                                     | `   32,294,705,632.33` | https://zkillboard.com/kill/79631286/
+ 135 | Punisher                                   | `   32,286,386,397.80` | https://zkillboard.com/kill/79621122/
+ 136 | Federation Navy Comet                      | `   31,414,609,305.32` | https://zkillboard.com/kill/20724383/
+ 137 | Griffin                                    | `   31,270,907,663.01` | https://zkillboard.com/kill/79625150/
+ 138 | Raven Navy Issue                           | `   29,219,136,218.19` | https://zkillboard.com/kill/67360198/
  139 | Revelation                                 | `   27,956,324,709.12` | https://zkillboard.com/kill/74969682/
  140 | Bantam                                     | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
  141 | Burst                                      | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
