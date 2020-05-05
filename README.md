@@ -152,33 +152,33 @@ Rank | Destroyed                                  | ISK Value              | Lin
  143 | Caldari Navy Hookbill                      | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
  144 | Bhaalgorn                                  | `   23,424,633,789.85` | https://zkillboard.com/kill/31646748/
  145 | Phoenix                                    | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
- 146 | Tristan                                    | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
- 147 | Panther                                    | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
- 148 | Sin                                        | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
- 149 | Apocalypse Navy Issue                      | `   22,234,573,521.90` | https://zkillboard.com/kill/37898496/
- 150 | Rattlesnake Victory Edition                | `   21,806,284,235.31` | https://zkillboard.com/kill/50736149/
- 151 | Nestor                                     | `   21,344,452,730.86` | https://zkillboard.com/kill/75772608/
- 152 | Apostle                                    | `   19,976,202,600.39` | https://zkillboard.com/kill/78109790/
- 153 | Nidhoggur                                  | `   19,407,979,844.30` | https://zkillboard.com/kill/40070585/
- 154 | Ninazu                                     | `   19,367,326,132.72` | https://zkillboard.com/kill/76684706/
- 155 | Tengu                                      | `   18,448,003,918.25` | https://zkillboard.com/kill/25421219/
- 156 | Worm                                       | `   17,582,867,159.79` | https://zkillboard.com/kill/64012436/
- 157 | Loggerhead                                 | `   17,403,763,057.88` | https://zkillboard.com/kill/78727503/
- 158 | Guristas Shuttle                           | `   16,937,359,247.71` | https://zkillboard.com/kill/17395448/
- 159 | Ikitursa                                   | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
- 160 | Imicus                                     | `   15,787,812,542.00` | https://zkillboard.com/kill/16897149/
- 161 | Harbinger Navy Issue                       | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
- 162 | Navitas                                    | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
- 163 | Breacher                                   | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
- 164 | Rorqual ORE Development Edition            | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
- 165 | Capsule                                    | `   14,106,237,513.46` | https://zkillboard.com/kill/42439974/
- 166 | Daredevil                                  | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
- 167 | Chimera                                    | `   13,230,834,479.96` | https://zkillboard.com/kill/28037701/
- 168 | Dominix Navy Issue                         | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
- 169 | Lif                                        | `   12,631,451,827.50` | https://zkillboard.com/kill/68824893/
- 170 | Caracal Navy Issue                         | `   12,254,230,345.86` | https://zkillboard.com/kill/38771931/
- 171 | Kitsune                                    | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
- 172 | Scorpion Navy Issue                        | `   11,911,116,072.17` | https://zkillboard.com/kill/49145156/
+ 146 | Scorpion Navy Issue                        | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
+ 147 | Tristan                                    | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
+ 148 | Panther                                    | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
+ 149 | Sin                                        | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
+ 150 | Apocalypse Navy Issue                      | `   22,234,573,521.90` | https://zkillboard.com/kill/37898496/
+ 151 | Rattlesnake Victory Edition                | `   21,806,284,235.31` | https://zkillboard.com/kill/50736149/
+ 152 | Nestor                                     | `   21,344,452,730.86` | https://zkillboard.com/kill/75772608/
+ 153 | Apostle                                    | `   19,976,202,600.39` | https://zkillboard.com/kill/78109790/
+ 154 | Nidhoggur                                  | `   19,407,979,844.30` | https://zkillboard.com/kill/40070585/
+ 155 | Ninazu                                     | `   19,367,326,132.72` | https://zkillboard.com/kill/76684706/
+ 156 | Tengu                                      | `   18,448,003,918.25` | https://zkillboard.com/kill/25421219/
+ 157 | Worm                                       | `   17,582,867,159.79` | https://zkillboard.com/kill/64012436/
+ 158 | Loggerhead                                 | `   17,403,763,057.88` | https://zkillboard.com/kill/78727503/
+ 159 | Guristas Shuttle                           | `   16,937,359,247.71` | https://zkillboard.com/kill/17395448/
+ 160 | Ikitursa                                   | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
+ 161 | Imicus                                     | `   15,787,812,542.00` | https://zkillboard.com/kill/16897149/
+ 162 | Harbinger Navy Issue                       | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
+ 163 | Navitas                                    | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
+ 164 | Breacher                                   | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
+ 165 | Rorqual ORE Development Edition            | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
+ 166 | Capsule                                    | `   14,106,237,513.46` | https://zkillboard.com/kill/42439974/
+ 167 | Daredevil                                  | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
+ 168 | Chimera                                    | `   13,230,834,479.96` | https://zkillboard.com/kill/28037701/
+ 169 | Dominix Navy Issue                         | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
+ 170 | Lif                                        | `   12,631,451,827.50` | https://zkillboard.com/kill/68824893/
+ 171 | Caracal Navy Issue                         | `   12,254,230,345.86` | https://zkillboard.com/kill/38771931/
+ 172 | Kitsune                                    | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
  173 | 'Magpie' Mobile Tractor Unit               | `   11,814,246,871.30` | https://zkillboard.com/kill/38603232/
  174 | 'Packrat' Mobile Tractor Unit              | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
  175 | Republic Fleet Firetail                    | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
