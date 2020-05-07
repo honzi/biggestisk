@@ -118,7 +118,7 @@ Rank | Destroyed                                  | ISK Value              | Lin
  109 | Mastodon                                   | `   52,365,286,888.51` | https://zkillboard.com/kill/13628510/
  110 | Wyvern                                     | `   50,620,327,578.42` | https://zkillboard.com/kill/38862700/
  111 | Paladin                                    | `   50,178,909,369.93` | https://zkillboard.com/kill/28003625/
- 112 | Rattlesnake                                | `   49,615,223,480.08` | https://zkillboard.com/kill/83497945/
+ 112 | Rattlesnake                                | `   49,677,315,660.25` | https://zkillboard.com/kill/83497945/
  113 | Armageddon Navy Issue                      | `   49,317,582,117.32` | https://zkillboard.com/kill/14575546/
  114 | Kestrel                                    | `   49,005,161,599.98` | https://zkillboard.com/kill/16897374/
  115 | Ship Maintenance Array                     | `   48,113,718,999.68` | https://zkillboard.com/kill/50240671/
