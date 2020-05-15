@@ -195,17 +195,17 @@ Rank | Destroyed                                  | ISK Value              | Lin
  186 | 'Magpie' Mobile Tractor Unit               | `   11,814,246,871.30` | https://zkillboard.com/kill/38603232/
  187 | 'Packrat' Mobile Tractor Unit              | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
  188 | Republic Fleet Firetail                    | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
- 189 | Scorpion Ishukone Watch                    | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
- 190 | Redeemer                                   | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
- 191 | Pacifier                                   | `   10,674,281,705.42` | https://zkillboard.com/kill/80381507/
- 192 | Maelstrom                                  | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
- 193 | Capsule - Genolution 'Auroral' 197-variant | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
- 194 | Heron                                      | `   10,284,650,171.08` | https://zkillboard.com/kill/15450022/
- 195 | Thanatos                                   | `   10,047,094,440.08` | https://zkillboard.com/kill/39695464/
- 196 | Sunesis                                    | `    9,961,493,287.53` | https://zkillboard.com/kill/79637179/
- 197 | Stratios                                   | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
- 198 | Chemosh                                    | `    9,723,176,662.94` | https://zkillboard.com/kill/79916322/
- 199 | Orca                                       | `    9,625,731,929.90` | https://zkillboard.com/kill/82284008/
+ 189 | Orca                                       | `   11,214,853,809.95` | https://zkillboard.com/kill/84073843/
+ 190 | Scorpion Ishukone Watch                    | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
+ 191 | Redeemer                                   | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
+ 192 | Pacifier                                   | `   10,674,281,705.42` | https://zkillboard.com/kill/80381507/
+ 193 | Maelstrom                                  | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
+ 194 | Capsule - Genolution 'Auroral' 197-variant | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
+ 195 | Heron                                      | `   10,284,650,171.08` | https://zkillboard.com/kill/15450022/
+ 196 | Thanatos                                   | `   10,047,094,440.08` | https://zkillboard.com/kill/39695464/
+ 197 | Sunesis                                    | `    9,961,493,287.53` | https://zkillboard.com/kill/79637179/
+ 198 | Stratios                                   | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
+ 199 | Chemosh                                    | `    9,723,176,662.94` | https://zkillboard.com/kill/79916322/
  200 | Phantasm                                   | `    9,447,026,106.81` | https://zkillboard.com/kill/30032977/
  201 | Minokawa                                   | `    9,120,143,072.09` | https://zkillboard.com/kill/61616688/
  202 | Harpy                                      | `    9,087,932,157.00` | https://zkillboard.com/kill/67669842/
