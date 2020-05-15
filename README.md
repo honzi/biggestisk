@@ -189,13 +189,13 @@ Rank | Destroyed                                  | ISK Value              | Lin
  180 | Daredevil                                  | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
  181 | Chimera                                    | `   13,230,834,479.96` | https://zkillboard.com/kill/28037701/
  182 | Dominix Navy Issue                         | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
- 183 | Lif                                        | `   12,631,451,827.50` | https://zkillboard.com/kill/68824893/
- 184 | Caracal Navy Issue                         | `   12,254,230,345.86` | https://zkillboard.com/kill/38771931/
- 185 | Kitsune                                    | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
- 186 | 'Magpie' Mobile Tractor Unit               | `   11,814,246,871.30` | https://zkillboard.com/kill/38603232/
- 187 | 'Packrat' Mobile Tractor Unit              | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
- 188 | Republic Fleet Firetail                    | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
- 189 | Orca                                       | `   11,214,853,809.95` | https://zkillboard.com/kill/84073843/
+ 183 | Orca                                       | `   12,652,714,783.01` | https://zkillboard.com/kill/82126102/
+ 184 | Lif                                        | `   12,631,451,827.50` | https://zkillboard.com/kill/68824893/
+ 185 | Caracal Navy Issue                         | `   12,254,230,345.86` | https://zkillboard.com/kill/38771931/
+ 186 | Kitsune                                    | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
+ 187 | 'Magpie' Mobile Tractor Unit               | `   11,814,246,871.30` | https://zkillboard.com/kill/38603232/
+ 188 | 'Packrat' Mobile Tractor Unit              | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
+ 189 | Republic Fleet Firetail                    | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
  190 | Scorpion Ishukone Watch                    | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
  191 | Redeemer                                   | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
  192 | Pacifier                                   | `   10,674,281,705.42` | https://zkillboard.com/kill/80381507/
