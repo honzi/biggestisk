@@ -326,17 +326,17 @@ Rank | Destroyed                                  | ISK Value              | Lin
  317 | Manticore                                  | `    2,600,680,758.99` | https://zkillboard.com/kill/65949474/
  318 | Dominix                                    | `    2,577,296,194.15` | https://zkillboard.com/kill/11703651/
  319 | Astarte                                    | `    2,572,373,355.78` | https://zkillboard.com/kill/56791702/
- 320 | Skiff                                      | `    2,541,592,022.85` | https://zkillboard.com/kill/77326759/
- 321 | Tempest                                    | `    2,497,599,847.67` | https://zkillboard.com/kill/47267221/
- 322 | Megathron Quafe Edition                    | `    2,465,508,501.72` | https://zkillboard.com/kill/44406980/
- 323 | Astero                                     | `    2,424,119,666.36` | https://zkillboard.com/kill/62545044/
- 324 | Myrmidon                                   | `    2,410,374,236.41` | https://zkillboard.com/kill/24543488/
- 325 | Covetor                                    | `    2,400,008,559.05` | https://zkillboard.com/kill/71642222/
- 326 | Sentinel                                   | `    2,392,191,822.64` | https://zkillboard.com/kill/7390967/
- 327 | Shadow Control Tower                       | `    2,365,000,000.00` | https://zkillboard.com/kill/278915/
- 328 | True Sansha Control Tower                  | `    2,348,935,214.30` | https://zkillboard.com/kill/41508008/
- 329 | Claymore                                   | `    2,319,925,099.05` | https://zkillboard.com/kill/73557800/
- 330 | Zealot                                     | `    2,279,538,460.31` | https://zkillboard.com/kill/78670904/
+ 320 | Zealot                                     | `    2,567,612,687.87` | https://zkillboard.com/kill/70313322/
+ 321 | Skiff                                      | `    2,541,592,022.85` | https://zkillboard.com/kill/77326759/
+ 322 | Tempest                                    | `    2,497,599,847.67` | https://zkillboard.com/kill/47267221/
+ 323 | Megathron Quafe Edition                    | `    2,465,508,501.72` | https://zkillboard.com/kill/44406980/
+ 324 | Astero                                     | `    2,424,119,666.36` | https://zkillboard.com/kill/62545044/
+ 325 | Myrmidon                                   | `    2,410,374,236.41` | https://zkillboard.com/kill/24543488/
+ 326 | Covetor                                    | `    2,400,008,559.05` | https://zkillboard.com/kill/71642222/
+ 327 | Sentinel                                   | `    2,392,191,822.64` | https://zkillboard.com/kill/7390967/
+ 328 | Shadow Control Tower                       | `    2,365,000,000.00` | https://zkillboard.com/kill/278915/
+ 329 | True Sansha Control Tower                  | `    2,348,935,214.30` | https://zkillboard.com/kill/41508008/
+ 330 | Claymore                                   | `    2,319,925,099.05` | https://zkillboard.com/kill/73557800/
  331 | Devoter                                    | `    2,259,941,221.04` | https://zkillboard.com/kill/64714546/
  332 | Phobos                                     | `    2,248,797,437.64` | https://zkillboard.com/kill/72465026/
  333 | Magus                                      | `    2,242,576,374.32` | https://zkillboard.com/kill/74108439/
