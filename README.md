@@ -29,10 +29,10 @@ Rank | Destroyed                                  | ISK Value              | Lin
   20 | Sotiyo                                     | `  306,716,565,707.43` | https://zkillboard.com/kill/69924279/
   21 | Nemesis                                    | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
   22 | Obelisk                                    | `  268,005,623,416.29` | https://zkillboard.com/kill/7154867/
-  23 | Victor                                     | `  241,160,936,535.20` | https://zkillboard.com/kill/66343539/
-  24 | Komodo                                     | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
-  25 | Velator                                    | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
-  26 | Tiamat                                     | `  234,715,301,387.18` | https://zkillboard.com/kill/77663854/
+  23 | Tiamat                                     | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
+  24 | Victor                                     | `  241,160,936,535.20` | https://zkillboard.com/kill/66343539/
+  25 | Komodo                                     | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
+  26 | Velator                                    | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   27 | Vagabond                                   | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
   28 | Viator                                     | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
   29 | Anshar                                     | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
