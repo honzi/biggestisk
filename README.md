@@ -387,11 +387,11 @@ Rank | Destroyed                                  | ISK Value              | Lin
  378 | Maulus Navy Issue                          | `    1,270,952,339.22` | https://zkillboard.com/kill/67263670/
  379 | Exequror Navy Issue                        | `    1,213,713,447.37` | https://zkillboard.com/kill/29372701/
  380 | Aliastra Catalyst                          | `    1,191,686,731.30` | https://zkillboard.com/kill/27309041/
- 381 | Prospect                                   | `    1,189,706,528.23` | https://zkillboard.com/kill/84202528/
- 382 | Dread Guristas Control Tower Small         | `    1,136,000,000.00` | https://zkillboard.com/kill/9749271/
- 383 | Blood Control Tower                        | `    1,132,750,000.46` | https://zkillboard.com/kill/32171466/
- 384 | Basilisk                                   | `    1,120,142,509.12` | https://zkillboard.com/kill/43797037/
- 385 | Huginn                                     | `    1,112,001,014.26` | https://zkillboard.com/kill/46320908/
+ 381 | Dread Guristas Control Tower Small         | `    1,136,000,000.00` | https://zkillboard.com/kill/9749271/
+ 382 | Blood Control Tower                        | `    1,132,750,000.46` | https://zkillboard.com/kill/32171466/
+ 383 | Basilisk                                   | `    1,120,142,509.12` | https://zkillboard.com/kill/43797037/
+ 384 | Huginn                                     | `    1,112,001,014.26` | https://zkillboard.com/kill/46320908/
+ 385 | Prospect                                   | `    1,080,842,881.70` | https://zkillboard.com/kill/84202528/
  386 | Deacon                                     | `    1,076,622,263.94` | https://zkillboard.com/kill/77510085/
  387 | Falcon                                     | `    1,051,315,063.60` | https://zkillboard.com/kill/69625426/
  388 | Guristas Control Tower                     | `    1,037,787,499.99` | https://zkillboard.com/kill/31975443/
