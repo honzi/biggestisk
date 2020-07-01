@@ -59,7 +59,7 @@ Rank | Destroyed                                  | ISK Value              | Lin
   50 | Epithal                                    | `  153,004,948,150.72` | https://zkillboard.com/kill/12413244/
   51 | Buzzard                                    | `  149,736,053,588.46` | https://zkillboard.com/kill/5266144/
   52 | Imp                                        | `  147,599,036,862.12` | https://zkillboard.com/kill/77789901/
-  53 | Hydra                                      | `  144,767,616,341.40` | https://zkillboard.com/kill/85195928/
+  53 | Hydra                                      | `  144,735,157,738.00` | https://zkillboard.com/kill/85195928/
   54 | Dramiel                                    | `  141,137,936,997.06` | https://zkillboard.com/kill/20375844/
   55 | Ragnarok                                   | `  137,371,037,040.66` | https://zkillboard.com/kill/61365379/
   56 | Taipan                                     | `  135,014,791,964.57` | https://zkillboard.com/kill/79691222/
