@@ -578,9 +578,10 @@ Rank | Destroyed                                      | ISK Value              |
  569 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
  570 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
  571 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
- 572 | Mobile Medium Warp Disruptor I                 | `        2,343,760.00` | https://zkillboard.com/kill/82370263/
- 573 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 574 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 575 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 576 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 577 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+ 572 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
+ 573 | Mobile Medium Warp Disruptor I                 | `        2,343,760.00` | https://zkillboard.com/kill/82370263/
+ 574 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 575 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 576 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 577 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 578 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
