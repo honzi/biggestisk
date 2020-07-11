@@ -585,7 +585,7 @@ Rank | Destroyed                                      | ISK Value              |
  576 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
  577 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
  578 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
- 579 | Mobile Medium Warp Disruptor I                 | `        2,343,760.00` | https://zkillboard.com/kill/82370263/
+ 579 | Mobile Medium Warp Disruptor I                 | `        2,869,327.87` | https://zkillboard.com/kill/85455383/
  580 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
  581 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
  582 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
