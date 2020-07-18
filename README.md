@@ -184,10 +184,10 @@ Rank | Destroyed                                      | ISK Value              |
  175 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
  176 | Nestor                                         | `   21,344,452,730.86` | https://zkillboard.com/kill/75772608/
  177 | Apostle                                        | `   19,976,202,600.39` | https://zkillboard.com/kill/78109790/
- 178 | Nidhoggur                                      | `   19,407,979,844.30` | https://zkillboard.com/kill/40070585/
- 179 | Ninazu                                         | `   19,367,326,132.72` | https://zkillboard.com/kill/76684706/
- 180 | Jaguar                                         | `   18,550,440,608.95` | https://zkillboard.com/kill/932026/
- 181 | Tengu                                          | `   18,448,003,918.25` | https://zkillboard.com/kill/25421219/
+ 178 | Tengu                                          | `   19,885,646,651.17` | https://zkillboard.com/kill/85711924/
+ 179 | Nidhoggur                                      | `   19,407,979,844.30` | https://zkillboard.com/kill/40070585/
+ 180 | Ninazu                                         | `   19,367,326,132.72` | https://zkillboard.com/kill/76684706/
+ 181 | Jaguar                                         | `   18,550,440,608.95` | https://zkillboard.com/kill/932026/
  182 | Osprey                                         | `   18,170,034,772.70` | https://zkillboard.com/kill/10676005/
  183 | Omen Navy Issue                                | `   17,992,850,919.82` | https://zkillboard.com/kill/2995938/
  184 | Worm                                           | `   17,582,867,159.79` | https://zkillboard.com/kill/64012436/
