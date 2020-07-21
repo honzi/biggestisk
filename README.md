@@ -309,11 +309,11 @@ Rank | Destroyed                                      | ISK Value              |
  300 | Orthrus                                        | `    3,083,190,567.21` | https://zkillboard.com/kill/45373134/
  301 | Thunderchild                                   | `    3,076,958,856.04` | https://zkillboard.com/kill/85065443/
  302 | Mobile Tractor Unit                            | `    3,047,763,105.90` | https://zkillboard.com/kill/83338994/
- 303 | Caracal                                        | `    3,025,502,678.27` | https://zkillboard.com/kill/85729223/
- 304 | Goru's Shuttle                                 | `    3,018,877,216.08` | https://zkillboard.com/kill/58492970/
- 305 | Cruor                                          | `    3,013,512,617.21` | https://zkillboard.com/kill/65781311/
- 306 | Scythe Fleet Issue                             | `    2,990,608,066.58` | https://zkillboard.com/kill/70873151/
- 307 | Pontifex                                       | `    2,967,350,691.21` | https://zkillboard.com/kill/63820084/
+ 303 | Goru's Shuttle                                 | `    3,018,877,216.08` | https://zkillboard.com/kill/58492970/
+ 304 | Cruor                                          | `    3,013,512,617.21` | https://zkillboard.com/kill/65781311/
+ 305 | Scythe Fleet Issue                             | `    2,990,608,066.58` | https://zkillboard.com/kill/70873151/
+ 306 | Pontifex                                       | `    2,967,350,691.21` | https://zkillboard.com/kill/63820084/
+ 307 | Caracal                                        | `    2,951,430,062.88` | https://zkillboard.com/kill/85729223/
  308 | Scimitar                                       | `    2,947,209,802.62` | https://zkillboard.com/kill/78553585/
  309 | Angel Control Tower                            | `    2,925,500,000.84` | https://zkillboard.com/kill/17207748/
  310 | Immolator                                      | `    2,919,525,858.42` | https://zkillboard.com/kill/69198915/
