@@ -183,8 +183,8 @@ Rank | Destroyed                                      | ISK Value              |
  174 | Rattlesnake Victory Edition                    | `   21,806,284,235.31` | https://zkillboard.com/kill/50736149/
  175 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
  176 | Nestor                                         | `   21,344,452,730.86` | https://zkillboard.com/kill/75772608/
- 177 | Apostle                                        | `   19,976,202,600.39` | https://zkillboard.com/kill/78109790/
- 178 | Tengu                                          | `   19,885,646,651.17` | https://zkillboard.com/kill/85711924/
+ 177 | Tengu                                          | `   20,020,598,172.74` | https://zkillboard.com/kill/85711924/
+ 178 | Apostle                                        | `   19,976,202,600.39` | https://zkillboard.com/kill/78109790/
  179 | Nidhoggur                                      | `   19,407,979,844.30` | https://zkillboard.com/kill/40070585/
  180 | Ninazu                                         | `   19,367,326,132.72` | https://zkillboard.com/kill/76684706/
  181 | Jaguar                                         | `   18,550,440,608.95` | https://zkillboard.com/kill/932026/
