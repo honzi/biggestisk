@@ -341,10 +341,10 @@ Rank | Destroyed                                      | ISK Value              |
  332 | Sentinel                                       | `    2,392,191,822.64` | https://zkillboard.com/kill/7390967/
  333 | Shadow Control Tower                           | `    2,365,000,000.00` | https://zkillboard.com/kill/278915/
  334 | True Sansha Control Tower                      | `    2,348,935,214.30` | https://zkillboard.com/kill/41508008/
- 335 | Vexor                                          | `    2,327,111,162.29` | https://zkillboard.com/kill/85783683/
- 336 | Claymore                                       | `    2,319,925,099.05` | https://zkillboard.com/kill/73557800/
- 337 | Hawk                                           | `    2,266,702,165.10` | https://zkillboard.com/kill/2935339/
- 338 | Devoter                                        | `    2,259,941,221.04` | https://zkillboard.com/kill/64714546/
+ 335 | Claymore                                       | `    2,319,925,099.05` | https://zkillboard.com/kill/73557800/
+ 336 | Hawk                                           | `    2,266,702,165.10` | https://zkillboard.com/kill/2935339/
+ 337 | Devoter                                        | `    2,259,941,221.04` | https://zkillboard.com/kill/64714546/
+ 338 | Vexor                                          | `    2,252,618,671.13` | https://zkillboard.com/kill/85783683/
  339 | Phobos                                         | `    2,248,797,437.64` | https://zkillboard.com/kill/72465026/
  340 | Magus                                          | `    2,242,576,374.32` | https://zkillboard.com/kill/74108439/
  341 | Raven                                          | `    2,227,321,148.98` | https://zkillboard.com/kill/53923777/
