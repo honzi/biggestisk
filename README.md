@@ -626,10 +626,11 @@ Rank | Destroyed                                      | ISK Value              |
  617 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
  618 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
  619 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
- 620 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
- 621 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
- 622 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 623 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 624 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 625 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 626 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+ 620 | Ammunition Assembly Array                      | `        6,499,999.88` | https://zkillboard.com/kill/8528137/
+ 621 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
+ 622 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
+ 623 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 624 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 625 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 626 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 627 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
