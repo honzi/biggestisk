@@ -625,23 +625,24 @@ Rank | Destroyed                                      | ISK Value              |
  616 | Serpentis Small Blaster Battery                | `       13,765,763.14` | https://zkillboard.com/kill/31350925/
  617 | Large Railgun Battery                          | `       13,276,917.08` | https://zkillboard.com/kill/74268375/
  618 | Medium Biochemical Reactor Array               | `       12,999,999.98` | https://zkillboard.com/kill/55821329/
- 619 | Satyr II                                       | `       11,519,733.07` | https://zkillboard.com/kill/55499869/
- 620 | Equite II                                      | `       10,971,002.57` | https://zkillboard.com/kill/55256081/
- 621 | Standup Locust I                               | `       10,850,746.27` | https://zkillboard.com/kill/68469476/
- 622 | Serpentis Large Railgun Battery                | `       10,652,044.57` | https://zkillboard.com/kill/60294502/
- 623 | Standup Dragonfly I                            | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
- 624 | Standup Templar I                              | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
- 625 | Component Assembly Array                       | `        9,495,000.00` | https://zkillboard.com/kill/120180/
- 626 | Locust II                                      | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
- 627 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
- 628 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
- 629 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
- 630 | Ammunition Assembly Array                      | `        6,499,999.88` | https://zkillboard.com/kill/8528137/
- 631 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
- 632 | Phase Inversion Battery                        | `        4,224,462.98` | https://zkillboard.com/kill/264835/
- 633 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
- 634 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 635 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 636 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 637 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 638 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+ 619 | Malleus I                                      | `       12,498,999.97` | https://zkillboard.com/kill/53877706/
+ 620 | Satyr II                                       | `       11,519,733.07` | https://zkillboard.com/kill/55499869/
+ 621 | Equite II                                      | `       10,971,002.57` | https://zkillboard.com/kill/55256081/
+ 622 | Standup Locust I                               | `       10,850,746.27` | https://zkillboard.com/kill/68469476/
+ 623 | Serpentis Large Railgun Battery                | `       10,652,044.57` | https://zkillboard.com/kill/60294502/
+ 624 | Standup Dragonfly I                            | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
+ 625 | Standup Templar I                              | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
+ 626 | Component Assembly Array                       | `        9,495,000.00` | https://zkillboard.com/kill/120180/
+ 627 | Locust II                                      | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
+ 628 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
+ 629 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
+ 630 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
+ 631 | Ammunition Assembly Array                      | `        6,499,999.88` | https://zkillboard.com/kill/8528137/
+ 632 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
+ 633 | Phase Inversion Battery                        | `        4,224,462.98` | https://zkillboard.com/kill/264835/
+ 634 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
+ 635 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 636 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 637 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 638 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 639 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
