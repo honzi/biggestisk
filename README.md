@@ -635,18 +635,19 @@ Rank | Destroyed                                      | ISK Value              |
  626 | Serpentis Large Railgun Battery                | `       10,652,044.57` | https://zkillboard.com/kill/60294502/
  627 | Standup Dragonfly I                            | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
  628 | Standup Templar I                              | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
- 629 | Component Assembly Array                       | `        9,495,000.00` | https://zkillboard.com/kill/120180/
- 630 | Mantis I                                       | `        9,195,291.82` | https://zkillboard.com/kill/54180524/
- 631 | Locust II                                      | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
- 632 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
- 633 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
- 634 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
- 635 | Ammunition Assembly Array                      | `        6,499,999.88` | https://zkillboard.com/kill/8528137/
- 636 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
- 637 | Phase Inversion Battery                        | `        4,224,462.98` | https://zkillboard.com/kill/264835/
- 638 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
- 639 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 640 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 641 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 642 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 643 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+ 629 | Cyclops I                                      | `        9,504,239.32` | https://zkillboard.com/kill/85457002/
+ 630 | Component Assembly Array                       | `        9,495,000.00` | https://zkillboard.com/kill/120180/
+ 631 | Mantis I                                       | `        9,195,291.82` | https://zkillboard.com/kill/54180524/
+ 632 | Locust II                                      | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
+ 633 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
+ 634 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
+ 635 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
+ 636 | Ammunition Assembly Array                      | `        6,499,999.88` | https://zkillboard.com/kill/8528137/
+ 637 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
+ 638 | Phase Inversion Battery                        | `        4,224,462.98` | https://zkillboard.com/kill/264835/
+ 639 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
+ 640 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 641 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 642 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 643 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 644 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
