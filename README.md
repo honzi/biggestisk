@@ -129,7 +129,7 @@ Rank | Destroyed                                      | ISK Value              |
  120 | Rorqual                                        | `   54,746,712,831.88` | https://zkillboard.com/kill/68363661/
  121 | Cheetah                                        | `   54,107,018,476.63` | https://zkillboard.com/kill/14360876/
  122 | Mastodon                                       | `   52,365,286,888.51` | https://zkillboard.com/kill/13628510/
- 123 | Confessor                                      | `   51,332,330,503.15` | https://zkillboard.com/kill/86525691/
+ 123 | Confessor                                      | `   51,686,330,455.50` | https://zkillboard.com/kill/86525691/
  124 | Wyvern                                         | `   50,620,327,578.42` | https://zkillboard.com/kill/38862700/
  125 | Paladin                                        | `   50,178,909,369.93` | https://zkillboard.com/kill/28003625/
  126 | Rattlesnake                                    | `   49,677,315,660.25` | https://zkillboard.com/kill/83497945/
