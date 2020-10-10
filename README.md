@@ -679,8 +679,9 @@ Rank | Destroyed                                      | ISK Value              |
  670 | Ion Field Projection Battery                   | `        4,092,606.50` | https://zkillboard.com/kill/82851937/
  671 | Medium Beam Laser Battery                      | `        3,991,023.07` | https://zkillboard.com/kill/78970802/
  672 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
- 673 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 674 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 675 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 676 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 677 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+ 673 | Small Artillery Battery                        | `        2,706,642.65` | https://zkillboard.com/kill/87198235/
+ 674 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 675 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 676 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 677 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 678 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
