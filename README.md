@@ -317,25 +317,25 @@ Rank | Destroyed                                      | ISK Value              |
  309 | Scimitar                                       | `    2,947,209,802.62` | https://zkillboard.com/kill/78553585/
  310 | Angel Control Tower                            | `    2,925,500,000.84` | https://zkillboard.com/kill/17207748/
  311 | Immolator                                      | `    2,919,525,858.42` | https://zkillboard.com/kill/69198915/
- 312 | Cynabal                                        | `    2,863,692,533.46` | https://zkillboard.com/kill/25837022/
- 313 | Maelstrom Nefantar Edition                     | `    2,859,881,102.90` | https://zkillboard.com/kill/39745502/
- 314 | Augoror Navy Issue                             | `    2,819,217,570.24` | https://zkillboard.com/kill/74137830/
- 315 | Retriever                                      | `    2,748,995,568.66` | https://zkillboard.com/kill/31386180/
- 316 | Hyena                                          | `    2,720,095,675.32` | https://zkillboard.com/kill/2087757/
- 317 | Porpoise                                       | `    2,708,173,626.92` | https://zkillboard.com/kill/77959657/
- 318 | Muninn                                         | `    2,670,903,123.37` | https://zkillboard.com/kill/78428654/
- 319 | Echelon                                        | `    2,666,708,266.69` | https://zkillboard.com/kill/17793937/
- 320 | Dark Blood Control Tower                       | `    2,649,999,999.98` | https://zkillboard.com/kill/1190543/
- 321 | Rokh                                           | `    2,627,219,293.24` | https://zkillboard.com/kill/25034298/
- 322 | Nergal                                         | `    2,615,788,452.68` | https://zkillboard.com/kill/82293262/
- 323 | Manticore                                      | `    2,600,680,758.99` | https://zkillboard.com/kill/65949474/
- 324 | Dominix                                        | `    2,577,296,194.15` | https://zkillboard.com/kill/11703651/
- 325 | Astarte                                        | `    2,572,373,355.78` | https://zkillboard.com/kill/56791702/
- 326 | Zealot                                         | `    2,567,612,687.87` | https://zkillboard.com/kill/70313322/
- 327 | Skiff                                          | `    2,541,592,022.85` | https://zkillboard.com/kill/77326759/
- 328 | Tempest                                        | `    2,497,599,847.67` | https://zkillboard.com/kill/47267221/
- 329 | Megathron Quafe Edition                        | `    2,465,508,501.72` | https://zkillboard.com/kill/44406980/
- 330 | Astero                                         | `    2,424,119,666.36` | https://zkillboard.com/kill/62545044/
+ 312 | Astero                                         | `    2,877,604,225.33` | https://zkillboard.com/kill/87836578/
+ 313 | Cynabal                                        | `    2,863,692,533.46` | https://zkillboard.com/kill/25837022/
+ 314 | Maelstrom Nefantar Edition                     | `    2,859,881,102.90` | https://zkillboard.com/kill/39745502/
+ 315 | Augoror Navy Issue                             | `    2,819,217,570.24` | https://zkillboard.com/kill/74137830/
+ 316 | Retriever                                      | `    2,748,995,568.66` | https://zkillboard.com/kill/31386180/
+ 317 | Hyena                                          | `    2,720,095,675.32` | https://zkillboard.com/kill/2087757/
+ 318 | Porpoise                                       | `    2,708,173,626.92` | https://zkillboard.com/kill/77959657/
+ 319 | Muninn                                         | `    2,670,903,123.37` | https://zkillboard.com/kill/78428654/
+ 320 | Echelon                                        | `    2,666,708,266.69` | https://zkillboard.com/kill/17793937/
+ 321 | Dark Blood Control Tower                       | `    2,649,999,999.98` | https://zkillboard.com/kill/1190543/
+ 322 | Rokh                                           | `    2,627,219,293.24` | https://zkillboard.com/kill/25034298/
+ 323 | Nergal                                         | `    2,615,788,452.68` | https://zkillboard.com/kill/82293262/
+ 324 | Manticore                                      | `    2,600,680,758.99` | https://zkillboard.com/kill/65949474/
+ 325 | Dominix                                        | `    2,577,296,194.15` | https://zkillboard.com/kill/11703651/
+ 326 | Astarte                                        | `    2,572,373,355.78` | https://zkillboard.com/kill/56791702/
+ 327 | Zealot                                         | `    2,567,612,687.87` | https://zkillboard.com/kill/70313322/
+ 328 | Skiff                                          | `    2,541,592,022.85` | https://zkillboard.com/kill/77326759/
+ 329 | Tempest                                        | `    2,497,599,847.67` | https://zkillboard.com/kill/47267221/
+ 330 | Megathron Quafe Edition                        | `    2,465,508,501.72` | https://zkillboard.com/kill/44406980/
  331 | Myrmidon                                       | `    2,410,374,236.41` | https://zkillboard.com/kill/24543488/
  332 | Covetor                                        | `    2,400,008,559.05` | https://zkillboard.com/kill/71642222/
  333 | Sentinel                                       | `    2,392,191,822.64` | https://zkillboard.com/kill/7390967/
