@@ -6,7 +6,7 @@ Biggest ISK
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|--------------------------------------
-   1 | Iteron Mark V                                  | `2,083,045,200,229.53` | https://zkillboard.com/kill/79723240/
+   1 | Iteron Mark V                                  | `2,083,038,441,846.09` | https://zkillboard.com/kill/79723240/
    2 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
    3 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
    4 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
@@ -15,14 +15,14 @@ Rank | Destroyed                                      | ISK Value              |
    7 | Miasmos                                        | `  652,596,062,754.23` | https://zkillboard.com/kill/40418011/
    8 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
    9 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
-  10 | Molok                                          | `  569,501,538,678.05` | https://zkillboard.com/kill/71605015/
+  10 | Molok                                          | `  567,958,752,963.82` | https://zkillboard.com/kill/71605015/
   11 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
   12 | Moracha                                        | `  517,121,034,591.32` | https://zkillboard.com/kill/53900531/
   13 | Opux Dragoon Yacht                             | `  500,000,000,000.02` | https://zkillboard.com/kill/63711228/
   14 | Catalyst                                       | `  435,594,386,419.36` | https://zkillboard.com/kill/12240997/
-  15 | Crane                                          | `  390,457,504,018.22` | https://zkillboard.com/kill/79650638/
-  16 | Providence                                     | `  357,241,547,899.82` | https://zkillboard.com/kill/40690841/
-  17 | Vanquisher                                     | `  356,503,570,276.42` | https://zkillboard.com/kill/62097910/
+  15 | Crane                                          | `  394,287,205,347.27` | https://zkillboard.com/kill/79650638/
+  16 | Providence                                     | `  383,458,935,112.62` | https://zkillboard.com/kill/40690841/
+  17 | Vanquisher                                     | `  355,569,627,578.53` | https://zkillboard.com/kill/62097910/
   18 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
   19 | Charon                                         | `  330,556,993,400.53` | https://zkillboard.com/kill/14535158/
   20 | Sotiyo                                         | `  306,716,565,707.43` | https://zkillboard.com/kill/69924279/
