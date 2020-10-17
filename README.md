@@ -53,7 +53,7 @@ Rank | Destroyed                                      | ISK Value              |
   45 | Bestower                                       | `  167,391,988,176.60` | https://zkillboard.com/kill/18312601/
   46 | Chameleon                                      | `  163,379,669,099.61` | https://zkillboard.com/kill/78373188/
   47 | Rhea                                           | `  158,797,684,321.91` | https://zkillboard.com/kill/82772374/
-  48 | Adrestia                                       | `  156,113,811,656.31` | https://zkillboard.com/kill/50724250/
+  48 | Adrestia                                       | `  156,101,809,366.87` | https://zkillboard.com/kill/50724250/
   49 | Virtuoso                                       | `  155,529,503,018.16` | https://zkillboard.com/kill/75790303/
   50 | Epithal                                        | `  153,004,948,150.72` | https://zkillboard.com/kill/12413244/
   51 | Buzzard                                        | `  149,736,053,588.46` | https://zkillboard.com/kill/5266144/
