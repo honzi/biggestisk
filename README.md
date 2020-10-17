@@ -388,13 +388,13 @@ Rank | Destroyed                                      | ISK Value              |
  380 | Nefantar Thrasher                              | `    1,411,021,025.42` | https://zkillboard.com/kill/31132216/
  381 | Vengeance                                      | `    1,340,980,842.03` | https://zkillboard.com/kill/67690858/
  382 | Mackinaw ORE Development Edition               | `    1,327,151,285.21` | https://zkillboard.com/kill/40431954/
- 383 | Stork                                          | `    1,272,844,266.42` | https://zkillboard.com/kill/81656084/
- 384 | Maulus Navy Issue                              | `    1,270,952,339.22` | https://zkillboard.com/kill/67263670/
- 385 | Exequror Navy Issue                            | `    1,213,713,447.37` | https://zkillboard.com/kill/29372701/
- 386 | Aliastra Catalyst                              | `    1,191,686,731.30` | https://zkillboard.com/kill/27309041/
- 387 | Dread Guristas Control Tower Small             | `    1,136,000,000.00` | https://zkillboard.com/kill/9749271/
- 388 | Blood Control Tower                            | `    1,132,750,000.46` | https://zkillboard.com/kill/32171466/
- 389 | Basilisk                                       | `    1,120,142,509.12` | https://zkillboard.com/kill/43797037/
+ 383 | Basilisk                                       | `    1,289,479,195.78` | https://zkillboard.com/kill/87917930/
+ 384 | Stork                                          | `    1,272,844,266.42` | https://zkillboard.com/kill/81656084/
+ 385 | Maulus Navy Issue                              | `    1,270,952,339.22` | https://zkillboard.com/kill/67263670/
+ 386 | Exequror Navy Issue                            | `    1,213,713,447.37` | https://zkillboard.com/kill/29372701/
+ 387 | Aliastra Catalyst                              | `    1,191,686,731.30` | https://zkillboard.com/kill/27309041/
+ 388 | Dread Guristas Control Tower Small             | `    1,136,000,000.00` | https://zkillboard.com/kill/9749271/
+ 389 | Blood Control Tower                            | `    1,132,750,000.46` | https://zkillboard.com/kill/32171466/
  390 | Huginn                                         | `    1,112,001,014.26` | https://zkillboard.com/kill/46320908/
  391 | Prospect                                       | `    1,080,842,881.70` | https://zkillboard.com/kill/84202528/
  392 | Deacon                                         | `    1,076,622,263.94` | https://zkillboard.com/kill/77510085/
