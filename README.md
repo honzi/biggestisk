@@ -60,7 +60,7 @@ Rank | Destroyed                                      | ISK Value              |
   52 | Imp                                            | `  147,599,036,862.12` | https://zkillboard.com/kill/77789901/
   53 | Hydra                                          | `  145,724,648,253.55` | https://zkillboard.com/kill/85857854/
   54 | Dramiel                                        | `  141,137,936,997.06` | https://zkillboard.com/kill/20375844/
-  55 | Ragnarok                                       | `  137,371,037,040.66` | https://zkillboard.com/kill/61365379/
+  55 | Ragnarok                                       | `  137,390,495,373.99` | https://zkillboard.com/kill/61365379/
   56 | Taipan                                         | `  135,014,791,964.57` | https://zkillboard.com/kill/79691222/
   57 | Tartara                                        | `  132,956,226,827.52` | https://zkillboard.com/kill/70510179/
   58 | Apotheosis                                     | `  132,556,072,901.83` | https://zkillboard.com/kill/3615862/
