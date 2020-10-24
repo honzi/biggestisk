@@ -77,9 +77,9 @@ Rank | Destroyed                                      | ISK Value              |
   69 | Gallente Shuttle                               | `  111,677,592,644.02` | https://zkillboard.com/kill/20497551/
   70 | Fenrir                                         | `  111,021,365,794.39` | https://zkillboard.com/kill/79622491/
   71 | Occator                                        | `  109,604,325,074.71` | https://zkillboard.com/kill/42202837/
-  72 | Marshal                                        | `  109,471,072,673.91` | https://zkillboard.com/kill/70357303/
-  73 | Crow                                           | `  107,640,919,249.64` | https://zkillboard.com/kill/771885/
-  74 | Slasher                                        | `  107,540,231,249.38` | https://zkillboard.com/kill/69997390/
+  72 | Crow                                           | `  107,640,919,249.64` | https://zkillboard.com/kill/771885/
+  73 | Slasher                                        | `  107,540,231,249.38` | https://zkillboard.com/kill/69997390/
+  74 | Marshal                                        | `  107,275,161,750.15` | https://zkillboard.com/kill/70357303/
   75 | Crusader                                       | `  107,205,644,126.00` | https://zkillboard.com/kill/5273799/
   76 | Vangel                                         | `  103,776,919,955.60` | https://zkillboard.com/kill/22278966/
   77 | Rifter                                         | `  103,673,545,339.81` | https://zkillboard.com/kill/16062901/
@@ -92,7 +92,7 @@ Rank | Destroyed                                      | ISK Value              |
   84 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
   85 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
   86 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
-  87 | Widow                                          | `   90,327,024,099.98` | https://zkillboard.com/kill/80681361/
+  87 | Widow                                          | `   90,343,293,941.24` | https://zkillboard.com/kill/80681361/
   88 | Impel                                          | `   88,851,265,944.63` | https://zkillboard.com/kill/19953239/
   89 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
   90 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
