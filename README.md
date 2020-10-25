@@ -99,20 +99,20 @@ Rank | Destroyed                                      | ISK Value              |
   91 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
   92 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
   93 | Prowler                                        | `   87,050,515,483.24` | https://zkillboard.com/kill/2440866/
-  94 | 'Moreau' Fortizar                              | `   85,955,144,535.83` | https://zkillboard.com/kill/71297180/
-  95 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
-  96 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
-  97 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
-  98 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
-  99 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
- 100 | Hematos                                        | `   79,684,772,715.41` | https://zkillboard.com/kill/79649125/
- 101 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
- 102 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
- 103 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
- 104 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
- 105 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
- 106 | Machariel                                      | `   68,211,833,765.20` | https://zkillboard.com/kill/27694789/
- 107 | 'Marginis' Fortizar                            | `   67,341,494,294.08` | https://zkillboard.com/kill/75937628/
+  94 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
+  95 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
+  96 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
+  97 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
+  98 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
+  99 | Hematos                                        | `   79,684,772,715.41` | https://zkillboard.com/kill/79649125/
+ 100 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
+ 101 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
+ 102 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
+ 103 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
+ 104 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
+ 105 | Machariel                                      | `   68,211,833,765.20` | https://zkillboard.com/kill/27694789/
+ 106 | 'Marginis' Fortizar                            | `   67,341,494,294.08` | https://zkillboard.com/kill/75937628/
+ 107 | 'Moreau' Fortizar                              | `   67,293,777,808.79` | https://zkillboard.com/kill/73998636/
  108 | Maller                                         | `   66,237,112,598.42` | https://zkillboard.com/kill/14113212/
  109 | Atron                                          | `   66,135,944,231.41` | https://zkillboard.com/kill/61567389/
  110 | Ark                                            | `   65,116,217,444.57` | https://zkillboard.com/kill/74352396/
