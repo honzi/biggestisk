@@ -104,7 +104,7 @@ Rank | Destroyed                                      | ISK Value              |
   96 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
   97 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
   98 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
-  99 | Hematos                                        | `   79,684,772,715.41` | https://zkillboard.com/kill/79649125/
+  99 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
  100 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
  101 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
  102 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
