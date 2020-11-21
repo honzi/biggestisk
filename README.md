@@ -536,10 +536,10 @@ Rank | Destroyed                                      | ISK Value              |
  528 | Domination Large AutoCannon Battery            | `       77,497,945.00` | https://zkillboard.com/kill/1454318/
  529 | Dark Blood Medium Pulse Laser Battery          | `       74,925,000.00` | https://zkillboard.com/kill/2099460/
  530 | Equipment Assembly Array                       | `       73,454,504.58` | https://zkillboard.com/kill/54379351/
- 531 | System Scanning Array                          | `       72,916,585.87` | https://zkillboard.com/kill/54936331/
- 532 | Sansha Small Pulse Laser Battery               | `       72,400,000.00` | https://zkillboard.com/kill/4157742/
- 533 | Cenobite II                                    | `       72,351,929.59` | https://zkillboard.com/kill/53677496/
- 534 | Mobile Sanguine Harvester                      | `       66,500,303.10` | https://zkillboard.com/kill/88355348/
+ 531 | Mobile Sanguine Harvester                      | `       72,990,000.07` | https://zkillboard.com/kill/88355348/
+ 532 | System Scanning Array                          | `       72,916,585.87` | https://zkillboard.com/kill/54936331/
+ 533 | Sansha Small Pulse Laser Battery               | `       72,400,000.00` | https://zkillboard.com/kill/4157742/
+ 534 | Cenobite II                                    | `       72,351,929.59` | https://zkillboard.com/kill/53677496/
  535 | Standup Cyclops II                             | `       65,997,982.55` | https://zkillboard.com/kill/68208474/
  536 | Standup Scarab II                              | `       65,606,059.27` | https://zkillboard.com/kill/79556632/
  537 | Standup Siren II                               | `       64,402,309.91` | https://zkillboard.com/kill/77499321/
