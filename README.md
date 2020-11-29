@@ -243,7 +243,7 @@ Rank | Destroyed                                      | ISK Value              |
  235 | Scythe                                         | `    7,950,955,352.76` | https://zkillboard.com/kill/7840970/
  236 | 'Wetu' Mobile Depot                            | `    7,911,268,555.29` | https://zkillboard.com/kill/60104493/
  237 | Archon                                         | `    7,853,401,586.67` | https://zkillboard.com/kill/53888835/
- 238 | Mobile Tractor Unit                            | `    7,842,527,088.10` | https://zkillboard.com/kill/88721054/
+ 238 | Mobile Tractor Unit                            | `    7,846,429,643.70` | https://zkillboard.com/kill/88721054/
  239 | Naglfar Justice Edition                        | `    7,842,094,756.44` | https://zkillboard.com/kill/43497248/
  240 | Echo                                           | `    7,726,496,279.40` | https://zkillboard.com/kill/69094141/
  241 | Legion                                         | `    7,701,569,645.51` | https://zkillboard.com/kill/78825165/
