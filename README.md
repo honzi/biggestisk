@@ -46,7 +46,7 @@ Rank | Destroyed                                      | ISK Value              |
   38 | Mammoth                                        | `  189,151,081,722.03` | https://zkillboard.com/kill/17304620/
   39 | Caracal Navy Issue                             | `  183,625,442,143.80` | https://zkillboard.com/kill/15049251/
   40 | Erebus                                         | `  182,586,735,296.69` | https://zkillboard.com/kill/56895433/
-  41 | Vendetta                                       | `  178,318,716,845.32` | https://zkillboard.com/kill/62842109/
+  41 | Vendetta                                       | `  179,383,762,328.55` | https://zkillboard.com/kill/89479590/
   42 | Fiend                                          | `  175,425,712,701.48` | https://zkillboard.com/kill/51797738/
   43 | Avatar                                         | `  172,334,158,466.62` | https://zkillboard.com/kill/40647458/
   44 | Caldari Shuttle                                | `  172,121,559,999.96` | https://zkillboard.com/kill/79637670/
