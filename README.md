@@ -593,27 +593,27 @@ Rank | Destroyed                                      | ISK Value              |
  585 | Standup Equite II                              | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
  586 | Standup Antaeus I                              | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
  587 | Standup Stayr II                               | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
- 588 | Dragonfly II                                   | `       32,999,999.12` | https://zkillboard.com/kill/53701859/
- 589 | Dread Guristas Spatial Destabilization Battery | `       32,500,000.00` | https://zkillboard.com/kill/4381082/
- 590 | Mantis II                                      | `       31,644,463.53` | https://zkillboard.com/kill/54712960/
- 591 | Standup Termite I                              | `       31,350,669.30` | https://zkillboard.com/kill/72222117/
- 592 | Dark Blood Medium Beam Laser Battery           | `       30,942,010.05` | https://zkillboard.com/kill/32019483/
- 593 | Standup Cenobite I                             | `       30,539,178.59` | https://zkillboard.com/kill/68685802/
- 594 | Standup Dromi I                                | `       30,099,639.65` | https://zkillboard.com/kill/72272018/
- 595 | Standup Ametat I                               | `       29,832,539.59` | https://zkillboard.com/kill/70666430/
- 596 | Freki                                          | `       29,790,703.29` | https://zkillboard.com/kill/13343786/
- 597 | Standup Firbolg II                             | `       29,472,822.98` | https://zkillboard.com/kill/68253335/
- 598 | Standup Tyrfing I                              | `       29,145,353.84` | https://zkillboard.com/kill/72374756/
- 599 | Standup Einherji II                            | `       28,942,578.62` | https://zkillboard.com/kill/77697610/
- 600 | Standup Siren I                                | `       28,830,525.29` | https://zkillboard.com/kill/68096956/
- 601 | Punisher Tash-Murkon Edition                   | `       28,540,368.67` | https://zkillboard.com/kill/44422776/
- 602 | Standup Satyr I                                | `       28,287,095.94` | https://zkillboard.com/kill/68171072/
- 603 | Angel Small AutoCannon Battery                 | `       27,174,999.88` | https://zkillboard.com/kill/14083531/
- 604 | Dromi I                                        | `       26,966,731.33` | https://zkillboard.com/kill/53860923/
- 605 | Standup Gungnir I                              | `       25,349,191.75` | https://zkillboard.com/kill/71681585/
- 606 | Standup Mantis I                               | `       25,174,857.39` | https://zkillboard.com/kill/69848932/
- 607 | Serpentis Large Blaster Battery                | `       24,920,307.09` | https://zkillboard.com/kill/35796438/
- 608 | Mobile Large Warp Disruptor II                 | `       24,488,999.99` | https://zkillboard.com/kill/60983434/
+ 588 | Mobile Large Warp Disruptor II                 | `       33,039,825.35` | https://zkillboard.com/kill/89664804/
+ 589 | Dragonfly II                                   | `       32,999,999.12` | https://zkillboard.com/kill/53701859/
+ 590 | Dread Guristas Spatial Destabilization Battery | `       32,500,000.00` | https://zkillboard.com/kill/4381082/
+ 591 | Mantis II                                      | `       31,644,463.53` | https://zkillboard.com/kill/54712960/
+ 592 | Standup Termite I                              | `       31,350,669.30` | https://zkillboard.com/kill/72222117/
+ 593 | Dark Blood Medium Beam Laser Battery           | `       30,942,010.05` | https://zkillboard.com/kill/32019483/
+ 594 | Standup Cenobite I                             | `       30,539,178.59` | https://zkillboard.com/kill/68685802/
+ 595 | Standup Dromi I                                | `       30,099,639.65` | https://zkillboard.com/kill/72272018/
+ 596 | Standup Ametat I                               | `       29,832,539.59` | https://zkillboard.com/kill/70666430/
+ 597 | Freki                                          | `       29,790,703.29` | https://zkillboard.com/kill/13343786/
+ 598 | Standup Firbolg II                             | `       29,472,822.98` | https://zkillboard.com/kill/68253335/
+ 599 | Standup Tyrfing I                              | `       29,145,353.84` | https://zkillboard.com/kill/72374756/
+ 600 | Standup Einherji II                            | `       28,942,578.62` | https://zkillboard.com/kill/77697610/
+ 601 | Standup Siren I                                | `       28,830,525.29` | https://zkillboard.com/kill/68096956/
+ 602 | Punisher Tash-Murkon Edition                   | `       28,540,368.67` | https://zkillboard.com/kill/44422776/
+ 603 | Standup Satyr I                                | `       28,287,095.94` | https://zkillboard.com/kill/68171072/
+ 604 | Angel Small AutoCannon Battery                 | `       27,174,999.88` | https://zkillboard.com/kill/14083531/
+ 605 | Dromi I                                        | `       26,966,731.33` | https://zkillboard.com/kill/53860923/
+ 606 | Standup Gungnir I                              | `       25,349,191.75` | https://zkillboard.com/kill/71681585/
+ 607 | Standup Mantis I                               | `       25,174,857.39` | https://zkillboard.com/kill/69848932/
+ 608 | Serpentis Large Blaster Battery                | `       24,920,307.09` | https://zkillboard.com/kill/35796438/
  609 | Scarab I                                       | `       24,399,769.00` | https://zkillboard.com/kill/53928533/
  610 | True Sansha Large Beam Laser Battery           | `       23,999,998.99` | https://zkillboard.com/kill/2099142/
  611 | Standup Scarab I                               | `       23,865,830.46` | https://zkillboard.com/kill/72695368/
