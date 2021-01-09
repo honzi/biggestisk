@@ -282,7 +282,7 @@ Rank | Destroyed                                      | ISK Value              |
  274 | Rifter Nefantar Edition                        | `    4,568,736,189.77` | https://zkillboard.com/kill/42654115/
  275 | Brutix Navy Issue                              | `    4,549,220,555.80` | https://zkillboard.com/kill/77730137/
  276 | Abaddon Kador Edition                          | `    4,540,657,589.89` | https://zkillboard.com/kill/41132368/
- 277 | Thunderchild                                   | `    4,484,892,090.85` | https://zkillboard.com/kill/89660420/
+ 277 | Thunderchild                                   | `    4,489,765,145.63` | https://zkillboard.com/kill/89660420/
  278 | Dread Guristas Control Tower                   | `    4,447,500,000.51` | https://zkillboard.com/kill/1047334/
  279 | Miasmos Amastris Edition                       | `    4,380,493,652.53` | https://zkillboard.com/kill/26328441/
  280 | Violator                                       | `    4,366,514,894.99` | https://zkillboard.com/kill/55229995/
