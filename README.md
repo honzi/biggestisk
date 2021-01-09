@@ -593,7 +593,7 @@ Rank | Destroyed                                      | ISK Value              |
  585 | Standup Equite II                              | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
  586 | Standup Antaeus I                              | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
  587 | Standup Stayr II                               | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
- 588 | Mobile Large Warp Disruptor II                 | `       33,039,825.35` | https://zkillboard.com/kill/89664804/
+ 588 | Mobile Large Warp Disruptor II                 | `       33,365,015.82` | https://zkillboard.com/kill/89664804/
  589 | Dragonfly II                                   | `       32,999,999.12` | https://zkillboard.com/kill/53701859/
  590 | Dread Guristas Spatial Destabilization Battery | `       32,500,000.00` | https://zkillboard.com/kill/4381082/
  591 | Mantis II                                      | `       31,644,463.53` | https://zkillboard.com/kill/54712960/
