@@ -587,13 +587,13 @@ Rank | Destroyed                                      | ISK Value              |
  579 | Dark Blood Large Pulse Laser Battery           | `       37,308,582.32` | https://zkillboard.com/kill/32018705/
  580 | Gungnir I                                      | `       37,182,555.12` | https://zkillboard.com/kill/53751076/
  581 | Templar II                                     | `       36,987,998.11` | https://zkillboard.com/kill/53662156/
- 582 | Complex Reactor Array                          | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
- 583 | Standup Templar II                             | `       35,749,996.03` | https://zkillboard.com/kill/68098907/
- 584 | Dread Guristas Ion Field Projection Battery    | `       35,000,000.00` | https://zkillboard.com/kill/5072930/
- 585 | Standup Equite II                              | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
- 586 | Standup Antaeus I                              | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
- 587 | Standup Stayr II                               | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
- 588 | Mobile Large Warp Disruptor II                 | `       33,365,015.82` | https://zkillboard.com/kill/89664804/
+ 582 | Mobile Large Warp Disruptor II                 | `       36,633,945.36` | https://zkillboard.com/kill/89939561/
+ 583 | Complex Reactor Array                          | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
+ 584 | Standup Templar II                             | `       35,749,996.03` | https://zkillboard.com/kill/68098907/
+ 585 | Dread Guristas Ion Field Projection Battery    | `       35,000,000.00` | https://zkillboard.com/kill/5072930/
+ 586 | Standup Equite II                              | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
+ 587 | Standup Antaeus I                              | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
+ 588 | Standup Stayr II                               | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
  589 | Dragonfly II                                   | `       32,999,999.12` | https://zkillboard.com/kill/53701859/
  590 | Dread Guristas Spatial Destabilization Battery | `       32,500,000.00` | https://zkillboard.com/kill/4381082/
  591 | Mantis II                                      | `       31,644,463.53` | https://zkillboard.com/kill/54712960/
