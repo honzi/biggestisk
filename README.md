@@ -585,9 +585,9 @@ Rank | Destroyed                                      | ISK Value              |
  577 | Serpentis Medium Blaster Battery               | `       38,110,491.25` | https://zkillboard.com/kill/32820590/
  578 | Standup Locust II                              | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
  579 | Dark Blood Large Pulse Laser Battery           | `       37,308,582.32` | https://zkillboard.com/kill/32018705/
- 580 | Gungnir I                                      | `       37,182,555.12` | https://zkillboard.com/kill/53751076/
- 581 | Templar II                                     | `       36,987,998.11` | https://zkillboard.com/kill/53662156/
- 582 | Mobile Large Warp Disruptor II                 | `       36,633,945.36` | https://zkillboard.com/kill/89939561/
+ 580 | Mobile Large Warp Disruptor II                 | `       37,237,887.47` | https://zkillboard.com/kill/89993133/
+ 581 | Gungnir I                                      | `       37,182,555.12` | https://zkillboard.com/kill/53751076/
+ 582 | Templar II                                     | `       36,987,998.11` | https://zkillboard.com/kill/53662156/
  583 | Complex Reactor Array                          | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
  584 | Standup Templar II                             | `       35,749,996.03` | https://zkillboard.com/kill/68098907/
  585 | Dread Guristas Ion Field Projection Battery    | `       35,000,000.00` | https://zkillboard.com/kill/5072930/
