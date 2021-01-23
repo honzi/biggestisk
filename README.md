@@ -581,11 +581,11 @@ Rank | Destroyed                                      | ISK Value              |
  573 | Serpentis Small Railgun Battery                | `       39,839,999.00` | https://zkillboard.com/kill/7473883/
  574 | Shadow Medium Railgun Battery                  | `       39,249,999.69` | https://zkillboard.com/kill/19140543/
  575 | Dark Blood Large Beam Laser Battery            | `       38,940,501.24` | https://zkillboard.com/kill/33755516/
- 576 | Standup Malleus I                              | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
- 577 | Serpentis Medium Blaster Battery               | `       38,110,491.25` | https://zkillboard.com/kill/32820590/
- 578 | Standup Locust II                              | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
- 579 | Dark Blood Large Pulse Laser Battery           | `       37,308,582.32` | https://zkillboard.com/kill/32018705/
- 580 | Mobile Large Warp Disruptor II                 | `       37,237,887.47` | https://zkillboard.com/kill/89993133/
+ 576 | Mobile Large Warp Disruptor II                 | `       38,232,515.53` | https://zkillboard.com/kill/90135601/
+ 577 | Standup Malleus I                              | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
+ 578 | Serpentis Medium Blaster Battery               | `       38,110,491.25` | https://zkillboard.com/kill/32820590/
+ 579 | Standup Locust II                              | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
+ 580 | Dark Blood Large Pulse Laser Battery           | `       37,308,582.32` | https://zkillboard.com/kill/32018705/
  581 | Gungnir I                                      | `       37,182,555.12` | https://zkillboard.com/kill/53751076/
  582 | Templar II                                     | `       36,987,998.11` | https://zkillboard.com/kill/53662156/
  583 | Complex Reactor Array                          | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
