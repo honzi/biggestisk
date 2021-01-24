@@ -581,7 +581,7 @@ Rank | Destroyed                                      | ISK Value              |
  573 | Serpentis Small Railgun Battery                | `       39,839,999.00` | https://zkillboard.com/kill/7473883/
  574 | Shadow Medium Railgun Battery                  | `       39,249,999.69` | https://zkillboard.com/kill/19140543/
  575 | Dark Blood Large Beam Laser Battery            | `       38,940,501.24` | https://zkillboard.com/kill/33755516/
- 576 | Mobile Large Warp Disruptor II                 | `       38,232,515.53` | https://zkillboard.com/kill/90135601/
+ 576 | Mobile Large Warp Disruptor II                 | `       38,503,315.12` | https://zkillboard.com/kill/90197747/
  577 | Standup Malleus I                              | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
  578 | Serpentis Medium Blaster Battery               | `       38,110,491.25` | https://zkillboard.com/kill/32820590/
  579 | Standup Locust II                              | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
