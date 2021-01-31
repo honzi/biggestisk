@@ -497,202 +497,203 @@ Rank | Destroyed                                      | ISK Value              |
  489 | Punisher Kador Edition                         | `      210,697,090.46` | https://zkillboard.com/kill/40650905/
  490 | Cynosural System Jammer                        | `      209,670,333.22` | https://zkillboard.com/kill/71861035/
  491 | Small Mobile 'Hybrid' Siphon Unit              | `      185,846,826.58` | https://zkillboard.com/kill/44924268/
- 492 | Advanced Large Ship Assembly Array             | `      178,960,234.17` | https://zkillboard.com/kill/80873218/
- 493 | Inner Zone Shipping Catalyst                   | `      176,233,205.80` | https://zkillboard.com/kill/29295146/
- 494 | Stabber Nefantar Edition                       | `      171,461,479.16` | https://zkillboard.com/kill/41384304/
- 495 | Shadow Small Railgun Battery                   | `      165,416,665.83` | https://zkillboard.com/kill/13927724/
- 496 | True Sansha Small Pulse Laser Battery          | `      164,999,999.50` | https://zkillboard.com/kill/5151075/
- 497 | Advanced Medium Ship Assembly Array            | `      157,899,403.28` | https://zkillboard.com/kill/56515212/
- 498 | Guristas Phase Inversion Battery               | `      150,000,000.00` | https://zkillboard.com/kill/4598824/
- 499 | Customs Office                                 | `      147,136,488.88` | https://zkillboard.com/kill/87748213/
- 500 | Cormorant Guristas Edition                     | `      146,755,525.32` | https://zkillboard.com/kill/45542839/
- 501 | Domination Small Artillery Battery             | `      135,000,000.00` | https://zkillboard.com/kill/4045304/
- 502 | True Sansha Large Pulse Laser Battery          | `      129,943,494.99` | https://zkillboard.com/kill/2088807/
- 503 | Minmatar Control Tower Small                   | `      129,032,271.74` | https://zkillboard.com/kill/83115872/
- 504 | Amarr Control Tower Small                      | `      128,875,000.00` | https://zkillboard.com/kill/83413761/
- 505 | Mobile Cynosural Inhibitor                     | `      124,936,688.00` | https://zkillboard.com/kill/34701610/
- 506 | Gallente Control Tower Small                   | `      122,007,815.80` | https://zkillboard.com/kill/83213416/
- 507 | Thorax Inner Zone Shipping Edition             | `      121,292,846.45` | https://zkillboard.com/kill/42935364/
- 508 | Customs Office Gantry                          | `      120,222,162.25` | https://zkillboard.com/kill/54672661/
- 509 | Caldari Control Tower Small                    | `      119,328,581.54` | https://zkillboard.com/kill/83676728/
- 510 | Advanced Small Ship Assembly Array             | `      114,759,192.07` | https://zkillboard.com/kill/56324733/
- 511 | Concord Special Ops Frigate                    | `      108,507,511.16` | https://zkillboard.com/kill/12816753/
- 512 | Incursus Inner Zone Shipping Edition           | `      107,434,728.24` | https://zkillboard.com/kill/45327486/
- 513 | Large Ship Assembly Array                      | `      106,733,446.95` | https://zkillboard.com/kill/53363179/
- 514 | Medium Ship Assembly Array                     | `      105,535,233.46` | https://zkillboard.com/kill/56195326/
- 515 | Small Ship Assembly Array                      | `      105,327,042.07` | https://zkillboard.com/kill/55133756/
- 516 | Territorial Claim Unit                         | `      104,987,694.69` | https://zkillboard.com/kill/46723620/
- 517 | Blood Small Pulse Laser Battery                | `       97,049,249.25` | https://zkillboard.com/kill/7650094/
- 518 | Small Mobile 'Rote' Siphon Unit                | `       96,611,242.40` | https://zkillboard.com/kill/54274189/
- 519 | Ametat II                                      | `       94,998,479.88` | https://zkillboard.com/kill/53800246/
- 520 | Domination Medium AutoCannon Battery           | `       91,162,962.96` | https://zkillboard.com/kill/17873162/
- 521 | Subsystem Assembly Array                       | `       89,939,416.86` | https://zkillboard.com/kill/45530649/
- 522 | Domination Medium Artillery Battery            | `       86,399,999.00` | https://zkillboard.com/kill/2394818/
- 523 | Small Mobile Siphon Unit                       | `       83,287,425.81` | https://zkillboard.com/kill/64429506/
- 524 | Drug Lab                                       | `       83,102,018.95` | https://zkillboard.com/kill/54948225/
- 525 | Angel Medium AutoCannon Battery                | `       82,083,333.34` | https://zkillboard.com/kill/22169482/
- 526 | Thukker Component Assembly Array               | `       81,247,327.31` | https://zkillboard.com/kill/63109174/
- 527 | Standup Dromi II                               | `       79,979,392.18` | https://zkillboard.com/kill/78138119/
- 528 | Domination Large AutoCannon Battery            | `       77,497,945.00` | https://zkillboard.com/kill/1454318/
- 529 | Dark Blood Medium Pulse Laser Battery          | `       74,925,000.00` | https://zkillboard.com/kill/2099460/
- 530 | Equipment Assembly Array                       | `       73,454,504.58` | https://zkillboard.com/kill/54379351/
- 531 | Mobile Sanguine Harvester                      | `       72,990,000.07` | https://zkillboard.com/kill/88355348/
- 532 | System Scanning Array                          | `       72,916,585.87` | https://zkillboard.com/kill/54936331/
- 533 | Sansha Small Pulse Laser Battery               | `       72,400,000.00` | https://zkillboard.com/kill/4157742/
- 534 | Cenobite II                                    | `       72,351,929.59` | https://zkillboard.com/kill/53677496/
- 535 | Standup Cyclops II                             | `       65,997,982.55` | https://zkillboard.com/kill/68208474/
- 536 | Standup Scarab II                              | `       65,606,059.27` | https://zkillboard.com/kill/79556632/
- 537 | Standup Siren II                               | `       64,402,309.91` | https://zkillboard.com/kill/77499321/
- 538 | Siren I                                        | `       63,184,413.11` | https://zkillboard.com/kill/53679743/
- 539 | Domination Large Artillery Battery             | `       57,999,999.50` | https://zkillboard.com/kill/2394778/
- 540 | Guristas Ion Field Projection Battery          | `       55,895,525.41` | https://zkillboard.com/kill/30571438/
- 541 | Merlin Wiyrkomi Edition                        | `       55,730,728.63` | https://zkillboard.com/kill/43373399/
- 542 | Dread Guristas Phase Inversion Battery         | `       55,000,000.00` | https://zkillboard.com/kill/5073081/
- 543 | Standup Antaeus II                             | `       54,956,191.53` | https://zkillboard.com/kill/78421476/
- 544 | Malleus II                                     | `       54,110,567.61` | https://zkillboard.com/kill/53972065/
- 545 | Guristas Spatial Destabilization Battery       | `       53,750,000.00` | https://zkillboard.com/kill/26430318/
- 546 | Gungnir II                                     | `       51,988,999.96` | https://zkillboard.com/kill/54002583/
- 547 | Rapid Equipment Assembly Array                 | `       51,547,030.71` | https://zkillboard.com/kill/55407253/
- 548 | Cyclops II                                     | `       51,343,737.00` | https://zkillboard.com/kill/54011724/
- 549 | Standup Mantis II                              | `       50,681,398.00` | https://zkillboard.com/kill/71012490/
- 550 | Blood Medium Beam Laser Battery                | `       50,000,000.00` | https://zkillboard.com/kill/4999542/
- 551 | Domination Small AutoCannon Battery            | `       49,847,028.69` | https://zkillboard.com/kill/34734616/
- 552 | Standup Cyclops I                              | `       49,791,664.78` | https://zkillboard.com/kill/68087530/
- 553 | Standup Cenobite II                            | `       49,672,727.25` | https://zkillboard.com/kill/72617082/
- 554 | Standup Gungnir II                             | `       49,614,821.95` | https://zkillboard.com/kill/82222798/
- 555 | Standup Termite II                             | `       48,067,390.69` | https://zkillboard.com/kill/75196328/
- 556 | Angel Small Artillery Battery                  | `       47,682,736.84` | https://zkillboard.com/kill/14251104/
- 557 | Termite II                                     | `       47,545,941.32` | https://zkillboard.com/kill/54100030/
- 558 | Sansha Small Beam Laser Battery                | `       46,996,265.00` | https://zkillboard.com/kill/2220849/
- 559 | Standup Dragonfly II                           | `       46,850,042.11` | https://zkillboard.com/kill/68253336/
- 560 | Antaeus II                                     | `       46,848,937.21` | https://zkillboard.com/kill/54170263/
- 561 | Tyrfing II                                     | `       46,498,509.05` | https://zkillboard.com/kill/54179555/
- 562 | True Sansha Medium Pulse Laser Battery         | `       46,200,000.00` | https://zkillboard.com/kill/26003117/
- 563 | Mobile Scan Inhibitor                          | `       45,537,340.26` | https://zkillboard.com/kill/65572472/
- 564 | Dread Guristas White Noise Generation Battery  | `       44,616,666.87` | https://zkillboard.com/kill/18773014/
- 565 | Siren II                                       | `       44,490,502.21` | https://zkillboard.com/kill/53707373/
- 566 | Dromi II                                       | `       44,276,272.20` | https://zkillboard.com/kill/54016815/
- 567 | Shadow Medium Blaster Battery                  | `       43,699,997.87` | https://zkillboard.com/kill/16607270/
- 568 | Standup Malleus II                             | `       43,074,364.76` | https://zkillboard.com/kill/70690282/
- 569 | Scarab II                                      | `       42,281,844.38` | https://zkillboard.com/kill/53928687/
- 570 | Shadow Small Blaster Battery                   | `       41,949,999.50` | https://zkillboard.com/kill/14151519/
- 571 | Standup Tyrfing II                             | `       41,847,221.23` | https://zkillboard.com/kill/71479618/
- 572 | Standup Ametat II                              | `       41,079,448.90` | https://zkillboard.com/kill/77524875/
- 573 | Serpentis Small Railgun Battery                | `       39,839,999.00` | https://zkillboard.com/kill/7473883/
- 574 | Shadow Medium Railgun Battery                  | `       39,249,999.69` | https://zkillboard.com/kill/19140543/
- 575 | Dark Blood Large Beam Laser Battery            | `       38,940,501.24` | https://zkillboard.com/kill/33755516/
- 576 | Mobile Large Warp Disruptor II                 | `       38,503,315.12` | https://zkillboard.com/kill/90197747/
- 577 | Standup Malleus I                              | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
- 578 | Serpentis Medium Blaster Battery               | `       38,110,491.25` | https://zkillboard.com/kill/32820590/
- 579 | Standup Locust II                              | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
- 580 | Dark Blood Large Pulse Laser Battery           | `       37,308,582.32` | https://zkillboard.com/kill/32018705/
- 581 | Gungnir I                                      | `       37,182,555.12` | https://zkillboard.com/kill/53751076/
- 582 | Templar II                                     | `       36,987,998.11` | https://zkillboard.com/kill/53662156/
- 583 | Complex Reactor Array                          | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
- 584 | Standup Templar II                             | `       35,749,996.03` | https://zkillboard.com/kill/68098907/
- 585 | Dread Guristas Ion Field Projection Battery    | `       35,000,000.00` | https://zkillboard.com/kill/5072930/
- 586 | Standup Equite II                              | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
- 587 | Standup Antaeus I                              | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
- 588 | Standup Stayr II                               | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
- 589 | Dragonfly II                                   | `       32,999,999.12` | https://zkillboard.com/kill/53701859/
- 590 | Dread Guristas Spatial Destabilization Battery | `       32,500,000.00` | https://zkillboard.com/kill/4381082/
- 591 | Mantis II                                      | `       31,644,463.53` | https://zkillboard.com/kill/54712960/
- 592 | Standup Termite I                              | `       31,350,669.30` | https://zkillboard.com/kill/72222117/
- 593 | Dark Blood Medium Beam Laser Battery           | `       30,942,010.05` | https://zkillboard.com/kill/32019483/
- 594 | Standup Cenobite I                             | `       30,539,178.59` | https://zkillboard.com/kill/68685802/
- 595 | Standup Dromi I                                | `       30,099,639.65` | https://zkillboard.com/kill/72272018/
- 596 | Standup Ametat I                               | `       29,832,539.59` | https://zkillboard.com/kill/70666430/
- 597 | Freki                                          | `       29,790,703.29` | https://zkillboard.com/kill/13343786/
- 598 | Standup Firbolg II                             | `       29,472,822.98` | https://zkillboard.com/kill/68253335/
- 599 | Standup Tyrfing I                              | `       29,145,353.84` | https://zkillboard.com/kill/72374756/
- 600 | Standup Einherji II                            | `       28,942,578.62` | https://zkillboard.com/kill/77697610/
- 601 | Standup Siren I                                | `       28,830,525.29` | https://zkillboard.com/kill/68096956/
- 602 | Punisher Tash-Murkon Edition                   | `       28,540,368.67` | https://zkillboard.com/kill/44422776/
- 603 | Standup Satyr I                                | `       28,287,095.94` | https://zkillboard.com/kill/68171072/
- 604 | Angel Small AutoCannon Battery                 | `       27,174,999.88` | https://zkillboard.com/kill/14083531/
- 605 | Dromi I                                        | `       26,966,731.33` | https://zkillboard.com/kill/53860923/
- 606 | Standup Gungnir I                              | `       25,349,191.75` | https://zkillboard.com/kill/71681585/
- 607 | Standup Mantis I                               | `       25,174,857.39` | https://zkillboard.com/kill/69848932/
- 608 | Serpentis Large Blaster Battery                | `       24,920,307.09` | https://zkillboard.com/kill/35796438/
- 609 | Scarab I                                       | `       24,399,769.00` | https://zkillboard.com/kill/53928533/
- 610 | True Sansha Large Beam Laser Battery           | `       23,999,998.99` | https://zkillboard.com/kill/2099142/
- 611 | Standup Scarab I                               | `       23,865,830.46` | https://zkillboard.com/kill/72695368/
- 612 | Angel Large AutoCannon Battery                 | `       23,841,075.02` | https://zkillboard.com/kill/33438230/
- 613 | Standup Gram II                                | `       23,582,280.18` | https://zkillboard.com/kill/72142652/
- 614 | Ametat I                                       | `       23,304,345.46` | https://zkillboard.com/kill/53942498/
- 615 | True Sansha Medium Beam Laser Battery          | `       22,795,546.70` | https://zkillboard.com/kill/41608024/
- 616 | Biochemical Reactor Array                      | `       22,783,331.35` | https://zkillboard.com/kill/62897667/
- 617 | Antaeus I                                      | `       21,989,821.60` | https://zkillboard.com/kill/54050152/
- 618 | Gram II                                        | `       21,498,998.00` | https://zkillboard.com/kill/54067933/
- 619 | Shadow Large Railgun Battery                   | `       21,066,666.67` | https://zkillboard.com/kill/10676191/
- 620 | Einherji II                                    | `       20,989,898.90` | https://zkillboard.com/kill/53805832/
- 621 | Blood Large Beam Laser Battery                 | `       20,913,171.56` | https://zkillboard.com/kill/81472371/
- 622 | Standup Gram I                                 | `       20,240,565.42` | https://zkillboard.com/kill/68055274/
- 623 | Blood Large Pulse Laser Battery                | `       20,176,419.54` | https://zkillboard.com/kill/34519334/
- 624 | Sansha Large Beam Laser Battery                | `       20,000,691.20` | https://zkillboard.com/kill/42371725/
- 625 | Polymer Reactor Array                          | `       19,289,185.89` | https://zkillboard.com/kill/58686477/
- 626 | Firbolg II                                     | `       18,987,970.41` | https://zkillboard.com/kill/54051678/
- 627 | Standup Firbolg I                              | `       18,562,622.80` | https://zkillboard.com/kill/68111007/
- 628 | Templar I                                      | `       18,161,640.20` | https://zkillboard.com/kill/53596610/
- 629 | Standup Einherji I                             | `       17,999,999.97` | https://zkillboard.com/kill/68121130/
- 630 | Equite I                                       | `       17,888,888.00` | https://zkillboard.com/kill/53897989/
- 631 | Mobile Medium Warp Disruptor II                | `       17,412,343.35` | https://zkillboard.com/kill/64992704/
- 632 | Large Artillery Battery                        | `       16,409,169.23` | https://zkillboard.com/kill/70241375/
- 633 | Large Beam Laser Battery                       | `       16,011,631.34` | https://zkillboard.com/kill/86230960/
- 634 | Dragonfly I                                    | `       15,799,218.88` | https://zkillboard.com/kill/53594003/
- 635 | Gram I                                         | `       15,756,996.63` | https://zkillboard.com/kill/53861037/
- 636 | Mobile Large Warp Disruptor I                  | `       15,557,276.30` | https://zkillboard.com/kill/87614954/
- 637 | Sansha Large Pulse Laser Battery               | `       15,543,506.33` | https://zkillboard.com/kill/37837835/
- 638 | Large Blaster Battery                          | `       15,405,252.93` | https://zkillboard.com/kill/76708002/
- 639 | Locust I                                       | `       14,970,700.01` | https://zkillboard.com/kill/53793348/
- 640 | Mobile Micro Jump Unit                         | `       14,900,000.00` | https://zkillboard.com/kill/36260922/
- 641 | Termite I                                      | `       14,459,355.72` | https://zkillboard.com/kill/56018755/
- 642 | Cenobite I                                     | `       14,285,166.49` | https://zkillboard.com/kill/54316759/
- 643 | Serpentis Small Blaster Battery                | `       13,765,763.14` | https://zkillboard.com/kill/31350925/
- 644 | Large Railgun Battery                          | `       13,276,917.08` | https://zkillboard.com/kill/74268375/
- 645 | Medium Biochemical Reactor Array               | `       12,999,999.98` | https://zkillboard.com/kill/55821329/
- 646 | Malleus I                                      | `       12,498,999.97` | https://zkillboard.com/kill/53877706/
- 647 | Large Pulse Laser Battery                      | `       11,759,322.30` | https://zkillboard.com/kill/70540586/
- 648 | Satyr II                                       | `       11,519,733.07` | https://zkillboard.com/kill/55499869/
- 649 | Tyrfing I                                      | `       10,999,999.99` | https://zkillboard.com/kill/53604275/
- 650 | Equite II                                      | `       10,971,002.57` | https://zkillboard.com/kill/55256081/
- 651 | Standup Locust I                               | `       10,850,746.27` | https://zkillboard.com/kill/68469476/
- 652 | Serpentis Large Railgun Battery                | `       10,652,044.57` | https://zkillboard.com/kill/60294502/
- 653 | Large AutoCannon Battery                       | `       10,090,328.53` | https://zkillboard.com/kill/86383109/
- 654 | Standup Dragonfly I                            | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
- 655 | Satyr I                                        | `        9,960,000.00` | https://zkillboard.com/kill/53886588/
- 656 | Standup Templar I                              | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
- 657 | Cyclops I                                      | `        9,504,239.32` | https://zkillboard.com/kill/85457002/
- 658 | Component Assembly Array                       | `        9,495,000.00` | https://zkillboard.com/kill/120180/
- 659 | Mantis I                                       | `        9,195,291.82` | https://zkillboard.com/kill/54180524/
- 660 | Locust II                                      | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
- 661 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
- 662 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
- 663 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
- 664 | Simple Reactor Array                           | `        7,319,045.38` | https://zkillboard.com/kill/4455990/
- 665 | Ammunition Assembly Array                      | `        6,499,999.88` | https://zkillboard.com/kill/8528137/
- 666 | Medium Railgun Battery                         | `        6,340,691.16` | https://zkillboard.com/kill/78143807/
- 667 | Medium Blaster Battery                         | `        6,177,108.93` | https://zkillboard.com/kill/81502184/
- 668 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
- 669 | Firbolg I                                      | `        4,999,998.74` | https://zkillboard.com/kill/53593435/
- 670 | Medium Pulse Laser Battery                     | `        4,815,301.85` | https://zkillboard.com/kill/86791247/
- 671 | Medium AutoCannon Battery                      | `        4,481,010.78` | https://zkillboard.com/kill/87626869/
- 672 | Einherji I                                     | `        4,346,000.00` | https://zkillboard.com/kill/86640028/
- 673 | Medium Artillery Battery                       | `        4,310,701.22` | https://zkillboard.com/kill/397220/
- 674 | Phase Inversion Battery                        | `        4,224,462.98` | https://zkillboard.com/kill/264835/
- 675 | White Noise Generation Battery                 | `        4,189,996.45` | https://zkillboard.com/kill/486777/
- 676 | Spatial Destabilization Battery                | `        4,093,997.14` | https://zkillboard.com/kill/706057/
- 677 | Ion Field Projection Battery                   | `        4,092,606.50` | https://zkillboard.com/kill/82851937/
- 678 | Medium Beam Laser Battery                      | `        3,991,023.07` | https://zkillboard.com/kill/78970802/
- 679 | Small Blaster Battery                          | `        3,313,648.72` | https://zkillboard.com/kill/86073519/
- 680 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
- 681 | Small Railgun Battery                          | `        2,800,000.00` | https://zkillboard.com/kill/400137/
- 682 | Small Artillery Battery                        | `        2,706,642.65` | https://zkillboard.com/kill/87198235/
- 683 | Small Beam Laser Battery                       | `        2,500,000.00` | https://zkillboard.com/kill/387159/
- 684 | Small Pulse Laser Battery                      | `        2,099,999.89` | https://zkillboard.com/kill/397255/
- 685 | Small AutoCannon Battery                       | `        2,076,922.79` | https://zkillboard.com/kill/2078836/
- 686 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
- 687 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 688 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 689 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 690 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+ 492 | Syndicate Mobile Medium Warp Disruptor         | `      178,999,999.80` | https://zkillboard.com/kill/63140990/
+ 493 | Advanced Large Ship Assembly Array             | `      178,960,234.17` | https://zkillboard.com/kill/80873218/
+ 494 | Inner Zone Shipping Catalyst                   | `      176,233,205.80` | https://zkillboard.com/kill/29295146/
+ 495 | Stabber Nefantar Edition                       | `      171,461,479.16` | https://zkillboard.com/kill/41384304/
+ 496 | Shadow Small Railgun Battery                   | `      165,416,665.83` | https://zkillboard.com/kill/13927724/
+ 497 | True Sansha Small Pulse Laser Battery          | `      164,999,999.50` | https://zkillboard.com/kill/5151075/
+ 498 | Advanced Medium Ship Assembly Array            | `      157,899,403.28` | https://zkillboard.com/kill/56515212/
+ 499 | Guristas Phase Inversion Battery               | `      150,000,000.00` | https://zkillboard.com/kill/4598824/
+ 500 | Customs Office                                 | `      147,136,488.88` | https://zkillboard.com/kill/87748213/
+ 501 | Cormorant Guristas Edition                     | `      146,755,525.32` | https://zkillboard.com/kill/45542839/
+ 502 | Domination Small Artillery Battery             | `      135,000,000.00` | https://zkillboard.com/kill/4045304/
+ 503 | True Sansha Large Pulse Laser Battery          | `      129,943,494.99` | https://zkillboard.com/kill/2088807/
+ 504 | Minmatar Control Tower Small                   | `      129,032,271.74` | https://zkillboard.com/kill/83115872/
+ 505 | Amarr Control Tower Small                      | `      128,875,000.00` | https://zkillboard.com/kill/83413761/
+ 506 | Mobile Cynosural Inhibitor                     | `      124,936,688.00` | https://zkillboard.com/kill/34701610/
+ 507 | Gallente Control Tower Small                   | `      122,007,815.80` | https://zkillboard.com/kill/83213416/
+ 508 | Thorax Inner Zone Shipping Edition             | `      121,292,846.45` | https://zkillboard.com/kill/42935364/
+ 509 | Customs Office Gantry                          | `      120,222,162.25` | https://zkillboard.com/kill/54672661/
+ 510 | Caldari Control Tower Small                    | `      119,328,581.54` | https://zkillboard.com/kill/83676728/
+ 511 | Advanced Small Ship Assembly Array             | `      114,759,192.07` | https://zkillboard.com/kill/56324733/
+ 512 | Concord Special Ops Frigate                    | `      108,507,511.16` | https://zkillboard.com/kill/12816753/
+ 513 | Incursus Inner Zone Shipping Edition           | `      107,434,728.24` | https://zkillboard.com/kill/45327486/
+ 514 | Large Ship Assembly Array                      | `      106,733,446.95` | https://zkillboard.com/kill/53363179/
+ 515 | Medium Ship Assembly Array                     | `      105,535,233.46` | https://zkillboard.com/kill/56195326/
+ 516 | Small Ship Assembly Array                      | `      105,327,042.07` | https://zkillboard.com/kill/55133756/
+ 517 | Territorial Claim Unit                         | `      104,987,694.69` | https://zkillboard.com/kill/46723620/
+ 518 | Blood Small Pulse Laser Battery                | `       97,049,249.25` | https://zkillboard.com/kill/7650094/
+ 519 | Small Mobile 'Rote' Siphon Unit                | `       96,611,242.40` | https://zkillboard.com/kill/54274189/
+ 520 | Ametat II                                      | `       94,998,479.88` | https://zkillboard.com/kill/53800246/
+ 521 | Domination Medium AutoCannon Battery           | `       91,162,962.96` | https://zkillboard.com/kill/17873162/
+ 522 | Subsystem Assembly Array                       | `       89,939,416.86` | https://zkillboard.com/kill/45530649/
+ 523 | Domination Medium Artillery Battery            | `       86,399,999.00` | https://zkillboard.com/kill/2394818/
+ 524 | Small Mobile Siphon Unit                       | `       83,287,425.81` | https://zkillboard.com/kill/64429506/
+ 525 | Drug Lab                                       | `       83,102,018.95` | https://zkillboard.com/kill/54948225/
+ 526 | Angel Medium AutoCannon Battery                | `       82,083,333.34` | https://zkillboard.com/kill/22169482/
+ 527 | Thukker Component Assembly Array               | `       81,247,327.31` | https://zkillboard.com/kill/63109174/
+ 528 | Standup Dromi II                               | `       79,979,392.18` | https://zkillboard.com/kill/78138119/
+ 529 | Domination Large AutoCannon Battery            | `       77,497,945.00` | https://zkillboard.com/kill/1454318/
+ 530 | Dark Blood Medium Pulse Laser Battery          | `       74,925,000.00` | https://zkillboard.com/kill/2099460/
+ 531 | Equipment Assembly Array                       | `       73,454,504.58` | https://zkillboard.com/kill/54379351/
+ 532 | Mobile Sanguine Harvester                      | `       72,990,000.07` | https://zkillboard.com/kill/88355348/
+ 533 | System Scanning Array                          | `       72,916,585.87` | https://zkillboard.com/kill/54936331/
+ 534 | Sansha Small Pulse Laser Battery               | `       72,400,000.00` | https://zkillboard.com/kill/4157742/
+ 535 | Cenobite II                                    | `       72,351,929.59` | https://zkillboard.com/kill/53677496/
+ 536 | Standup Cyclops II                             | `       65,997,982.55` | https://zkillboard.com/kill/68208474/
+ 537 | Standup Scarab II                              | `       65,606,059.27` | https://zkillboard.com/kill/79556632/
+ 538 | Standup Siren II                               | `       64,402,309.91` | https://zkillboard.com/kill/77499321/
+ 539 | Siren I                                        | `       63,184,413.11` | https://zkillboard.com/kill/53679743/
+ 540 | Domination Large Artillery Battery             | `       57,999,999.50` | https://zkillboard.com/kill/2394778/
+ 541 | Guristas Ion Field Projection Battery          | `       55,895,525.41` | https://zkillboard.com/kill/30571438/
+ 542 | Merlin Wiyrkomi Edition                        | `       55,730,728.63` | https://zkillboard.com/kill/43373399/
+ 543 | Dread Guristas Phase Inversion Battery         | `       55,000,000.00` | https://zkillboard.com/kill/5073081/
+ 544 | Standup Antaeus II                             | `       54,956,191.53` | https://zkillboard.com/kill/78421476/
+ 545 | Malleus II                                     | `       54,110,567.61` | https://zkillboard.com/kill/53972065/
+ 546 | Guristas Spatial Destabilization Battery       | `       53,750,000.00` | https://zkillboard.com/kill/26430318/
+ 547 | Gungnir II                                     | `       51,988,999.96` | https://zkillboard.com/kill/54002583/
+ 548 | Rapid Equipment Assembly Array                 | `       51,547,030.71` | https://zkillboard.com/kill/55407253/
+ 549 | Cyclops II                                     | `       51,343,737.00` | https://zkillboard.com/kill/54011724/
+ 550 | Standup Mantis II                              | `       50,681,398.00` | https://zkillboard.com/kill/71012490/
+ 551 | Blood Medium Beam Laser Battery                | `       50,000,000.00` | https://zkillboard.com/kill/4999542/
+ 552 | Domination Small AutoCannon Battery            | `       49,847,028.69` | https://zkillboard.com/kill/34734616/
+ 553 | Standup Cyclops I                              | `       49,791,664.78` | https://zkillboard.com/kill/68087530/
+ 554 | Standup Cenobite II                            | `       49,672,727.25` | https://zkillboard.com/kill/72617082/
+ 555 | Standup Gungnir II                             | `       49,614,821.95` | https://zkillboard.com/kill/82222798/
+ 556 | Standup Termite II                             | `       48,067,390.69` | https://zkillboard.com/kill/75196328/
+ 557 | Angel Small Artillery Battery                  | `       47,682,736.84` | https://zkillboard.com/kill/14251104/
+ 558 | Termite II                                     | `       47,545,941.32` | https://zkillboard.com/kill/54100030/
+ 559 | Sansha Small Beam Laser Battery                | `       46,996,265.00` | https://zkillboard.com/kill/2220849/
+ 560 | Standup Dragonfly II                           | `       46,850,042.11` | https://zkillboard.com/kill/68253336/
+ 561 | Antaeus II                                     | `       46,848,937.21` | https://zkillboard.com/kill/54170263/
+ 562 | Tyrfing II                                     | `       46,498,509.05` | https://zkillboard.com/kill/54179555/
+ 563 | True Sansha Medium Pulse Laser Battery         | `       46,200,000.00` | https://zkillboard.com/kill/26003117/
+ 564 | Mobile Scan Inhibitor                          | `       45,537,340.26` | https://zkillboard.com/kill/65572472/
+ 565 | Dread Guristas White Noise Generation Battery  | `       44,616,666.87` | https://zkillboard.com/kill/18773014/
+ 566 | Siren II                                       | `       44,490,502.21` | https://zkillboard.com/kill/53707373/
+ 567 | Dromi II                                       | `       44,276,272.20` | https://zkillboard.com/kill/54016815/
+ 568 | Shadow Medium Blaster Battery                  | `       43,699,997.87` | https://zkillboard.com/kill/16607270/
+ 569 | Standup Malleus II                             | `       43,074,364.76` | https://zkillboard.com/kill/70690282/
+ 570 | Scarab II                                      | `       42,281,844.38` | https://zkillboard.com/kill/53928687/
+ 571 | Shadow Small Blaster Battery                   | `       41,949,999.50` | https://zkillboard.com/kill/14151519/
+ 572 | Standup Tyrfing II                             | `       41,847,221.23` | https://zkillboard.com/kill/71479618/
+ 573 | Standup Ametat II                              | `       41,079,448.90` | https://zkillboard.com/kill/77524875/
+ 574 | Serpentis Small Railgun Battery                | `       39,839,999.00` | https://zkillboard.com/kill/7473883/
+ 575 | Shadow Medium Railgun Battery                  | `       39,249,999.69` | https://zkillboard.com/kill/19140543/
+ 576 | Dark Blood Large Beam Laser Battery            | `       38,940,501.24` | https://zkillboard.com/kill/33755516/
+ 577 | Mobile Large Warp Disruptor II                 | `       38,503,315.12` | https://zkillboard.com/kill/90197747/
+ 578 | Standup Malleus I                              | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
+ 579 | Serpentis Medium Blaster Battery               | `       38,110,491.25` | https://zkillboard.com/kill/32820590/
+ 580 | Standup Locust II                              | `       37,459,995.63` | https://zkillboard.com/kill/69116874/
+ 581 | Dark Blood Large Pulse Laser Battery           | `       37,308,582.32` | https://zkillboard.com/kill/32018705/
+ 582 | Gungnir I                                      | `       37,182,555.12` | https://zkillboard.com/kill/53751076/
+ 583 | Templar II                                     | `       36,987,998.11` | https://zkillboard.com/kill/53662156/
+ 584 | Complex Reactor Array                          | `       35,792,160.78` | https://zkillboard.com/kill/54739408/
+ 585 | Standup Templar II                             | `       35,749,996.03` | https://zkillboard.com/kill/68098907/
+ 586 | Dread Guristas Ion Field Projection Battery    | `       35,000,000.00` | https://zkillboard.com/kill/5072930/
+ 587 | Standup Equite II                              | `       34,147,107.21` | https://zkillboard.com/kill/79517243/
+ 588 | Standup Antaeus I                              | `       33,869,325.36` | https://zkillboard.com/kill/72546767/
+ 589 | Standup Stayr II                               | `       33,583,982.94` | https://zkillboard.com/kill/71835468/
+ 590 | Dragonfly II                                   | `       32,999,999.12` | https://zkillboard.com/kill/53701859/
+ 591 | Dread Guristas Spatial Destabilization Battery | `       32,500,000.00` | https://zkillboard.com/kill/4381082/
+ 592 | Mantis II                                      | `       31,644,463.53` | https://zkillboard.com/kill/54712960/
+ 593 | Standup Termite I                              | `       31,350,669.30` | https://zkillboard.com/kill/72222117/
+ 594 | Dark Blood Medium Beam Laser Battery           | `       30,942,010.05` | https://zkillboard.com/kill/32019483/
+ 595 | Standup Cenobite I                             | `       30,539,178.59` | https://zkillboard.com/kill/68685802/
+ 596 | Standup Dromi I                                | `       30,099,639.65` | https://zkillboard.com/kill/72272018/
+ 597 | Standup Ametat I                               | `       29,832,539.59` | https://zkillboard.com/kill/70666430/
+ 598 | Freki                                          | `       29,790,703.29` | https://zkillboard.com/kill/13343786/
+ 599 | Standup Firbolg II                             | `       29,472,822.98` | https://zkillboard.com/kill/68253335/
+ 600 | Standup Tyrfing I                              | `       29,145,353.84` | https://zkillboard.com/kill/72374756/
+ 601 | Standup Einherji II                            | `       28,942,578.62` | https://zkillboard.com/kill/77697610/
+ 602 | Standup Siren I                                | `       28,830,525.29` | https://zkillboard.com/kill/68096956/
+ 603 | Punisher Tash-Murkon Edition                   | `       28,540,368.67` | https://zkillboard.com/kill/44422776/
+ 604 | Standup Satyr I                                | `       28,287,095.94` | https://zkillboard.com/kill/68171072/
+ 605 | Angel Small AutoCannon Battery                 | `       27,174,999.88` | https://zkillboard.com/kill/14083531/
+ 606 | Dromi I                                        | `       26,966,731.33` | https://zkillboard.com/kill/53860923/
+ 607 | Standup Gungnir I                              | `       25,349,191.75` | https://zkillboard.com/kill/71681585/
+ 608 | Standup Mantis I                               | `       25,174,857.39` | https://zkillboard.com/kill/69848932/
+ 609 | Serpentis Large Blaster Battery                | `       24,920,307.09` | https://zkillboard.com/kill/35796438/
+ 610 | Scarab I                                       | `       24,399,769.00` | https://zkillboard.com/kill/53928533/
+ 611 | True Sansha Large Beam Laser Battery           | `       23,999,998.99` | https://zkillboard.com/kill/2099142/
+ 612 | Standup Scarab I                               | `       23,865,830.46` | https://zkillboard.com/kill/72695368/
+ 613 | Angel Large AutoCannon Battery                 | `       23,841,075.02` | https://zkillboard.com/kill/33438230/
+ 614 | Standup Gram II                                | `       23,582,280.18` | https://zkillboard.com/kill/72142652/
+ 615 | Ametat I                                       | `       23,304,345.46` | https://zkillboard.com/kill/53942498/
+ 616 | True Sansha Medium Beam Laser Battery          | `       22,795,546.70` | https://zkillboard.com/kill/41608024/
+ 617 | Biochemical Reactor Array                      | `       22,783,331.35` | https://zkillboard.com/kill/62897667/
+ 618 | Antaeus I                                      | `       21,989,821.60` | https://zkillboard.com/kill/54050152/
+ 619 | Gram II                                        | `       21,498,998.00` | https://zkillboard.com/kill/54067933/
+ 620 | Shadow Large Railgun Battery                   | `       21,066,666.67` | https://zkillboard.com/kill/10676191/
+ 621 | Einherji II                                    | `       20,989,898.90` | https://zkillboard.com/kill/53805832/
+ 622 | Blood Large Beam Laser Battery                 | `       20,913,171.56` | https://zkillboard.com/kill/81472371/
+ 623 | Standup Gram I                                 | `       20,240,565.42` | https://zkillboard.com/kill/68055274/
+ 624 | Blood Large Pulse Laser Battery                | `       20,176,419.54` | https://zkillboard.com/kill/34519334/
+ 625 | Sansha Large Beam Laser Battery                | `       20,000,691.20` | https://zkillboard.com/kill/42371725/
+ 626 | Polymer Reactor Array                          | `       19,289,185.89` | https://zkillboard.com/kill/58686477/
+ 627 | Firbolg II                                     | `       18,987,970.41` | https://zkillboard.com/kill/54051678/
+ 628 | Standup Firbolg I                              | `       18,562,622.80` | https://zkillboard.com/kill/68111007/
+ 629 | Templar I                                      | `       18,161,640.20` | https://zkillboard.com/kill/53596610/
+ 630 | Standup Einherji I                             | `       17,999,999.97` | https://zkillboard.com/kill/68121130/
+ 631 | Equite I                                       | `       17,888,888.00` | https://zkillboard.com/kill/53897989/
+ 632 | Mobile Medium Warp Disruptor II                | `       17,412,343.35` | https://zkillboard.com/kill/64992704/
+ 633 | Large Artillery Battery                        | `       16,409,169.23` | https://zkillboard.com/kill/70241375/
+ 634 | Large Beam Laser Battery                       | `       16,011,631.34` | https://zkillboard.com/kill/86230960/
+ 635 | Dragonfly I                                    | `       15,799,218.88` | https://zkillboard.com/kill/53594003/
+ 636 | Gram I                                         | `       15,756,996.63` | https://zkillboard.com/kill/53861037/
+ 637 | Mobile Large Warp Disruptor I                  | `       15,557,276.30` | https://zkillboard.com/kill/87614954/
+ 638 | Sansha Large Pulse Laser Battery               | `       15,543,506.33` | https://zkillboard.com/kill/37837835/
+ 639 | Large Blaster Battery                          | `       15,405,252.93` | https://zkillboard.com/kill/76708002/
+ 640 | Locust I                                       | `       14,970,700.01` | https://zkillboard.com/kill/53793348/
+ 641 | Mobile Micro Jump Unit                         | `       14,900,000.00` | https://zkillboard.com/kill/36260922/
+ 642 | Termite I                                      | `       14,459,355.72` | https://zkillboard.com/kill/56018755/
+ 643 | Cenobite I                                     | `       14,285,166.49` | https://zkillboard.com/kill/54316759/
+ 644 | Serpentis Small Blaster Battery                | `       13,765,763.14` | https://zkillboard.com/kill/31350925/
+ 645 | Large Railgun Battery                          | `       13,276,917.08` | https://zkillboard.com/kill/74268375/
+ 646 | Medium Biochemical Reactor Array               | `       12,999,999.98` | https://zkillboard.com/kill/55821329/
+ 647 | Malleus I                                      | `       12,498,999.97` | https://zkillboard.com/kill/53877706/
+ 648 | Large Pulse Laser Battery                      | `       11,759,322.30` | https://zkillboard.com/kill/70540586/
+ 649 | Satyr II                                       | `       11,519,733.07` | https://zkillboard.com/kill/55499869/
+ 650 | Tyrfing I                                      | `       10,999,999.99` | https://zkillboard.com/kill/53604275/
+ 651 | Equite II                                      | `       10,971,002.57` | https://zkillboard.com/kill/55256081/
+ 652 | Standup Locust I                               | `       10,850,746.27` | https://zkillboard.com/kill/68469476/
+ 653 | Serpentis Large Railgun Battery                | `       10,652,044.57` | https://zkillboard.com/kill/60294502/
+ 654 | Large AutoCannon Battery                       | `       10,090,328.53` | https://zkillboard.com/kill/86383109/
+ 655 | Standup Dragonfly I                            | `       10,000,000.00` | https://zkillboard.com/kill/68144092/
+ 656 | Satyr I                                        | `        9,960,000.00` | https://zkillboard.com/kill/53886588/
+ 657 | Standup Templar I                              | `        9,899,999.95` | https://zkillboard.com/kill/68144150/
+ 658 | Cyclops I                                      | `        9,504,239.32` | https://zkillboard.com/kill/85457002/
+ 659 | Component Assembly Array                       | `        9,495,000.00` | https://zkillboard.com/kill/120180/
+ 660 | Mantis I                                       | `        9,195,291.82` | https://zkillboard.com/kill/54180524/
+ 661 | Locust II                                      | `        9,064,950.39` | https://zkillboard.com/kill/72563324/
+ 662 | Civilian Minmatar Shuttle                      | `        8,734,281.11` | https://zkillboard.com/kill/31335165/
+ 663 | Drone Assembly Array                           | `        8,299,999.00` | https://zkillboard.com/kill/81855413/
+ 664 | Standup Equite I                               | `        7,899,998.00` | https://zkillboard.com/kill/68261483/
+ 665 | Simple Reactor Array                           | `        7,319,045.38` | https://zkillboard.com/kill/4455990/
+ 666 | Ammunition Assembly Array                      | `        6,499,999.88` | https://zkillboard.com/kill/8528137/
+ 667 | Medium Railgun Battery                         | `        6,340,691.16` | https://zkillboard.com/kill/78143807/
+ 668 | Medium Blaster Battery                         | `        6,177,108.93` | https://zkillboard.com/kill/81502184/
+ 669 | Tracking Array                                 | `        5,000,000.00` | https://zkillboard.com/kill/1396490/
+ 670 | Firbolg I                                      | `        4,999,998.74` | https://zkillboard.com/kill/53593435/
+ 671 | Medium Pulse Laser Battery                     | `        4,815,301.85` | https://zkillboard.com/kill/86791247/
+ 672 | Medium AutoCannon Battery                      | `        4,481,010.78` | https://zkillboard.com/kill/87626869/
+ 673 | Einherji I                                     | `        4,346,000.00` | https://zkillboard.com/kill/86640028/
+ 674 | Medium Artillery Battery                       | `        4,310,701.22` | https://zkillboard.com/kill/397220/
+ 675 | Phase Inversion Battery                        | `        4,224,462.98` | https://zkillboard.com/kill/264835/
+ 676 | White Noise Generation Battery                 | `        4,189,996.45` | https://zkillboard.com/kill/486777/
+ 677 | Spatial Destabilization Battery                | `        4,093,997.14` | https://zkillboard.com/kill/706057/
+ 678 | Ion Field Projection Battery                   | `        4,092,606.50` | https://zkillboard.com/kill/82851937/
+ 679 | Medium Beam Laser Battery                      | `        3,991,023.07` | https://zkillboard.com/kill/78970802/
+ 680 | Small Blaster Battery                          | `        3,313,648.72` | https://zkillboard.com/kill/86073519/
+ 681 | Mobile Medium Warp Disruptor I                 | `        3,220,245.00` | https://zkillboard.com/kill/60920274/
+ 682 | Small Railgun Battery                          | `        2,800,000.00` | https://zkillboard.com/kill/400137/
+ 683 | Small Artillery Battery                        | `        2,706,642.65` | https://zkillboard.com/kill/87198235/
+ 684 | Small Beam Laser Battery                       | `        2,500,000.00` | https://zkillboard.com/kill/387159/
+ 685 | Small Pulse Laser Battery                      | `        2,099,999.89` | https://zkillboard.com/kill/397255/
+ 686 | Small AutoCannon Battery                       | `        2,076,922.79` | https://zkillboard.com/kill/2078836/
+ 687 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
+ 688 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
+ 689 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 690 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 691 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
