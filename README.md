@@ -110,9 +110,9 @@ Rank | Destroyed                                      | ISK Value              |
  102 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
  103 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
  104 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
- 105 | Machariel                                      | `   68,211,833,765.20` | https://zkillboard.com/kill/27694789/
- 106 | 'Marginis' Fortizar                            | `   67,341,494,294.08` | https://zkillboard.com/kill/75937628/
- 107 | 'Moreau' Fortizar                              | `   67,293,777,808.79` | https://zkillboard.com/kill/73998636/
+ 105 | 'Moreau' Fortizar                              | `   68,786,932,221.13` | https://zkillboard.com/kill/90392403/
+ 106 | Machariel                                      | `   68,211,833,765.20` | https://zkillboard.com/kill/27694789/
+ 107 | 'Marginis' Fortizar                            | `   67,341,494,294.08` | https://zkillboard.com/kill/75937628/
  108 | Maller                                         | `   66,237,112,598.42` | https://zkillboard.com/kill/14113212/
  109 | Atron                                          | `   66,135,944,231.41` | https://zkillboard.com/kill/61567389/
  110 | Ark                                            | `   65,116,217,444.57` | https://zkillboard.com/kill/74352396/
