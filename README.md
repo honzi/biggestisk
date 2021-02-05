@@ -582,7 +582,7 @@ Rank | Destroyed                                      | ISK Value              |
  574 | Standup Tyrfing II                             | `       41,847,221.23` | https://zkillboard.com/kill/71479618/
  575 | Standup Ametat II                              | `       41,079,448.90` | https://zkillboard.com/kill/77524875/
  576 | Serpentis Small Railgun Battery                | `       39,839,999.00` | https://zkillboard.com/kill/7473883/
- 577 | Mobile Large Warp Disruptor II                 | `       39,471,455.31` | https://zkillboard.com/kill/90420538/
+ 577 | Mobile Large Warp Disruptor II                 | `       39,654,620.66` | https://zkillboard.com/kill/90466450/
  578 | Shadow Medium Railgun Battery                  | `       39,249,999.69` | https://zkillboard.com/kill/19140543/
  579 | Dark Blood Large Beam Laser Battery            | `       38,940,501.24` | https://zkillboard.com/kill/33755516/
  580 | Standup Malleus I                              | `       38,171,874.13` | https://zkillboard.com/kill/68369966/
