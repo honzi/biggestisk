@@ -91,7 +91,7 @@ Rank | Destroyed                                      | ISK Value              |
   83 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
   84 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
   85 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
-  86 | Ark                                            | `   95,666,651,313.81` | https://zkillboard.com/kill/90474686/
+  86 | Ark                                            | `   94,882,512,362.60` | https://zkillboard.com/kill/90474686/
   87 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
   88 | Widow                                          | `   90,343,293,941.24` | https://zkillboard.com/kill/80681361/
   89 | Impel                                          | `   88,851,265,944.63` | https://zkillboard.com/kill/19953239/
