@@ -65,7 +65,7 @@ Rank | Destroyed                                      | ISK Value              |
   57 | Tartara                                        | `  132,956,226,827.52` | https://zkillboard.com/kill/70510179/
   58 | Apotheosis                                     | `  132,556,072,901.83` | https://zkillboard.com/kill/3615862/
   59 | Helios                                         | `  128,900,045,589.96` | https://zkillboard.com/kill/3836597/
-  60 | Caedes                                         | `  124,193,461,731.91` | https://zkillboard.com/kill/73307938/
+  60 | Caedes                                         | `  125,870,707,281.95` | https://zkillboard.com/kill/90523977/
   61 | Loki                                           | `  124,011,278,892.90` | https://zkillboard.com/kill/82266299/
   62 | Raptor                                         | `  123,116,933,672.47` | https://zkillboard.com/kill/11471643/
   63 | Prorator                                       | `  122,755,494,961.35` | https://zkillboard.com/kill/20194132/
