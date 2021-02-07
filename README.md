@@ -108,12 +108,12 @@ Rank | Destroyed                                      | ISK Value              |
  100 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
  101 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
  102 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
- 103 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
- 104 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
- 105 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
- 106 | 'Moreau' Fortizar                              | `   68,786,932,221.13` | https://zkillboard.com/kill/90392403/
- 107 | Machariel                                      | `   68,211,833,765.20` | https://zkillboard.com/kill/27694789/
- 108 | 'Marginis' Fortizar                            | `   67,341,494,294.08` | https://zkillboard.com/kill/75937628/
+ 103 | 'Marginis' Fortizar                            | `   73,075,578,902.07` | https://zkillboard.com/kill/90534022/
+ 104 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
+ 105 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
+ 106 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
+ 107 | 'Moreau' Fortizar                              | `   68,786,932,221.13` | https://zkillboard.com/kill/90392403/
+ 108 | Machariel                                      | `   68,211,833,765.20` | https://zkillboard.com/kill/27694789/
  109 | Maller                                         | `   66,237,112,598.42` | https://zkillboard.com/kill/14113212/
  110 | Atron                                          | `   66,135,944,231.41` | https://zkillboard.com/kill/61567389/
  111 | Aeon                                           | `   64,453,411,196.63` | https://zkillboard.com/kill/12583986/
