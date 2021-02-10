@@ -108,7 +108,7 @@ Rank | Destroyed                                      | ISK Value              |
  100 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
  101 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
  102 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
- 103 | 'Marginis' Fortizar                            | `   73,075,578,902.07` | https://zkillboard.com/kill/90534022/
+ 103 | 'Marginis' Fortizar                            | `   73,049,594,471.72` | https://zkillboard.com/kill/90534022/
  104 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
  105 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
  106 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
