@@ -23,9 +23,9 @@ Rank | Destroyed                                      | ISK Value              |
   15 | Crane                                          | `  394,287,205,347.27` | https://zkillboard.com/kill/79650638/
   16 | Providence                                     | `  383,458,935,112.62` | https://zkillboard.com/kill/40690841/
   17 | Vanquisher                                     | `  381,097,221,673.60` | https://zkillboard.com/kill/89609162/
-  18 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
-  19 | Charon                                         | `  330,556,993,400.53` | https://zkillboard.com/kill/14535158/
-  20 | Sotiyo                                         | `  306,716,565,707.43` | https://zkillboard.com/kill/69924279/
+  18 | Sotiyo                                         | `  364,096,697,824.86` | https://zkillboard.com/kill/90834035/
+  19 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
+  20 | Charon                                         | `  330,556,993,400.53` | https://zkillboard.com/kill/14535158/
   21 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
   22 | Obelisk                                        | `  268,005,623,416.29` | https://zkillboard.com/kill/7154867/
   23 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
