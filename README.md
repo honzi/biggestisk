@@ -79,14 +79,14 @@ Rank | Destroyed                                      | ISK Value              |
   71 | Occator                                        | `  109,604,325,074.71` | https://zkillboard.com/kill/42202837/
   72 | Crow                                           | `  107,640,919,249.64` | https://zkillboard.com/kill/771885/
   73 | Slasher                                        | `  107,540,231,249.38` | https://zkillboard.com/kill/69997390/
-  74 | Marshal                                        | `  107,275,161,750.15` | https://zkillboard.com/kill/70357303/
-  75 | Crusader                                       | `  107,205,644,126.00` | https://zkillboard.com/kill/5273799/
-  76 | Vangel                                         | `  103,776,919,955.60` | https://zkillboard.com/kill/22278966/
-  77 | Rifter                                         | `  103,673,545,339.81` | https://zkillboard.com/kill/16062901/
-  78 | Whiptail                                       | `  103,085,417,188.60` | https://zkillboard.com/kill/75560800/
-  79 | Silver Magnate                                 | `  102,740,300,346.28` | https://zkillboard.com/kill/66370950/
-  80 | Nyx                                            | `  101,618,804,133.50` | https://zkillboard.com/kill/58707661/
-  81 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
+  74 | Crusader                                       | `  107,205,644,126.00` | https://zkillboard.com/kill/5273799/
+  75 | Vangel                                         | `  103,776,919,955.60` | https://zkillboard.com/kill/22278966/
+  76 | Rifter                                         | `  103,673,545,339.81` | https://zkillboard.com/kill/16062901/
+  77 | Whiptail                                       | `  103,085,417,188.60` | https://zkillboard.com/kill/75560800/
+  78 | Silver Magnate                                 | `  102,740,300,346.28` | https://zkillboard.com/kill/66370950/
+  79 | Nyx                                            | `  101,618,804,133.50` | https://zkillboard.com/kill/58707661/
+  80 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
+  81 | Marshal                                        | `  100,738,691,437.60` | https://zkillboard.com/kill/70357303/
   82 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
   83 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
   84 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
