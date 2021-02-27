@@ -359,33 +359,33 @@ Rank | Destroyed                                      | ISK Value              |
  351 | Sarum Magnate                                  | `    2,139,001,290.25` | https://zkillboard.com/kill/27548526/
  352 | Onyx                                           | `    2,128,753,044.31` | https://zkillboard.com/kill/70727142/
  353 | Rokh Wiyrkomi Edition                          | `    2,074,306,403.10` | https://zkillboard.com/kill/39709983/
- 354 | Megathron                                      | `    2,060,954,126.64` | https://zkillboard.com/kill/3159998/
- 355 | Pharolux Cyno Beacon                           | `    2,057,346,312.41` | https://zkillboard.com/kill/73794175/
- 356 | Nation                                         | `    2,035,475,143.52` | https://zkillboard.com/kill/19365136/
- 357 | Supercapital Ship Assembly Array               | `    1,986,835,200.65` | https://zkillboard.com/kill/56426697/
- 358 | Vexor Navy Issue                               | `    1,967,409,088.62` | https://zkillboard.com/kill/3758838/
- 359 | Damavik                                        | `    1,932,733,487.58` | https://zkillboard.com/kill/70281340/
- 360 | Enyo                                           | `    1,926,041,429.51` | https://zkillboard.com/kill/24468637/
- 361 | Apocalypse                                     | `    1,913,647,701.71` | https://zkillboard.com/kill/9180627/
- 362 | Griffin Navy Issue                             | `    1,879,840,413.02` | https://zkillboard.com/kill/72584202/
- 363 | Rokh Nugoeihuvi Edition                        | `    1,870,559,846.75` | https://zkillboard.com/kill/37656225/
- 364 | Hyperion Inner Zone Shipping Edition           | `    1,821,078,136.22` | https://zkillboard.com/kill/40063216/
- 365 | Procurer                                       | `    1,784,108,973.20` | https://zkillboard.com/kill/61164959/
- 366 | Armageddon                                     | `    1,759,973,981.46` | https://zkillboard.com/kill/49368305/
- 367 | Lachesis                                       | `    1,759,734,302.90` | https://zkillboard.com/kill/72691563/
- 368 | Typhoon                                        | `    1,678,297,988.69` | https://zkillboard.com/kill/58069487/
- 369 | Oracle                                         | `    1,668,144,657.51` | https://zkillboard.com/kill/26650229/
- 370 | Brutix                                         | `    1,649,624,617.28` | https://zkillboard.com/kill/25932329/
- 371 | Rupture                                        | `    1,632,347,628.47` | https://zkillboard.com/kill/25054015/
- 372 | Stabber Fleet Issue                            | `    1,591,450,445.81` | https://zkillboard.com/kill/27164160/
- 373 | Rodiva                                         | `    1,563,577,235.82` | https://zkillboard.com/kill/81114165/
- 374 | Rifter Krusual Edition                         | `    1,541,421,818.74` | https://zkillboard.com/kill/41017533/
- 375 | Imperial Navy Slicer                           | `    1,528,300,416.03` | https://zkillboard.com/kill/27940580/
- 376 | Inner Zone Shipping Imicus                     | `    1,526,540,075.74` | https://zkillboard.com/kill/39350877/
- 377 | Thorax Aliastra Edition                        | `    1,507,742,702.79` | https://zkillboard.com/kill/42313698/
- 378 | Monitor                                        | `    1,484,634,006.91` | https://zkillboard.com/kill/72766460/
- 379 | Garmur                                         | `    1,476,012,695.60` | https://zkillboard.com/kill/64899987/
- 380 | Talos                                          | `    1,446,235,659.03` | https://zkillboard.com/kill/26209190/
+ 354 | Talos                                          | `    2,065,330,222.09` | https://zkillboard.com/kill/90883286/
+ 355 | Megathron                                      | `    2,060,954,126.64` | https://zkillboard.com/kill/3159998/
+ 356 | Pharolux Cyno Beacon                           | `    2,057,346,312.41` | https://zkillboard.com/kill/73794175/
+ 357 | Nation                                         | `    2,035,475,143.52` | https://zkillboard.com/kill/19365136/
+ 358 | Supercapital Ship Assembly Array               | `    1,986,835,200.65` | https://zkillboard.com/kill/56426697/
+ 359 | Vexor Navy Issue                               | `    1,967,409,088.62` | https://zkillboard.com/kill/3758838/
+ 360 | Damavik                                        | `    1,932,733,487.58` | https://zkillboard.com/kill/70281340/
+ 361 | Enyo                                           | `    1,926,041,429.51` | https://zkillboard.com/kill/24468637/
+ 362 | Apocalypse                                     | `    1,913,647,701.71` | https://zkillboard.com/kill/9180627/
+ 363 | Griffin Navy Issue                             | `    1,879,840,413.02` | https://zkillboard.com/kill/72584202/
+ 364 | Rokh Nugoeihuvi Edition                        | `    1,870,559,846.75` | https://zkillboard.com/kill/37656225/
+ 365 | Hyperion Inner Zone Shipping Edition           | `    1,821,078,136.22` | https://zkillboard.com/kill/40063216/
+ 366 | Procurer                                       | `    1,784,108,973.20` | https://zkillboard.com/kill/61164959/
+ 367 | Armageddon                                     | `    1,759,973,981.46` | https://zkillboard.com/kill/49368305/
+ 368 | Lachesis                                       | `    1,759,734,302.90` | https://zkillboard.com/kill/72691563/
+ 369 | Typhoon                                        | `    1,678,297,988.69` | https://zkillboard.com/kill/58069487/
+ 370 | Oracle                                         | `    1,668,144,657.51` | https://zkillboard.com/kill/26650229/
+ 371 | Brutix                                         | `    1,649,624,617.28` | https://zkillboard.com/kill/25932329/
+ 372 | Rupture                                        | `    1,632,347,628.47` | https://zkillboard.com/kill/25054015/
+ 373 | Stabber Fleet Issue                            | `    1,591,450,445.81` | https://zkillboard.com/kill/27164160/
+ 374 | Rodiva                                         | `    1,563,577,235.82` | https://zkillboard.com/kill/81114165/
+ 375 | Rifter Krusual Edition                         | `    1,541,421,818.74` | https://zkillboard.com/kill/41017533/
+ 376 | Imperial Navy Slicer                           | `    1,528,300,416.03` | https://zkillboard.com/kill/27940580/
+ 377 | Inner Zone Shipping Imicus                     | `    1,526,540,075.74` | https://zkillboard.com/kill/39350877/
+ 378 | Thorax Aliastra Edition                        | `    1,507,742,702.79` | https://zkillboard.com/kill/42313698/
+ 379 | Monitor                                        | `    1,484,634,006.91` | https://zkillboard.com/kill/72766460/
+ 380 | Garmur                                         | `    1,476,012,695.60` | https://zkillboard.com/kill/64899987/
  381 | Maelstrom Krusual Edition                      | `    1,445,521,795.40` | https://zkillboard.com/kill/44771098/
  382 | Cyclone                                        | `    1,434,094,350.44` | https://zkillboard.com/kill/13860318/
  383 | Nefantar Thrasher                              | `    1,411,021,025.42` | https://zkillboard.com/kill/31132216/
