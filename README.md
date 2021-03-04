@@ -86,9 +86,9 @@ Rank | Destroyed                                      | ISK Value              |
   78 | Silver Magnate                                 | `  102,740,300,346.28` | https://zkillboard.com/kill/66370950/
   79 | Nyx                                            | `  101,618,804,133.50` | https://zkillboard.com/kill/58707661/
   80 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
-  81 | Marshal                                        | `  100,738,691,437.60` | https://zkillboard.com/kill/70357303/
-  82 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
-  83 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
+  81 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
+  82 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
+  83 | Marshal                                        | `   99,867,162,062.60` | https://zkillboard.com/kill/70357303/
   84 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
   85 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
   86 | Ark                                            | `   94,882,512,362.60` | https://zkillboard.com/kill/90474686/
