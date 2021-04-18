@@ -105,10 +105,10 @@ Rank | Destroyed                                      | ISK Value              |
   97 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
   98 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
   99 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
- 100 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
- 101 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
- 102 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
- 103 | 'Marginis' Fortizar                            | `   73,049,594,471.72` | https://zkillboard.com/kill/90534022/
+ 100 | 'Marginis' Fortizar                            | `   79,955,118,381.17` | https://zkillboard.com/kill/92155095/
+ 101 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
+ 102 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
+ 103 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
  104 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
  105 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
  106 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
