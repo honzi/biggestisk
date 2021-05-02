@@ -104,8 +104,8 @@ Rank | Destroyed                                      | ISK Value              |
   96 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
   97 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
   98 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
-  99 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
- 100 | 'Marginis' Fortizar                            | `   79,955,118,381.17` | https://zkillboard.com/kill/92155095/
+  99 | 'Marginis' Fortizar                            | `   80,149,123,399.39` | https://zkillboard.com/kill/92457153/
+ 100 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
  101 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
  102 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
  103 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
