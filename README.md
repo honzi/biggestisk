@@ -170,7 +170,7 @@ Rank | Destroyed                                      | ISK Value              |
  162 | Drake                                          | `   29,204,162,291.13` | https://zkillboard.com/kill/4190355/
  163 | Succubus                                       | `   28,610,554,490.10` | https://zkillboard.com/kill/10102256/
  164 | Revelation                                     | `   27,956,324,709.12` | https://zkillboard.com/kill/74969682/
- 165 | Nestor                                         | `   27,359,264,835.05` | https://zkillboard.com/kill/92281357/
+ 165 | Nestor                                         | `   27,274,137,541.65` | https://zkillboard.com/kill/92281357/
  166 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
  167 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
  168 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
