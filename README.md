@@ -100,12 +100,12 @@ Rank | Destroyed                                      | ISK Value              |
   92 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
   93 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
   94 | Prowler                                        | `   87,050,515,483.24` | https://zkillboard.com/kill/2440866/
-  95 | 'Marginis' Fortizar                            | `   86,637,277,393.24` | https://zkillboard.com/kill/92457153/
+  95 | 'Marginis' Fortizar                            | `   86,637,277,393.24` | https://zkillboard.com/kill/91714824/
   96 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
   97 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
   98 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
   99 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
- 100 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/91714824/
+ 100 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
  101 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
  102 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
  103 | 'Horizon' Fortizar                             | `   75,513,446,687.66` | https://zkillboard.com/kill/72362136/
