@@ -142,13 +142,13 @@ Rank | Destroyed                                      | ISK Value              |
  134 | Leshak                                         | `   43,409,211,765.76` | https://zkillboard.com/kill/71937771/
  135 | Eris                                           | `   42,583,534,676.93` | https://zkillboard.com/kill/7849186/
  136 | Golem                                          | `   42,105,918,874.53` | https://zkillboard.com/kill/67403634/
- 137 | Legion                                         | `   41,634,762,992.98` | https://zkillboard.com/kill/93113212/
- 138 | Bowhead                                        | `   41,634,694,650.28` | https://zkillboard.com/kill/59135248/
- 139 | Nightmare                                      | `   41,020,898,645.96` | https://zkillboard.com/kill/26451268/
- 140 | Fortizar                                       | `   40,862,491,539.47` | https://zkillboard.com/kill/59249664/
- 141 | Abaddon                                        | `   40,796,623,103.65` | https://zkillboard.com/kill/32463577/
- 142 | Exequror                                       | `   40,742,251,528.67` | https://zkillboard.com/kill/18897556/
- 143 | Thorax                                         | `   39,867,937,265.47` | https://zkillboard.com/kill/18571273/
+ 137 | Bowhead                                        | `   41,634,694,650.28` | https://zkillboard.com/kill/59135248/
+ 138 | Nightmare                                      | `   41,020,898,645.96` | https://zkillboard.com/kill/26451268/
+ 139 | Fortizar                                       | `   40,862,491,539.47` | https://zkillboard.com/kill/59249664/
+ 140 | Abaddon                                        | `   40,796,623,103.65` | https://zkillboard.com/kill/32463577/
+ 141 | Exequror                                       | `   40,742,251,528.67` | https://zkillboard.com/kill/18897556/
+ 142 | Thorax                                         | `   39,867,937,265.47` | https://zkillboard.com/kill/18571273/
+ 143 | Legion                                         | `   39,377,369,977.03` | https://zkillboard.com/kill/93113212/
  144 | Barghest                                       | `   38,848,902,428.07` | https://zkillboard.com/kill/56496354/
  145 | Hound                                          | `   38,836,969,616.31` | https://zkillboard.com/kill/15797420/
  146 | Kryos                                          | `   38,546,337,141.24` | https://zkillboard.com/kill/15902412/
