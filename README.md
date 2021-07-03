@@ -158,25 +158,25 @@ Rank | Destroyed                                      | ISK Value              |
  150 | Vigil                                          | `   36,451,224,807.05` | https://zkillboard.com/kill/14086532/
  151 | Hoarder                                        | `   36,291,763,451.01` | https://zkillboard.com/kill/14038048/
  152 | Leopard                                        | `   36,284,767,880.59` | https://zkillboard.com/kill/54768022/
- 153 | Typhoon Fleet Issue                            | `   34,910,682,319.93` | https://zkillboard.com/kill/55798335/
- 154 | Svipul                                         | `   34,295,908,810.48` | https://zkillboard.com/kill/54887995/
- 155 | Magnate                                        | `   34,105,095,666.81` | https://zkillboard.com/kill/15986734/
- 156 | Arazu                                          | `   33,062,084,772.35` | https://zkillboard.com/kill/9593887/
- 157 | Merlin                                         | `   32,294,705,632.33` | https://zkillboard.com/kill/79631286/
- 158 | Punisher                                       | `   32,286,386,397.80` | https://zkillboard.com/kill/79621122/
- 159 | Praxis                                         | `   31,823,757,335.12` | https://zkillboard.com/kill/90745313/
- 160 | Federation Navy Comet                          | `   31,414,609,305.32` | https://zkillboard.com/kill/20724383/
- 161 | Griffin                                        | `   31,270,907,663.01` | https://zkillboard.com/kill/79625150/
- 162 | Raven Navy Issue                               | `   29,219,136,218.19` | https://zkillboard.com/kill/67360198/
- 163 | Drake                                          | `   29,204,162,291.13` | https://zkillboard.com/kill/4190355/
- 164 | Succubus                                       | `   28,610,554,490.10` | https://zkillboard.com/kill/10102256/
- 165 | Revelation                                     | `   27,956,324,709.12` | https://zkillboard.com/kill/74969682/
- 166 | Nestor                                         | `   27,274,137,541.65` | https://zkillboard.com/kill/92281357/
- 167 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
- 168 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
- 169 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
- 170 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
- 171 | Bhaalgorn                                      | `   23,424,633,789.85` | https://zkillboard.com/kill/31646748/
+ 153 | Bhaalgorn                                      | `   35,375,293,406.78` | https://zkillboard.com/kill/64045950/
+ 154 | Typhoon Fleet Issue                            | `   34,910,682,319.93` | https://zkillboard.com/kill/55798335/
+ 155 | Svipul                                         | `   34,295,908,810.48` | https://zkillboard.com/kill/54887995/
+ 156 | Magnate                                        | `   34,105,095,666.81` | https://zkillboard.com/kill/15986734/
+ 157 | Arazu                                          | `   33,062,084,772.35` | https://zkillboard.com/kill/9593887/
+ 158 | Merlin                                         | `   32,294,705,632.33` | https://zkillboard.com/kill/79631286/
+ 159 | Punisher                                       | `   32,286,386,397.80` | https://zkillboard.com/kill/79621122/
+ 160 | Praxis                                         | `   31,823,757,335.12` | https://zkillboard.com/kill/90745313/
+ 161 | Federation Navy Comet                          | `   31,414,609,305.32` | https://zkillboard.com/kill/20724383/
+ 162 | Griffin                                        | `   31,270,907,663.01` | https://zkillboard.com/kill/79625150/
+ 163 | Raven Navy Issue                               | `   29,219,136,218.19` | https://zkillboard.com/kill/67360198/
+ 164 | Drake                                          | `   29,204,162,291.13` | https://zkillboard.com/kill/4190355/
+ 165 | Succubus                                       | `   28,610,554,490.10` | https://zkillboard.com/kill/10102256/
+ 166 | Revelation                                     | `   27,956,324,709.12` | https://zkillboard.com/kill/74969682/
+ 167 | Nestor                                         | `   27,274,137,541.65` | https://zkillboard.com/kill/92281357/
+ 168 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
+ 169 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
+ 170 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
+ 171 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
  172 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
  173 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
  174 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
