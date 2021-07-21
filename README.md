@@ -28,8 +28,8 @@ Rank | Destroyed                                      | ISK Value              |
   20 | Charon                                         | `  330,556,993,400.53` | https://zkillboard.com/kill/14535158/
   21 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
   22 | Obelisk                                        | `  268,005,623,416.29` | https://zkillboard.com/kill/7154867/
-  23 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
-  24 | Victor                                         | `  241,160,936,535.20` | https://zkillboard.com/kill/66343539/
+  23 | Victor                                         | `  242,164,953,389.05` | https://zkillboard.com/kill/94035723/
+  24 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
   25 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
   26 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   27 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
