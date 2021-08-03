@@ -163,7 +163,7 @@ Rank | Destroyed                                      | ISK Value              |
  155 | Svipul                                         | `   34,295,908,810.48` | https://zkillboard.com/kill/54887995/
  156 | Magnate                                        | `   34,105,095,666.81` | https://zkillboard.com/kill/15986734/
  157 | Arazu                                          | `   33,062,084,772.35` | https://zkillboard.com/kill/9593887/
- 158 | Sabre                                          | `   32,551,526,380.83` | https://zkillboard.com/kill/94241711/
+ 158 | Sabre                                          | `   32,520,237,623.34` | https://zkillboard.com/kill/94241711/
  159 | Merlin                                         | `   32,294,705,632.33` | https://zkillboard.com/kill/79631286/
  160 | Punisher                                       | `   32,286,386,397.80` | https://zkillboard.com/kill/79621122/
  161 | Praxis                                         | `   31,823,757,335.12` | https://zkillboard.com/kill/90745313/
