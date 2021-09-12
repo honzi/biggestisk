@@ -12,11 +12,11 @@ Rank | Destroyed                                      | ISK Value              |
    4 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
    5 | Vanquisher                                     | `  817,587,527,640.28` | https://zkillboard.com/kill/95071176/
    6 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
-   7 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
-   8 | Miasmos                                        | `  652,596,062,754.23` | https://zkillboard.com/kill/40418011/
-   9 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
-  10 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
-  11 | Molok                                          | `  567,958,752,963.82` | https://zkillboard.com/kill/71605015/
+   7 | Molok                                          | `  763,453,896,186.84` | https://zkillboard.com/kill/95071096/
+   8 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
+   9 | Miasmos                                        | `  652,596,062,754.23` | https://zkillboard.com/kill/40418011/
+  10 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
+  11 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
   12 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
   13 | Moracha                                        | `  517,121,034,591.32` | https://zkillboard.com/kill/53900531/
   14 | Opux Dragoon Yacht                             | `  500,000,000,000.02` | https://zkillboard.com/kill/63711228/
