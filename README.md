@@ -6,7 +6,7 @@ Biggest ISK
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|--------------------------------------
-   1 | Iteron Mark V                                  | `2,083,038,441,846.09` | https://zkillboard.com/kill/79723240/
+   1 | Iteron Mark V                                  | `2,082,368,528,685.62` | https://zkillboard.com/kill/79723240/
    2 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
    3 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
    4 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
@@ -14,20 +14,20 @@ Rank | Destroyed                                      | ISK Value              |
    6 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
    7 | Molok                                          | `  763,453,896,186.84` | https://zkillboard.com/kill/95071096/
    8 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
-   9 | Miasmos                                        | `  652,596,062,754.23` | https://zkillboard.com/kill/40418011/
+   9 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
   10 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
   11 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
   12 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
   13 | Moracha                                        | `  517,121,034,591.32` | https://zkillboard.com/kill/53900531/
   14 | Opux Dragoon Yacht                             | `  500,000,000,000.02` | https://zkillboard.com/kill/63711228/
   15 | Catalyst                                       | `  435,594,386,419.36` | https://zkillboard.com/kill/12240997/
-  16 | Crane                                          | `  394,287,205,347.27` | https://zkillboard.com/kill/79650638/
+  16 | Crane                                          | `  404,978,354,880.11` | https://zkillboard.com/kill/79650638/
   17 | Providence                                     | `  383,458,935,112.62` | https://zkillboard.com/kill/40690841/
   18 | Sotiyo                                         | `  364,096,697,824.86` | https://zkillboard.com/kill/90834035/
   19 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
-  20 | Charon                                         | `  330,556,993,400.53` | https://zkillboard.com/kill/14535158/
+  20 | Charon                                         | `  331,927,779,326.97` | https://zkillboard.com/kill/14535158/
   21 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
-  22 | Obelisk                                        | `  268,005,623,416.29` | https://zkillboard.com/kill/7154867/
+  22 | Obelisk                                        | `  268,799,770,369.76` | https://zkillboard.com/kill/7154867/
   23 | Victor                                         | `  242,035,231,385.59` | https://zkillboard.com/kill/94035723/
   24 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
   25 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
@@ -46,9 +46,9 @@ Rank | Destroyed                                      | ISK Value              |
   38 | Mammoth                                        | `  189,151,081,722.03` | https://zkillboard.com/kill/17304620/
   39 | Caracal Navy Issue                             | `  183,625,442,143.80` | https://zkillboard.com/kill/15049251/
   40 | Erebus                                         | `  182,586,735,296.69` | https://zkillboard.com/kill/56895433/
-  41 | Vendetta                                       | `  179,383,762,328.55` | https://zkillboard.com/kill/89479590/
+  41 | Vendetta                                       | `  180,092,380,859.01` | https://zkillboard.com/kill/89479590/
   42 | Fiend                                          | `  175,425,712,701.48` | https://zkillboard.com/kill/51797738/
-  43 | Avatar                                         | `  172,334,158,466.62` | https://zkillboard.com/kill/40647458/
+  43 | Avatar                                         | `  172,420,796,508.53` | https://zkillboard.com/kill/40647458/
   44 | Caldari Shuttle                                | `  172,121,559,999.96` | https://zkillboard.com/kill/79637670/
   45 | Bestower                                       | `  167,391,988,176.60` | https://zkillboard.com/kill/18312601/
   46 | Chameleon                                      | `  163,379,669,099.61` | https://zkillboard.com/kill/78373188/
@@ -61,7 +61,7 @@ Rank | Destroyed                                      | ISK Value              |
   53 | Imp                                            | `  147,599,036,862.12` | https://zkillboard.com/kill/77789901/
   54 | Hydra                                          | `  145,724,648,253.55` | https://zkillboard.com/kill/85857854/
   55 | Dramiel                                        | `  141,137,936,997.06` | https://zkillboard.com/kill/20375844/
-  56 | Ragnarok                                       | `  137,390,495,373.99` | https://zkillboard.com/kill/61365379/
+  56 | Ragnarok                                       | `  137,430,592,596.20` | https://zkillboard.com/kill/61365379/
   57 | Taipan                                         | `  135,014,791,964.57` | https://zkillboard.com/kill/79691222/
   58 | Tartara                                        | `  132,956,226,827.52` | https://zkillboard.com/kill/70510179/
   59 | Apotheosis                                     | `  132,556,072,901.83` | https://zkillboard.com/kill/3615862/
@@ -89,22 +89,22 @@ Rank | Destroyed                                      | ISK Value              |
   81 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
   82 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
   83 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
-  84 | Impel                                          | `   97,593,480,179.25` | https://zkillboard.com/kill/94423743/
-  85 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
-  86 | Marshal                                        | `   95,718,682,237.54` | https://zkillboard.com/kill/70357303/
-  87 | Ark                                            | `   94,882,512,362.60` | https://zkillboard.com/kill/90474686/
-  88 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
-  89 | Widow                                          | `   90,343,293,941.24` | https://zkillboard.com/kill/80681361/
+  84 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
+  85 | Marshal                                        | `   95,718,682,237.54` | https://zkillboard.com/kill/70357303/
+  86 | Ark                                            | `   94,882,512,362.60` | https://zkillboard.com/kill/90474686/
+  87 | Impel                                          | `   93,888,617,531.98` | https://zkillboard.com/kill/94423743/
+  88 | Widow                                          | `   92,364,579,705.76` | https://zkillboard.com/kill/80681361/
+  89 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
   90 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
   91 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
   92 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
   93 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
   94 | Prowler                                        | `   87,050,515,483.24` | https://zkillboard.com/kill/2440866/
-  95 | 'Marginis' Fortizar                            | `   86,637,277,393.24` | https://zkillboard.com/kill/91714824/
-  96 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
-  97 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
-  98 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
-  99 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
+  95 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
+  96 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
+  97 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
+  98 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
+  99 | 'Marginis' Fortizar                            | `   81,287,575,539.72` | https://zkillboard.com/kill/94475972/
  100 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
  101 | Hematos                                        | `   79,739,072,715.41` | https://zkillboard.com/kill/79649125/
  102 | Impairor                                       | `   76,851,201,812.70` | https://zkillboard.com/kill/9254430/
