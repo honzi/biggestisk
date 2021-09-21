@@ -10,7 +10,7 @@ Rank | Destroyed                                      | ISK Value              |
    2 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
    3 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
    4 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
-   5 | Vanquisher                                     | `  817,587,527,640.28` | https://zkillboard.com/kill/95071176/
+   5 | Vanquisher                                     | `  818,075,951,314.72` | https://zkillboard.com/kill/95071176/
    6 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
    7 | Molok                                          | `  763,453,896,186.84` | https://zkillboard.com/kill/95071096/
    8 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
@@ -136,7 +136,7 @@ Rank | Destroyed                                      | ISK Value              |
  128 | Armageddon Navy Issue                          | `   49,317,582,117.32` | https://zkillboard.com/kill/14575546/
  129 | Kestrel                                        | `   49,005,161,599.98` | https://zkillboard.com/kill/16897374/
  130 | Ship Maintenance Array                         | `   48,113,718,999.68` | https://zkillboard.com/kill/50240671/
- 131 | Barghest                                       | `   46,009,872,543.24` | https://zkillboard.com/kill/95261909/
+ 131 | Barghest                                       | `   46,005,015,058.68` | https://zkillboard.com/kill/95261909/
  132 | Incursus                                       | `   45,917,581,370.55` | https://zkillboard.com/kill/1687756/
  133 | Rattlesnake                                    | `   44,708,373,124.25` | https://zkillboard.com/kill/83497945/
  134 | Thrasher                                       | `   44,085,513,214.60` | https://zkillboard.com/kill/13891659/
