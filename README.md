@@ -654,7 +654,7 @@ Rank | Destroyed                                      | ISK Value              |
  646 | Mobile Micro Jump Unit                         | `       14,900,000.00` | https://zkillboard.com/kill/36260922/
  647 | Termite I                                      | `       14,459,355.72` | https://zkillboard.com/kill/56018755/
  648 | Cenobite I                                     | `       14,285,166.49` | https://zkillboard.com/kill/54316759/
- 649 | Serpentis Small Blaster Battery                | `       13,765,763.14` | https://zkillboard.com/kill/31350925/
+ 649 | Serpentis Small Blaster Battery                | `       13,748,045.20` | https://zkillboard.com/kill/31350925/
  650 | Large Railgun Battery                          | `       13,276,917.08` | https://zkillboard.com/kill/74268375/
  651 | Medium Biochemical Reactor Array               | `       12,999,999.98` | https://zkillboard.com/kill/55821329/
  652 | Malleus I                                      | `       12,498,999.97` | https://zkillboard.com/kill/53877706/
