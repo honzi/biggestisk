@@ -28,15 +28,15 @@ Rank | Destroyed                                      | ISK Value              |
   20 | Charon                                         | `  331,927,779,326.97` | https://zkillboard.com/kill/14535158/
   21 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
   22 | Obelisk                                        | `  268,799,770,369.76` | https://zkillboard.com/kill/7154867/
-  23 | Victor                                         | `  242,035,231,385.59` | https://zkillboard.com/kill/94035723/
-  24 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
-  25 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
-  26 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
-  27 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
-  28 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
-  29 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
-  30 | Probe                                          | `  214,988,177,725.28` | https://zkillboard.com/kill/79632461/
-  31 | Revenant                                       | `  211,391,320,178.61` | https://zkillboard.com/kill/56582915/
+  23 | Revenant                                       | `  265,991,376,940.73` | https://zkillboard.com/kill/96232154/
+  24 | Victor                                         | `  242,035,231,385.59` | https://zkillboard.com/kill/94035723/
+  25 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
+  26 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
+  27 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
+  28 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
+  29 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
+  30 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
+  31 | Probe                                          | `  214,988,177,725.28` | https://zkillboard.com/kill/79632461/
   32 | Chremoas                                       | `  208,435,078,755.25` | https://zkillboard.com/kill/73676084/
   33 | Ares                                           | `  207,418,999,809.01` | https://zkillboard.com/kill/15449831/
   34 | Victorieux Luxury Yacht                        | `  204,732,318,545.73` | https://zkillboard.com/kill/55270851/
