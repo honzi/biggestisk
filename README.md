@@ -33,20 +33,20 @@ Rank | Destroyed                                      | ISK Value              |
   25 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
   26 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
   27 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
-  28 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
-  29 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
-  30 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
-  31 | Probe                                          | `  214,988,177,725.28` | https://zkillboard.com/kill/79632461/
-  32 | Chremoas                                       | `  208,435,078,755.25` | https://zkillboard.com/kill/73676084/
-  33 | Ares                                           | `  207,418,999,809.01` | https://zkillboard.com/kill/15449831/
-  34 | Victorieux Luxury Yacht                        | `  204,732,318,545.73` | https://zkillboard.com/kill/55270851/
-  35 | Rabisu                                         | `  200,029,102,315.20` | https://zkillboard.com/kill/64049309/
-  36 | Leviathan                                      | `  197,501,591,662.00` | https://zkillboard.com/kill/61574649/
-  37 | Anathema                                       | `  192,559,341,172.16` | https://zkillboard.com/kill/18112969/
-  38 | Mammoth                                        | `  189,151,081,722.03` | https://zkillboard.com/kill/17304620/
-  39 | Caracal Navy Issue                             | `  183,625,442,143.80` | https://zkillboard.com/kill/15049251/
-  40 | Erebus                                         | `  182,586,735,296.69` | https://zkillboard.com/kill/56895433/
-  41 | Vendetta                                       | `  180,092,380,859.01` | https://zkillboard.com/kill/89479590/
+  28 | Vendetta                                       | `  235,344,165,473.73` | https://zkillboard.com/kill/96232149/
+  29 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
+  30 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
+  31 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
+  32 | Probe                                          | `  214,988,177,725.28` | https://zkillboard.com/kill/79632461/
+  33 | Chremoas                                       | `  208,435,078,755.25` | https://zkillboard.com/kill/73676084/
+  34 | Ares                                           | `  207,418,999,809.01` | https://zkillboard.com/kill/15449831/
+  35 | Victorieux Luxury Yacht                        | `  204,732,318,545.73` | https://zkillboard.com/kill/55270851/
+  36 | Rabisu                                         | `  200,029,102,315.20` | https://zkillboard.com/kill/64049309/
+  37 | Leviathan                                      | `  197,501,591,662.00` | https://zkillboard.com/kill/61574649/
+  38 | Anathema                                       | `  192,559,341,172.16` | https://zkillboard.com/kill/18112969/
+  39 | Mammoth                                        | `  189,151,081,722.03` | https://zkillboard.com/kill/17304620/
+  40 | Caracal Navy Issue                             | `  183,625,442,143.80` | https://zkillboard.com/kill/15049251/
+  41 | Erebus                                         | `  182,586,735,296.69` | https://zkillboard.com/kill/56895433/
   42 | Fiend                                          | `  175,425,712,701.48` | https://zkillboard.com/kill/51797738/
   43 | Avatar                                         | `  172,420,796,508.53` | https://zkillboard.com/kill/40647458/
   44 | Caldari Shuttle                                | `  172,121,559,999.96` | https://zkillboard.com/kill/79637670/
