@@ -117,15 +117,15 @@ Rank | Destroyed                                      | ISK Value              |
  109 | Leshak                                         | `   66,390,603,877.97` | https://zkillboard.com/kill/71800039/
  110 | Maller                                         | `   66,237,112,598.42` | https://zkillboard.com/kill/14113212/
  111 | Atron                                          | `   66,135,944,231.41` | https://zkillboard.com/kill/61567389/
- 112 | Aeon                                           | `   64,453,411,196.63` | https://zkillboard.com/kill/12583986/
- 113 | Inquisitor                                     | `   64,240,219,593.46` | https://zkillboard.com/kill/1246575/
- 114 | Hel                                            | `   61,667,309,269.63` | https://zkillboard.com/kill/66112586/
- 115 | Executioner                                    | `   59,088,360,839.88` | https://zkillboard.com/kill/11070234/
- 116 | Wreathe                                        | `   58,895,261,230.39` | https://zkillboard.com/kill/79740411/
- 117 | Nighthawk                                      | `   58,325,347,141.03` | https://zkillboard.com/kill/5211305/
- 118 | Harbinger                                      | `   56,374,546,057.48` | https://zkillboard.com/kill/3624217/
- 119 | Reaper                                         | `   55,976,768,857.93` | https://zkillboard.com/kill/15135600/
- 120 | Barghest                                       | `   55,635,409,100.96` | https://zkillboard.com/kill/96649152/
+ 112 | Barghest                                       | `   64,591,885,542.76` | https://zkillboard.com/kill/96671831/
+ 113 | Aeon                                           | `   64,453,411,196.63` | https://zkillboard.com/kill/12583986/
+ 114 | Inquisitor                                     | `   64,240,219,593.46` | https://zkillboard.com/kill/1246575/
+ 115 | Hel                                            | `   61,667,309,269.63` | https://zkillboard.com/kill/66112586/
+ 116 | Executioner                                    | `   59,088,360,839.88` | https://zkillboard.com/kill/11070234/
+ 117 | Wreathe                                        | `   58,895,261,230.39` | https://zkillboard.com/kill/79740411/
+ 118 | Nighthawk                                      | `   58,325,347,141.03` | https://zkillboard.com/kill/5211305/
+ 119 | Harbinger                                      | `   56,374,546,057.48` | https://zkillboard.com/kill/3624217/
+ 120 | Reaper                                         | `   55,976,768,857.93` | https://zkillboard.com/kill/15135600/
  121 | Purifier                                       | `   54,988,440,772.71` | https://zkillboard.com/kill/19722261/
  122 | Rorqual                                        | `   54,746,712,831.88` | https://zkillboard.com/kill/68363661/
  123 | Cheetah                                        | `   54,107,018,476.63` | https://zkillboard.com/kill/14360876/
