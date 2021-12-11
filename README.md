@@ -699,6 +699,7 @@ Rank | Destroyed                                      | ISK Value              |
  691 | Small AutoCannon Battery                       | `        2,076,922.79` | https://zkillboard.com/kill/2078836/
  692 | Civilian Gallente Shuttle                      | `        1,193,376.36` | https://zkillboard.com/kill/31744154/
  693 | Civilian Caldari Shuttle                       | `          752,505.00` | https://zkillboard.com/kill/58831028/
- 694 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
- 695 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
- 696 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+ 694 | AIR Civilian Astero                            | `           79,715.89` | https://zkillboard.com/kill/97056132/
+ 695 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
+ 696 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
+ 697 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
