@@ -120,7 +120,7 @@ Rank | Destroyed                                      | ISK Value              |
  112 | Barghest                                       | `   64,591,885,542.76` | https://zkillboard.com/kill/96671831/
  113 | Aeon                                           | `   64,453,411,196.63` | https://zkillboard.com/kill/12583986/
  114 | Inquisitor                                     | `   64,240,219,593.46` | https://zkillboard.com/kill/1246575/
- 115 | Hel                                            | `   61,667,309,269.63` | https://zkillboard.com/kill/66112586/
+ 115 | Hel                                            | `   62,058,101,379.93` | https://zkillboard.com/kill/97725094/
  116 | Executioner                                    | `   59,088,360,839.88` | https://zkillboard.com/kill/11070234/
  117 | Wreathe                                        | `   58,895,261,230.39` | https://zkillboard.com/kill/79740411/
  118 | Nighthawk                                      | `   58,325,347,141.03` | https://zkillboard.com/kill/5211305/
