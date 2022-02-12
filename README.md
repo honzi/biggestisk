@@ -3,6 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of each entity type in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
+* Entities that have yet to be killed are [listed at the bottom](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|--------------------------------------
@@ -703,3 +704,58 @@ Rank | Destroyed                                      | ISK Value              |
  695 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
  696 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
  697 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
+
+### Unkilled Entities
+
+Entity                                | Link
+--------------------------------------|-----------------------------------
+Able_PLACEHOLDER                      | https://zkillboard.com/ship/45651/
+Academy                               | https://zkillboard.com/ship/20176/
+Amarr Police Frigate                  | https://zkillboard.com/ship/3768/
+Apocalypse Blood Raider Edition       | https://zkillboard.com/ship/34213/
+Apocalypse Imperial Issue             | https://zkillboard.com/ship/11936/
+Apocalypse Kador Edition              | https://zkillboard.com/ship/34215/
+Apocalypse Tash-Murkon Edition        | https://zkillboard.com/ship/34217/
+Armageddon Imperial Issue             | https://zkillboard.com/ship/11938/
+Blade                                 | https://zkillboard.com/ship/11373/
+Concord Army Battleship               | https://zkillboard.com/ship/1918/
+Concord Army Frigate                  | https://zkillboard.com/ship/1900/
+Concord Police Battleship             | https://zkillboard.com/ship/1912/
+Concord Police Frigate                | https://zkillboard.com/ship/1896/
+Concord SWAT Frigate                  | https://zkillboard.com/ship/1898/
+Dagger                                | https://zkillboard.com/ship/12036/
+Devourer                              | https://zkillboard.com/ship/613/
+Dog_PLACEHOLDER                       | https://zkillboard.com/ship/45673/
+Easy_PLACEHOLDER                      | https://zkillboard.com/ship/45675/
+Erinye                                | https://zkillboard.com/ship/11375/
+Fury                                  | https://zkillboard.com/ship/614/
+Gallente Police Ship                  | https://zkillboard.com/ship/595/
+Gatherer                              | https://zkillboard.com/ship/11383/
+Immovable Enigma                      | https://zkillboard.com/ship/17360/
+Kishar                                | https://zkillboard.com/ship/11389/
+Laelaps                               | https://zkillboard.com/ship/60764/
+Lynx                                  | https://zkillboard.com/ship/618/
+Medusa                                | https://zkillboard.com/ship/616/
+Megathron Federate Issue              | https://zkillboard.com/ship/13202/
+Megathron Inner Zone Shipping Edition | https://zkillboard.com/ship/34239/
+Megathron Police Edition              | https://zkillboard.com/ship/34237/
+Minmatar Peacekeeper Ship             | https://zkillboard.com/ship/600/
+Mordus Frigate                        | https://zkillboard.com/ship/17707/
+Raiju                                 | https://zkillboard.com/ship/60765/
+Raven Guristas Edition                | https://zkillboard.com/ship/34225/
+Raven Kaalakiota Edition              | https://zkillboard.com/ship/34227/
+Raven Nugoeihuvi Edition              | https://zkillboard.com/ship/34229/
+Raven State Issue                     | https://zkillboard.com/ship/26840/
+SOCT 1                                | https://zkillboard.com/ship/3751/
+SOCT 2                                | https://zkillboard.com/ship/3753/
+Swordspine                            | https://zkillboard.com/ship/619/
+Tempest Justice Edition               | https://zkillboard.com/ship/34247/
+Tempest Krusual Edition               | https://zkillboard.com/ship/34249/
+Tempest Nefantar Edition              | https://zkillboard.com/ship/34251/
+Tempest Tribal Issue                  | https://zkillboard.com/ship/26842/
+Tournament Bubble                     | https://zkillboard.com/ship/26849/
+Tournament Micro Jump Unit            | https://zkillboard.com/ship/33990/
+Tournament Practice Unit              | https://zkillboard.com/ship/36523/
+Trauma Treatment Facility             | https://zkillboard.com/ship/28318/
+Upwell Palatine Keepstar              | https://zkillboard.com/ship/40340/
+Vitoc Injection Center                | https://zkillboard.com/ship/28319/
