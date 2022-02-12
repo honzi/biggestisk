@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `699` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `50` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
+* `58` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|--------------------------------------
@@ -761,3 +761,11 @@ Tournament Practice Unit              | https://zkillboard.com/ship/36523/
 Trauma Treatment Facility             | https://zkillboard.com/ship/28318/
 Upwell Palatine Keepstar              | https://zkillboard.com/ship/40340/
 Vitoc Injection Center                | https://zkillboard.com/ship/28319/
+万王宝座级YC117年特别版                  | https://zkillboard.com/ship/34467/
+乌鸦级YC117年特别版                     | https://zkillboard.com/ship/34469/
+响尾蛇级YC117年特别版                    | https://zkillboard.com/ship/34463/
+地狱天使级YC117年特别版                  | https://zkillboard.com/ship/34459/
+多米尼克斯级YC117年特别版                | https://zkillboard.com/ship/34465/
+末日沙场级YC117年特别版                  | https://zkillboard.com/ship/34457/
+灾难级YC117年特别版                     | https://zkillboard.com/ship/34471/
+马克瑞级YC117年特别版                   | https://zkillboard.com/ship/34461/
