@@ -709,105 +709,121 @@ Rank | Destroyed                                      | ISK Value              |
 
 ### Unkilled Entities
 
-Entity                                | Link
---------------------------------------|-----------------------------------
-Able_PLACEHOLDER                      | https://zkillboard.com/ship/45651/
-Academy                               | https://zkillboard.com/ship/20176/
-Amarr Police Frigate                  | https://zkillboard.com/ship/3768/
-Amarr Surveillance General Major      | https://zkillboard.com/ship/11515/
-Amarr Surveillance Officer            | https://zkillboard.com/ship/9959/
-Amarr Surveillance Sergeant           | https://zkillboard.com/ship/9962/
-Amarr Surveillance Sergeant Major     | https://zkillboard.com/ship/9960/
-Ammatar Surveillance General Major    | https://zkillboard.com/ship/11517/
-Ammatar Surveillance Officer          | https://zkillboard.com/ship/10097/
-Ammatar Surveillance Sergeant         | https://zkillboard.com/ship/10100/
-Ammatar Surveillance Sergeant Major   | https://zkillboard.com/ship/10099/
-Apocalypse Blood Raider Edition       | https://zkillboard.com/ship/34213/
-Apocalypse Imperial Issue             | https://zkillboard.com/ship/11936/
-Apocalypse Kador Edition              | https://zkillboard.com/ship/34215/
-Apocalypse Tash-Murkon Edition        | https://zkillboard.com/ship/34217/
-Armageddon Imperial Issue             | https://zkillboard.com/ship/11938/
-Blade                                 | https://zkillboard.com/ship/11373/
-Caldari Media Shuttle                 | https://zkillboard.com/ship/29330/
-Caldari Police 1st Lieutenant         | https://zkillboard.com/ship/9971/
-Caldari Police 2nd Lieutenant         | https://zkillboard.com/ship/10660/
-Caldari Police 3rd Lieutenant         | https://zkillboard.com/ship/9970/
-Caldari Police Commissioner           | https://zkillboard.com/ship/11521/
-Caldari Police Vice Commissioner      | https://zkillboard.com/ship/9965/
-Concord Army Battleship               | https://zkillboard.com/ship/1918/
-Concord Army Frigate                  | https://zkillboard.com/ship/1900/
-Concord Police Battleship             | https://zkillboard.com/ship/1912/
-Concord Police Cruiser                | https://zkillboard.com/ship/1904/
-Concord Police Frigate                | https://zkillboard.com/ship/1896/
-CONCORD SWAT Captain                  | https://zkillboard.com/ship/10036/
-CONCORD SWAT Commander                | https://zkillboard.com/ship/11126/
-Concord SWAT Frigate                  | https://zkillboard.com/ship/1898/
-CONCORD SWAT Officer                  | https://zkillboard.com/ship/10035/
-Dagger                                | https://zkillboard.com/ship/12036/
-Devourer                              | https://zkillboard.com/ship/613/
-Dog_PLACEHOLDER                       | https://zkillboard.com/ship/45673/
-Easy_PLACEHOLDER                      | https://zkillboard.com/ship/45675/
-Erinye                                | https://zkillboard.com/ship/11375/
-Fury                                  | https://zkillboard.com/ship/614/
-Gallente Police Captain               | https://zkillboard.com/ship/9984/
-Gallente Police Major                 | https://zkillboard.com/ship/11519/
-Gallente Police Master Sergeant       | https://zkillboard.com/ship/9983/
-Gallente Police Sergeant              | https://zkillboard.com/ship/9991/
-Gallente Police Ship                  | https://zkillboard.com/ship/595/
-Gatherer                              | https://zkillboard.com/ship/11383/
-Guardian-Vexor                        | https://zkillboard.com/ship/11011/
-Immovable Enigma                      | https://zkillboard.com/ship/17360/
-Khanid Surveillance General Major     | https://zkillboard.com/ship/11518/
-Khanid Surveillance Officer           | https://zkillboard.com/ship/9987/
-Khanid Surveillance Sergeant          | https://zkillboard.com/ship/9988/
-Khanid Surveillance Sergeant Major    | https://zkillboard.com/ship/10674/
-Kishar                                | https://zkillboard.com/ship/11389/
-Laelaps                               | https://zkillboard.com/ship/60764/
-Lynx                                  | https://zkillboard.com/ship/618/
-Medusa                                | https://zkillboard.com/ship/616/
-Megathron Federate Issue              | https://zkillboard.com/ship/13202/
-Megathron Inner Zone Shipping Edition | https://zkillboard.com/ship/34239/
-Megathron Police Edition              | https://zkillboard.com/ship/34237/
-Minmatar Media Shuttle                | https://zkillboard.com/ship/29334/
-Minmatar Peacekeeper Ship             | https://zkillboard.com/ship/600/
-Minmatar Security High Captain        | https://zkillboard.com/ship/11520/
-Minmatar Security Officer 1st Rank    | https://zkillboard.com/ship/9978/
-Minmatar Security Officer 2nd Rank    | https://zkillboard.com/ship/9977/
-Minmatar Security Officer 3rd Rank    | https://zkillboard.com/ship/9989/
-Mordus Frigate                        | https://zkillboard.com/ship/17707/
-Opux Luxury Yacht                     | https://zkillboard.com/ship/635/
-Raiju                                 | https://zkillboard.com/ship/60765/
-Raven Guristas Edition                | https://zkillboard.com/ship/34225/
-Raven Kaalakiota Edition              | https://zkillboard.com/ship/34227/
-Raven Nugoeihuvi Edition              | https://zkillboard.com/ship/34229/
-Raven State Issue                     | https://zkillboard.com/ship/26840/
-Roden Police Major                    | https://zkillboard.com/ship/32380/
-Roden Police Sergeant                 | https://zkillboard.com/ship/32381/
-Sarum Surveillance General Major      | https://zkillboard.com/ship/11516/
-Sarum Surveillance Officer            | https://zkillboard.com/ship/10102/
-Sarum Surveillance Sergeant           | https://zkillboard.com/ship/10105/
-Sarum Surveillance Sergeant Major     | https://zkillboard.com/ship/10104/
-SOCT 1                                | https://zkillboard.com/ship/3751/
-SOCT 2                                | https://zkillboard.com/ship/3753/
-Stratios Emergency Responder          | https://zkillboard.com/ship/33553/
-Swordspine                            | https://zkillboard.com/ship/619/
-Tempest Justice Edition               | https://zkillboard.com/ship/34247/
-Tempest Krusual Edition               | https://zkillboard.com/ship/34249/
-Tempest Nefantar Edition              | https://zkillboard.com/ship/34251/
-Tempest Tribal Issue                  | https://zkillboard.com/ship/26842/
-Test Site Maller                      | https://zkillboard.com/ship/52267/
-Tournament Bubble                     | https://zkillboard.com/ship/26849/
-Tournament Micro Jump Unit            | https://zkillboard.com/ship/33990/
-Tournament Practice Unit              | https://zkillboard.com/ship/36523/
-Trauma Treatment Facility             | https://zkillboard.com/ship/28318/
-Upwell Palatine Keepstar              | https://zkillboard.com/ship/40340/
-Vitoc Injection Center                | https://zkillboard.com/ship/28319/
-末日沙场级YC117年特别版                  | https://zkillboard.com/ship/34457/
-地狱天使级YC117年特别版                  | https://zkillboard.com/ship/34459/
-马克瑞级YC117年特别版                    | https://zkillboard.com/ship/34461/
-响尾蛇级YC117年特别版                    | https://zkillboard.com/ship/34463/
-多米尼克斯级YC117年特别版                | https://zkillboard.com/ship/34465/
-万王宝座级YC117年特别版                  | https://zkillboard.com/ship/34467/
-乌鸦级YC117年特别版                     | https://zkillboard.com/ship/34469/
-灾难级YC117年特别版                     | https://zkillboard.com/ship/34471/
-毒蜥级YC117年特别版                     | https://zkillboard.com/ship/34475/
+Entity                                              | Link
+----------------------------------------------------s|-----------------------------------
+Able_PLACEHOLDER                                    | https://zkillboard.com/ship/45651/
+Academy                                             | https://zkillboard.com/ship/20176/
+Amarr Police Frigate                                | https://zkillboard.com/ship/3768/
+Amarr Surveillance General Major                    | https://zkillboard.com/ship/11515/
+Amarr Surveillance Officer                          | https://zkillboard.com/ship/9959/
+Amarr Surveillance Sergeant                         | https://zkillboard.com/ship/9962/
+Amarr Surveillance Sergeant Major                   | https://zkillboard.com/ship/9960/
+Ammatar Surveillance General Major                  | https://zkillboard.com/ship/11517/
+Ammatar Surveillance Officer                        | https://zkillboard.com/ship/10097/
+Ammatar Surveillance Sergeant                       | https://zkillboard.com/ship/10100/
+Ammatar Surveillance Sergeant Major                 | https://zkillboard.com/ship/10099/
+Angel Fugitive                                      | https://zkillboard.com/ship/12245/
+Apocalypse 125ms 2500m                              | https://zkillboard.com/ship/25215/
+Apocalypse Blood Raider Edition                     | https://zkillboard.com/ship/34213/
+Apocalypse Imperial Issue                           | https://zkillboard.com/ship/11936/
+Apocalypse Kador Edition                            | https://zkillboard.com/ship/34215/
+Apocalypse Tash-Murkon Edition                      | https://zkillboard.com/ship/34217/
+Armageddon Imperial Issue                           | https://zkillboard.com/ship/11938/
+Automated Centii Keyholder                          | https://zkillboard.com/ship/22053/
+Automated Centii Training Vessel                    | https://zkillboard.com/ship/21849/
+Automated Coreli Training Vessel                    | https://zkillboard.com/ship/21845/
+Automated Corpii Training Vessel                    | https://zkillboard.com/ship/21847/
+Automated Gisti Training Vessel                     | https://zkillboard.com/ship/21846/
+Automated Pithi Training Vessel                     | https://zkillboard.com/ship/21848/
+Blade                                               | https://zkillboard.com/ship/11373/
+Blood Fugitive                                      | https://zkillboard.com/ship/12246/
+Caldari Media Shuttle                               | https://zkillboard.com/ship/29330/
+Caldari Police 1st Lieutenant                       | https://zkillboard.com/ship/9971/
+Caldari Police 2nd Lieutenant                       | https://zkillboard.com/ship/10660/
+Caldari Police 3rd Lieutenant                       | https://zkillboard.com/ship/9970/
+Caldari Police Commissioner                         | https://zkillboard.com/ship/11521/
+Caldari Police Vice Commissioner                    | https://zkillboard.com/ship/9965/
+Concord Army Battleship                             | https://zkillboard.com/ship/1918/
+Concord Army Frigate                                | https://zkillboard.com/ship/1900/
+Concord Police Battleship                           | https://zkillboard.com/ship/1912/
+Concord Police Cruiser                              | https://zkillboard.com/ship/1904/
+Concord Police Frigate                              | https://zkillboard.com/ship/1896/
+CONCORD SWAT Captain                                | https://zkillboard.com/ship/10036/
+CONCORD SWAT Commander                              | https://zkillboard.com/ship/11126/
+Concord SWAT Frigate                                | https://zkillboard.com/ship/1898/
+CONCORD SWAT Officer                                | https://zkillboard.com/ship/10035/
+Dagger                                              | https://zkillboard.com/ship/12036/
+Devourer                                            | https://zkillboard.com/ship/613/
+Dog_PLACEHOLDER                                     | https://zkillboard.com/ship/45673/
+Easy_PLACEHOLDER                                    | https://zkillboard.com/ship/45675/
+Erinye                                              | https://zkillboard.com/ship/11375/
+Fury                                                | https://zkillboard.com/ship/614/
+Gallente Police Captain                             | https://zkillboard.com/ship/9984/
+Gallente Police Major                               | https://zkillboard.com/ship/11519/
+Gallente Police Master Sergeant                     | https://zkillboard.com/ship/9983/
+Gallente Police Sergeant                            | https://zkillboard.com/ship/9991/
+Gallente Police Ship                                | https://zkillboard.com/ship/595/
+Gatherer                                            | https://zkillboard.com/ship/11383/
+Guardian-Vexor                                      | https://zkillboard.com/ship/11011/
+Immovable Enigma                                    | https://zkillboard.com/ship/17360/
+Khanid Surveillance General Major                   | https://zkillboard.com/ship/11518/
+Khanid Surveillance Officer                         | https://zkillboard.com/ship/9987/
+Khanid Surveillance Sergeant                        | https://zkillboard.com/ship/9988/
+Khanid Surveillance Sergeant Major                  | https://zkillboard.com/ship/10674/
+Kishar                                              | https://zkillboard.com/ship/11389/
+Laelaps                                             | https://zkillboard.com/ship/60764/
+Lynx                                                | https://zkillboard.com/ship/618/
+Medusa                                              | https://zkillboard.com/ship/616/
+Megathron Federate Issue                            | https://zkillboard.com/ship/13202/
+Megathron Inner Zone Shipping Edition               | https://zkillboard.com/ship/34239/
+Megathron Police Edition                            | https://zkillboard.com/ship/34237/
+Minmatar Media Shuttle                              | https://zkillboard.com/ship/29334/
+Minmatar Peacekeeper Ship                           | https://zkillboard.com/ship/600/
+Minmatar Security High Captain                      | https://zkillboard.com/ship/11520/
+Minmatar Security Officer 1st Rank                  | https://zkillboard.com/ship/9978/
+Minmatar Security Officer 2nd Rank                  | https://zkillboard.com/ship/9977/
+Minmatar Security Officer 3rd Rank                  | https://zkillboard.com/ship/9989/
+Mordus Frigate                                      | https://zkillboard.com/ship/17707/
+Opux Luxury Yacht                                   | https://zkillboard.com/ship/635/
+Petty Thief                                         | https://zkillboard.com/ship/27801/
+Raiju                                               | https://zkillboard.com/ship/60765/
+Raven Guristas Edition                              | https://zkillboard.com/ship/34225/
+Raven Kaalakiota Edition                            | https://zkillboard.com/ship/34227/
+Raven Nugoeihuvi Edition                            | https://zkillboard.com/ship/34229/
+Raven State Issue                                   | https://zkillboard.com/ship/26840/
+Roden Police Major                                  | https://zkillboard.com/ship/32380/
+Roden Police Sergeant                               | https://zkillboard.com/ship/32381/
+Sansha's Fugitive                                   | https://zkillboard.com/ship/12248/
+Sarum Surveillance General Major                    | https://zkillboard.com/ship/11516/
+Sarum Surveillance Officer                          | https://zkillboard.com/ship/10102/
+Sarum Surveillance Sergeant                         | https://zkillboard.com/ship/10105/
+Sarum Surveillance Sergeant Major                   | https://zkillboard.com/ship/10104/
+Serenity Only Chinese Spring Festival Event NPC Lv1 | https://zkillboard.com/ship/57332/
+Serenity Only Chinese Spring Festival Event NPC Lv2 | https://zkillboard.com/ship/57397/
+Serenity Only Chinese Spring Festival Event NPC Lv3 | https://zkillboard.com/ship/57398/
+Serenity Only Chinese Spring Festival Event NPC Lv4 | https://zkillboard.com/ship/57399/
+Serpentis Fugitive                                  | https://zkillboard.com/ship/12249/
+SOCT 1                                              | https://zkillboard.com/ship/3751/
+SOCT 2                                              | https://zkillboard.com/ship/3753/
+Stratios Emergency Responder                        | https://zkillboard.com/ship/33553/
+Swordspine                                          | https://zkillboard.com/ship/619/
+Tempest Justice Edition                             | https://zkillboard.com/ship/34247/
+Tempest Krusual Edition                             | https://zkillboard.com/ship/34249/
+Tempest Nefantar Edition                            | https://zkillboard.com/ship/34251/
+Tempest Tribal Issue                                | https://zkillboard.com/ship/26842/
+Test Site Maller                                    | https://zkillboard.com/ship/52267/
+Tournament Bubble                                   | https://zkillboard.com/ship/26849/
+Tournament Micro Jump Unit                          | https://zkillboard.com/ship/33990/
+Tournament Practice Unit                            | https://zkillboard.com/ship/36523/
+Trauma Treatment Facility                           | https://zkillboard.com/ship/28318/
+Upwell Palatine Keepstar                            | https://zkillboard.com/ship/40340/
+Vitoc Injection Center                              | https://zkillboard.com/ship/28319/
+末日沙场级YC117年特别版                                | https://zkillboard.com/ship/34457/
+地狱天使级YC117年特别版                                | https://zkillboard.com/ship/34459/
+马克瑞级YC117年特别版                                  | https://zkillboard.com/ship/34461/
+响尾蛇级YC117年特别版                                  | https://zkillboard.com/ship/34463/
+多米尼克斯级YC117年特别版                              | https://zkillboard.com/ship/34465/
+万王宝座级YC117年特别版                                | https://zkillboard.com/ship/34467/
+乌鸦级YC117年特别版                                   | https://zkillboard.com/ship/34469/
+灾难级YC117年特别版                                   | https://zkillboard.com/ship/34471/
+毒蜥级YC117年特别版                                   | https://zkillboard.com/ship/34475/
