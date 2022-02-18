@@ -714,6 +714,14 @@ Entity                                | Link
 Able_PLACEHOLDER                      | https://zkillboard.com/ship/45651/
 Academy                               | https://zkillboard.com/ship/20176/
 Amarr Police Frigate                  | https://zkillboard.com/ship/3768/
+Amarr Surveillance General Major      | https://zkillboard.com/ship/11515/
+Amarr Surveillance Officer            | https://zkillboard.com/ship/9959/
+Amarr Surveillance Sergeant           | https://zkillboard.com/ship/9962/
+Amarr Surveillance Sergeant Major     | https://zkillboard.com/ship/9960/
+Ammatar Surveillance General Major    | https://zkillboard.com/ship/11517/
+Ammatar Surveillance Officer          | https://zkillboard.com/ship/10097/
+Ammatar Surveillance Sergeant         | https://zkillboard.com/ship/10100/
+Ammatar Surveillance Sergeant Major   | https://zkillboard.com/ship/10099/
 Apocalypse Blood Raider Edition       | https://zkillboard.com/ship/34213/
 Apocalypse Imperial Issue             | https://zkillboard.com/ship/11936/
 Apocalypse Kador Edition              | https://zkillboard.com/ship/34215/
@@ -721,22 +729,38 @@ Apocalypse Tash-Murkon Edition        | https://zkillboard.com/ship/34217/
 Armageddon Imperial Issue             | https://zkillboard.com/ship/11938/
 Blade                                 | https://zkillboard.com/ship/11373/
 Caldari Media Shuttle                 | https://zkillboard.com/ship/29330/
+Caldari Police 1st Lieutenant         | https://zkillboard.com/ship/9971/
+Caldari Police 2nd Lieutenant         | https://zkillboard.com/ship/10660/
+Caldari Police 3rd Lieutenant         | https://zkillboard.com/ship/9970/
+Caldari Police Commissioner           | https://zkillboard.com/ship/11521/
+Caldari Police Vice Commissioner      | https://zkillboard.com/ship/9965/
 Concord Army Battleship               | https://zkillboard.com/ship/1918/
 Concord Army Frigate                  | https://zkillboard.com/ship/1900/
 Concord Police Battleship             | https://zkillboard.com/ship/1912/
 Concord Police Cruiser                | https://zkillboard.com/ship/1904/
 Concord Police Frigate                | https://zkillboard.com/ship/1896/
+CONCORD SWAT Captain                  | https://zkillboard.com/ship/10036/
+CONCORD SWAT Commander                | https://zkillboard.com/ship/11126/
 Concord SWAT Frigate                  | https://zkillboard.com/ship/1898/
+CONCORD SWAT Officer                  | https://zkillboard.com/ship/10035/
 Dagger                                | https://zkillboard.com/ship/12036/
 Devourer                              | https://zkillboard.com/ship/613/
 Dog_PLACEHOLDER                       | https://zkillboard.com/ship/45673/
 Easy_PLACEHOLDER                      | https://zkillboard.com/ship/45675/
 Erinye                                | https://zkillboard.com/ship/11375/
 Fury                                  | https://zkillboard.com/ship/614/
+Gallente Police Captain               | https://zkillboard.com/ship/9984/
+Gallente Police Major                 | https://zkillboard.com/ship/11519/
+Gallente Police Master Sergeant       | https://zkillboard.com/ship/9983/
+Gallente Police Sergeant              | https://zkillboard.com/ship/9991/
 Gallente Police Ship                  | https://zkillboard.com/ship/595/
 Gatherer                              | https://zkillboard.com/ship/11383/
 Guardian-Vexor                        | https://zkillboard.com/ship/11011/
 Immovable Enigma                      | https://zkillboard.com/ship/17360/
+Khanid Surveillance General Major     | https://zkillboard.com/ship/11518/
+Khanid Surveillance Officer           | https://zkillboard.com/ship/9987/
+Khanid Surveillance Sergeant          | https://zkillboard.com/ship/9988/
+Khanid Surveillance Sergeant Major    | https://zkillboard.com/ship/10674/
 Kishar                                | https://zkillboard.com/ship/11389/
 Laelaps                               | https://zkillboard.com/ship/60764/
 Lynx                                  | https://zkillboard.com/ship/618/
@@ -746,6 +770,10 @@ Megathron Inner Zone Shipping Edition | https://zkillboard.com/ship/34239/
 Megathron Police Edition              | https://zkillboard.com/ship/34237/
 Minmatar Media Shuttle                | https://zkillboard.com/ship/29334/
 Minmatar Peacekeeper Ship             | https://zkillboard.com/ship/600/
+Minmatar Security High Captain        | https://zkillboard.com/ship/11520/
+Minmatar Security Officer 1st Rank    | https://zkillboard.com/ship/9978/
+Minmatar Security Officer 2nd Rank    | https://zkillboard.com/ship/9977/
+Minmatar Security Officer 3rd Rank    | https://zkillboard.com/ship/9989/
 Mordus Frigate                        | https://zkillboard.com/ship/17707/
 Opux Luxury Yacht                     | https://zkillboard.com/ship/635/
 Raiju                                 | https://zkillboard.com/ship/60765/
@@ -753,6 +781,12 @@ Raven Guristas Edition                | https://zkillboard.com/ship/34225/
 Raven Kaalakiota Edition              | https://zkillboard.com/ship/34227/
 Raven Nugoeihuvi Edition              | https://zkillboard.com/ship/34229/
 Raven State Issue                     | https://zkillboard.com/ship/26840/
+Roden Police Major                    | https://zkillboard.com/ship/32380/
+Roden Police Sergeant                 | https://zkillboard.com/ship/32381/
+Sarum Surveillance General Major      | https://zkillboard.com/ship/11516/
+Sarum Surveillance Officer            | https://zkillboard.com/ship/10102/
+Sarum Surveillance Sergeant           | https://zkillboard.com/ship/10105/
+Sarum Surveillance Sergeant Major     | https://zkillboard.com/ship/10104/
 SOCT 1                                | https://zkillboard.com/ship/3751/
 SOCT 2                                | https://zkillboard.com/ship/3753/
 Stratios Emergency Responder          | https://zkillboard.com/ship/33553/
