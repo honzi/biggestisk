@@ -710,7 +710,7 @@ Rank | Destroyed                                      | ISK Value              |
 ### Unkilled Entities
 
 Entity                                              | Link
-----------------------------------------------------s|-----------------------------------
+----------------------------------------------------|-----------------------------------
 Able_PLACEHOLDER                                    | https://zkillboard.com/ship/45651/
 Academy                                             | https://zkillboard.com/ship/20176/
 Amarr Police Frigate                                | https://zkillboard.com/ship/3768/
