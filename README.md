@@ -706,6 +706,7 @@ Rank | Destroyed                                      | ISK Value              |
  697 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
  698 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
  699 | Highsec Authorized Mobile Cynosural Beacon     | `                0.01` | https://zkillboard.com/kill/92452933/
+ 700 | Polaris Inspector Frigate                      | `                0.01` | https://zkillboard.com/kill/93240958/
 
 ### Unkilled Entities
 
@@ -786,6 +787,10 @@ Minmatar Security Officer 3rd Rank                  | https://zkillboard.com/shi
 Mordus Frigate                                      | https://zkillboard.com/ship/17707/
 Opux Luxury Yacht                                   | https://zkillboard.com/ship/635/
 Petty Thief                                         | https://zkillboard.com/ship/27801/
+Polaris Centurion Frigate                           | https://zkillboard.com/ship/9862/
+Polaris Centurion TEST                              | https://zkillboard.com/ship/9858/
+Polaris Enigma Frigate                              | https://zkillboard.com/ship/1233/
+Polaris Legatus Frigate                             | https://zkillboard.com/ship/9860/
 Raiju                                               | https://zkillboard.com/ship/60765/
 Raven Guristas Edition                              | https://zkillboard.com/ship/34225/
 Raven Kaalakiota Edition                            | https://zkillboard.com/ship/34227/
