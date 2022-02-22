@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `700` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `123` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
+* `143` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|--------------------------------------
@@ -724,6 +724,7 @@ Ammatar Surveillance Officer                        | https://zkillboard.com/shi
 Ammatar Surveillance Sergeant                       | https://zkillboard.com/ship/10100/
 Ammatar Surveillance Sergeant Major                 | https://zkillboard.com/ship/10099/
 Angel Fugitive                                      | https://zkillboard.com/ship/12245/
+Angel Rookie                                        | https://zkillboard.com/ship/30369/
 Apocalypse 125ms 2500m                              | https://zkillboard.com/ship/25215/
 Apocalypse Blood Raider Edition                     | https://zkillboard.com/ship/34213/
 Apocalypse Imperial Issue                           | https://zkillboard.com/ship/11936/
@@ -736,14 +737,19 @@ Automated Coreli Training Vessel                    | https://zkillboard.com/shi
 Automated Corpii Training Vessel                    | https://zkillboard.com/ship/21847/
 Automated Gisti Training Vessel                     | https://zkillboard.com/ship/21846/
 Automated Pithi Training Vessel                     | https://zkillboard.com/ship/21848/
+Belter Hoodlum                                      | https://zkillboard.com/ship/34588/
+Belter Hoodlum                                      | https://zkillboard.com/ship/43923/
 Blade                                               | https://zkillboard.com/ship/11373/
 Blood Fugitive                                      | https://zkillboard.com/ship/12246/
+Blood Raider Rookie                                 | https://zkillboard.com/ship/30379/
 Caldari Media Shuttle                               | https://zkillboard.com/ship/29330/
 Caldari Police 1st Lieutenant                       | https://zkillboard.com/ship/9971/
 Caldari Police 2nd Lieutenant                       | https://zkillboard.com/ship/10660/
 Caldari Police 3rd Lieutenant                       | https://zkillboard.com/ship/9970/
 Caldari Police Commissioner                         | https://zkillboard.com/ship/11521/
 Caldari Police Vice Commissioner                    | https://zkillboard.com/ship/9965/
+Clonejacker Punk                                    | https://zkillboard.com/ship/34579/
+CloneJacker Punk                                    | https://zkillboard.com/ship/43922/
 Concord Army Battleship                             | https://zkillboard.com/ship/1918/
 Concord Army Frigate                                | https://zkillboard.com/ship/1900/
 Concord Police Battleship                           | https://zkillboard.com/ship/1912/
@@ -754,9 +760,11 @@ CONCORD SWAT Commander                              | https://zkillboard.com/shi
 Concord SWAT Frigate                                | https://zkillboard.com/ship/1898/
 CONCORD SWAT Officer                                | https://zkillboard.com/ship/10035/
 Dagger                                              | https://zkillboard.com/ship/12036/
+Damaged Vessel                                      | https://zkillboard.com/ship/32471/
 Devourer                                            | https://zkillboard.com/ship/613/
 Dog_PLACEHOLDER                                     | https://zkillboard.com/ship/45673/
 Easy_PLACEHOLDER                                    | https://zkillboard.com/ship/45675/
+Enhanced Training Drone                             | https://zkillboard.com/ship/16693/
 Erinye                                              | https://zkillboard.com/ship/11375/
 Fury                                                | https://zkillboard.com/ship/614/
 Gallente Police Captain                             | https://zkillboard.com/ship/9984/
@@ -766,7 +774,9 @@ Gallente Police Sergeant                            | https://zkillboard.com/shi
 Gallente Police Ship                                | https://zkillboard.com/ship/595/
 Gatherer                                            | https://zkillboard.com/ship/11383/
 Guardian-Vexor                                      | https://zkillboard.com/ship/11011/
+Guristas Rookie                                     | https://zkillboard.com/ship/30380/
 Immovable Enigma                                    | https://zkillboard.com/ship/17360/
+Insurance Teaching Drone                            | https://zkillboard.com/ship/3548/
 Khanid Surveillance General Major                   | https://zkillboard.com/ship/11518/
 Khanid Surveillance Officer                         | https://zkillboard.com/ship/9987/
 Khanid Surveillance Sergeant                        | https://zkillboard.com/ship/9988/
@@ -778,6 +788,7 @@ Medusa                                              | https://zkillboard.com/shi
 Megathron Federate Issue                            | https://zkillboard.com/ship/13202/
 Megathron Inner Zone Shipping Edition               | https://zkillboard.com/ship/34239/
 Megathron Police Edition                            | https://zkillboard.com/ship/34237/
+Mercenary Trainee                                   | https://zkillboard.com/ship/2052/
 Minmatar Media Shuttle                              | https://zkillboard.com/ship/29334/
 Minmatar Peacekeeper Ship                           | https://zkillboard.com/ship/600/
 Minmatar Security High Captain                      | https://zkillboard.com/ship/11520/
@@ -785,6 +796,8 @@ Minmatar Security Officer 1st Rank                  | https://zkillboard.com/shi
 Minmatar Security Officer 2nd Rank                  | https://zkillboard.com/ship/9977/
 Minmatar Security Officer 3rd Rank                  | https://zkillboard.com/ship/9989/
 Mordus Frigate                                      | https://zkillboard.com/ship/17707/
+Narco Pusher                                        | https://zkillboard.com/ship/34589/
+Narco Pusher                                        | https://zkillboard.com/ship/43924/
 Opux Luxury Yacht                                   | https://zkillboard.com/ship/635/
 Petty Thief                                         | https://zkillboard.com/ship/27801/
 Polaris Centurion Frigate                           | https://zkillboard.com/ship/9862/
@@ -796,8 +809,11 @@ Raven Guristas Edition                              | https://zkillboard.com/shi
 Raven Kaalakiota Edition                            | https://zkillboard.com/ship/34227/
 Raven Nugoeihuvi Edition                            | https://zkillboard.com/ship/34229/
 Raven State Issue                                   | https://zkillboard.com/ship/26840/
+Rebel Leader                                        | https://zkillboard.com/ship/2010/
 Roden Police Major                                  | https://zkillboard.com/ship/32380/
 Roden Police Sergeant                               | https://zkillboard.com/ship/32381/
+Rogue Drone                                         | https://zkillboard.com/ship/13323/
+Runner Drone                                        | https://zkillboard.com/ship/30366/
 Sansha's Fugitive                                   | https://zkillboard.com/ship/12248/
 Sarum Surveillance General Major                    | https://zkillboard.com/ship/11516/
 Sarum Surveillance Officer                          | https://zkillboard.com/ship/10102/
@@ -808,6 +824,7 @@ Serenity Only Chinese Spring Festival Event NPC Lv2 | https://zkillboard.com/shi
 Serenity Only Chinese Spring Festival Event NPC Lv3 | https://zkillboard.com/ship/57398/
 Serenity Only Chinese Spring Festival Event NPC Lv4 | https://zkillboard.com/ship/57399/
 Serpentis Fugitive                                  | https://zkillboard.com/ship/12249/
+Serpentis Rookie                                    | https://zkillboard.com/ship/30381/
 SOCT 1                                              | https://zkillboard.com/ship/3751/
 SOCT 2                                              | https://zkillboard.com/ship/3753/
 Stratios Emergency Responder                        | https://zkillboard.com/ship/33553/
@@ -816,13 +833,16 @@ Tempest Justice Edition                             | https://zkillboard.com/shi
 Tempest Krusual Edition                             | https://zkillboard.com/ship/34249/
 Tempest Nefantar Edition                            | https://zkillboard.com/ship/34251/
 Tempest Tribal Issue                                | https://zkillboard.com/ship/26842/
+Test LCO Drone                                      | https://zkillboard.com/ship/3457/
 Test Site Maller                                    | https://zkillboard.com/ship/52267/
 Tournament Bubble                                   | https://zkillboard.com/ship/26849/
 Tournament Micro Jump Unit                          | https://zkillboard.com/ship/33990/
 Tournament Practice Unit                            | https://zkillboard.com/ship/36523/
+Training Drone                                      | https://zkillboard.com/ship/10649/
 Trauma Treatment Facility                           | https://zkillboard.com/ship/28318/
 Upwell Palatine Keepstar                            | https://zkillboard.com/ship/40340/
 Vitoc Injection Center                              | https://zkillboard.com/ship/28319/
+Webber Drone                                        | https://zkillboard.com/ship/30365/
 末日沙场级YC117年特别版                                | https://zkillboard.com/ship/34457/
 地狱天使级YC117年特别版                                | https://zkillboard.com/ship/34459/
 马克瑞级YC117年特别版                                  | https://zkillboard.com/ship/34461/
