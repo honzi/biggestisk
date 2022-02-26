@@ -78,8 +78,8 @@ Rank | Destroyed                                      | ISK Value              |
   69 | Rapier                                         | `  114,917,465,307.11` | https://zkillboard.com/kill/8716764/
   70 | X-Large Ship Maintenance Array                 | `  113,041,707,120.58` | https://zkillboard.com/kill/54775306/
   71 | Gallente Shuttle                               | `  111,677,592,644.02` | https://zkillboard.com/kill/20497551/
-  92 | Prowler                                        | `  110,935,207,986.25` | https://zkillboard.com/kill/99087247/
-  73 | Occator                                        | `  109,604,325,074.71` | https://zkillboard.com/kill/42202837/
+  72 | Occator                                        | `  109,604,325,074.71` | https://zkillboard.com/kill/42202837/
+  73 | Prowler                                        | `  109,182,243,656.03` | https://zkillboard.com/kill/99087247/
   74 | Crow                                           | `  107,640,919,249.64` | https://zkillboard.com/kill/771885/
   75 | Slasher                                        | `  107,540,231,249.38` | https://zkillboard.com/kill/69997390/
   76 | Crusader                                       | `  107,205,644,126.00` | https://zkillboard.com/kill/5273799/
