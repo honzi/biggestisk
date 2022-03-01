@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `701` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `143` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
+* `149` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|--------------------------------------
@@ -754,14 +754,20 @@ CloneJacker Punk                                    | https://zkillboard.com/shi
 Concord Army Battleship                             | https://zkillboard.com/ship/1918/
 Concord Army Frigate                                | https://zkillboard.com/ship/1900/
 Concord Police Battleship                           | https://zkillboard.com/ship/1912/
+CONCORD Police Captain                              | https://zkillboard.com/ship/3885/
+CONCORD Police Commander                            | https://zkillboard.com/ship/11125/
 Concord Police Cruiser                              | https://zkillboard.com/ship/1904/
 Concord Police Frigate                              | https://zkillboard.com/ship/1896/
+CONCORD Police Officer                              | https://zkillboard.com/ship/3863/
 CONCORD SWAT Captain                                | https://zkillboard.com/ship/10036/
 CONCORD SWAT Commander                              | https://zkillboard.com/ship/11126/
 Concord SWAT Frigate                                | https://zkillboard.com/ship/1898/
 CONCORD SWAT Officer                                | https://zkillboard.com/ship/10035/
 Dagger                                              | https://zkillboard.com/ship/12036/
 Damaged Vessel                                      | https://zkillboard.com/ship/32471/
+DED Special Operation Captain                       | https://zkillboard.com/ship/10038/
+DED Special Operation Commander                     | https://zkillboard.com/ship/11128/
+DED Special Operation Officer                       | https://zkillboard.com/ship/10037/
 Devourer                                            | https://zkillboard.com/ship/613/
 Dog_PLACEHOLDER                                     | https://zkillboard.com/ship/45673/
 Easy_PLACEHOLDER                                    | https://zkillboard.com/ship/45675/
