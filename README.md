@@ -231,15 +231,15 @@ Rank | Destroyed                                      | ISK Value              |
  222 | Republic Fleet Firetail                        | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
  223 | Scorpion Ishukone Watch                        | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
  224 | Redeemer                                       | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
- 225 | Dragoon                                        | `   10,697,150,865.65` | https://zkillboard.com/kill/54665312/
- 226 | Vulture                                        | `   10,618,485,343.55` | https://zkillboard.com/kill/7775089/
- 227 | Maelstrom                                      | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
- 228 | Capsule - Genolution 'Auroral' 197-variant     | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
- 229 | Heron                                          | `   10,284,650,171.08` | https://zkillboard.com/kill/15450022/
- 230 | Astero                                         | `   10,180,045,085.21` | https://zkillboard.com/kill/88657634/
- 231 | Sunesis                                        | `    9,961,493,287.53` | https://zkillboard.com/kill/79637179/
- 232 | Stratios                                       | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
- 233 | Proteus                                        | `    9,671,133,342.84` | https://zkillboard.com/kill/93834671/
+ 225 | Proteus                                        | `   10,889,644,253.61` | https://zkillboard.com/kill/99277691/
+ 226 | Dragoon                                        | `   10,697,150,865.65` | https://zkillboard.com/kill/54665312/
+ 227 | Vulture                                        | `   10,618,485,343.55` | https://zkillboard.com/kill/7775089/
+ 228 | Maelstrom                                      | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
+ 229 | Capsule - Genolution 'Auroral' 197-variant     | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
+ 230 | Heron                                          | `   10,284,650,171.08` | https://zkillboard.com/kill/15450022/
+ 231 | Astero                                         | `   10,180,045,085.21` | https://zkillboard.com/kill/88657634/
+ 232 | Sunesis                                        | `    9,961,493,287.53` | https://zkillboard.com/kill/79637179/
+ 233 | Stratios                                       | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
  234 | Prophecy                                       | `    9,617,506,469.03` | https://zkillboard.com/kill/5379039/
  235 | Phantasm                                       | `    9,470,597,185.63` | https://zkillboard.com/kill/30032977/
  236 | Minokawa                                       | `    9,120,143,072.09` | https://zkillboard.com/kill/61616688/
