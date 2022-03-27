@@ -35,7 +35,7 @@ Rank | Destroyed                                      | ISK Value              |
   26 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
   27 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   28 | Vendetta                                       | `  235,127,102,772.82` | https://zkillboard.com/kill/96232149/
-  29 | Laelaps                                        | `  231,799,240,031.87` | https://zkillboard.com/kill/99495598/
+  29 | Laelaps                                        | `  232,508,085,672.93` | https://zkillboard.com/kill/99750627/
   30 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
   31 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
   32 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
