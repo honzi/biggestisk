@@ -42,8 +42,8 @@ Rank | Destroyed                                      | ISK Value              |
   33 | Probe                                          | `  214,988,177,725.28` | https://zkillboard.com/kill/79632461/
   34 | Chremoas                                       | `  208,435,078,755.25` | https://zkillboard.com/kill/73676084/
   35 | Ares                                           | `  207,418,999,809.01` | https://zkillboard.com/kill/15449831/
-  36 | Victorieux Luxury Yacht                        | `  204,732,318,545.73` | https://zkillboard.com/kill/55270851/
-  37 | Rabisu                                         | `  200,029,102,315.20` | https://zkillboard.com/kill/64049309/
+  36 | Rabisu                                         | `  204,921,206,023.51` | https://zkillboard.com/kill/99886166/
+  37 | Victorieux Luxury Yacht                        | `  204,732,318,545.73` | https://zkillboard.com/kill/55270851/
   38 | Leviathan                                      | `  197,501,591,662.00` | https://zkillboard.com/kill/61574649/
   39 | Anathema                                       | `  192,559,341,172.16` | https://zkillboard.com/kill/18112969/
   40 | Mammoth                                        | `  189,151,081,722.03` | https://zkillboard.com/kill/17304620/
