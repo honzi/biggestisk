@@ -35,7 +35,7 @@ Rank | Destroyed                                      | ISK Value              |
   26 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
   27 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   28 | Vendetta                                       | `  235,127,102,772.82` | https://zkillboard.com/kill/96232149/
-  29 | Laelaps                                        | `  232,508,085,672.93` | https://zkillboard.com/kill/99750627/
+  29 | Laelaps                                        | `  232,930,939,594.75` | https://zkillboard.com/kill/100811439/
   30 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
   31 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
   32 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
@@ -181,24 +181,24 @@ Rank | Destroyed                                      | ISK Value              |
  172 | Drake                                          | `   29,204,162,291.13` | https://zkillboard.com/kill/4190355/
  173 | Succubus                                       | `   28,610,554,490.10` | https://zkillboard.com/kill/10102256/
  174 | Revelation                                     | `   27,956,324,709.12` | https://zkillboard.com/kill/74969682/
- 175 | Nestor                                         | `   27,274,137,541.65` | https://zkillboard.com/kill/92281357/
- 176 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
- 177 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
- 178 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
- 179 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
- 180 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
- 181 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
- 182 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
- 183 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
- 184 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
- 185 | Apocalypse Navy Issue                          | `   22,270,037,419.26` | https://zkillboard.com/kill/37898496/
- 186 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
- 187 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
- 188 | Gila                                           | `   20,652,054,814.83` | https://zkillboard.com/kill/92774298/
- 189 | Chimera                                        | `   20,455,662,383.04` | https://zkillboard.com/kill/28037701/
- 190 | Tengu                                          | `   20,020,598,172.74` | https://zkillboard.com/kill/85711924/
- 191 | Apostle                                        | `   19,976,202,600.39` | https://zkillboard.com/kill/78109790/
- 192 | Loggerhead                                     | `   19,547,309,173.24` | https://zkillboard.com/kill/78727503/
+ 175 | Loggerhead                                     | `   27,280,125,129.16` | https://zkillboard.com/kill/100828392/
+ 176 | Nestor                                         | `   27,274,137,541.65` | https://zkillboard.com/kill/92281357/
+ 177 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
+ 178 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
+ 179 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
+ 180 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
+ 181 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
+ 182 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
+ 183 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
+ 184 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
+ 185 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
+ 186 | Apocalypse Navy Issue                          | `   22,270,037,419.26` | https://zkillboard.com/kill/37898496/
+ 187 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
+ 188 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
+ 189 | Gila                                           | `   20,652,054,814.83` | https://zkillboard.com/kill/92774298/
+ 190 | Chimera                                        | `   20,455,662,383.04` | https://zkillboard.com/kill/28037701/
+ 191 | Tengu                                          | `   20,020,598,172.74` | https://zkillboard.com/kill/85711924/
+ 192 | Apostle                                        | `   19,976,202,600.39` | https://zkillboard.com/kill/78109790/
  193 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
  194 | Nidhoggur                                      | `   19,373,086,375.84` | https://zkillboard.com/kill/40070585/
  195 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
