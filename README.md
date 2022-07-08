@@ -36,7 +36,7 @@ Rank | Destroyed                                      | ISK Value              |
   27 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   28 | Vendetta                                       | `  235,127,102,772.82` | https://zkillboard.com/kill/96232149/
   29 | Laelaps                                        | `  233,531,930,304.41` | https://zkillboard.com/kill/101370538/
-  30 | Impairor                                       | `  220,398,218,137.47` | https://zkillboard.com/kill/101925496/
+  30 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
   31 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
   32 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
   33 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
