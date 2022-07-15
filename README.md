@@ -1,9 +1,9 @@
 Biggest ISK
 -----------
 
-* A list of the most expensive kills of `705` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
+* A list of the most expensive kills of `709` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `148` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
+* `153` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|---------------------------------------
@@ -710,8 +710,12 @@ Rank | Destroyed                                      | ISK Value              |
  701 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
  702 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
  703 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
- 704 | Highsec Authorized Mobile Cynosural Beacon     | `                0.01` | https://zkillboard.com/kill/92452933/
- 705 | Polaris Inspector Frigate                      | `                0.01` | https://zkillboard.com/kill/93240958/
+ 704 | ♦ Caiman                                       | `                0.01` | https://zkillboard.com/kill/66564117/
+ 705 | ♦ Chemosh                                      | `                0.01` | https://zkillboard.com/kill/67989554/
+ 706 | ♦ Chemosh                                      | `                0.01` | https://zkillboard.com/kill/68682402/
+ 707 | ♦ Caiman                                       | `                0.01` | https://zkillboard.com/kill/72433658/
+ 708 | Highsec Authorized Mobile Cynosural Beacon     | `                0.01` | https://zkillboard.com/kill/92452933/
+ 709 | Polaris Inspector Frigate                      | `                0.01` | https://zkillboard.com/kill/93240958/
 
 ### Unkilled Entities
 
@@ -769,6 +773,7 @@ Concord SWAT Frigate                                | https://zkillboard.com/shi
 CONCORD SWAT Officer                                | https://zkillboard.com/ship/10035/
 Dagger                                              | https://zkillboard.com/ship/12036/
 Damaged Vessel                                      | https://zkillboard.com/ship/32471/
+Darkwight Rakshasa                                  | https://zkillboard.com/ship/61292/
 DED Special Operation Captain                       | https://zkillboard.com/ship/10038/
 DED Special Operation Commander                     | https://zkillboard.com/ship/11128/
 DED Special Operation Officer                       | https://zkillboard.com/ship/10037/
@@ -777,6 +782,7 @@ Dog_PLACEHOLDER                                     | https://zkillboard.com/shi
 Easy_PLACEHOLDER                                    | https://zkillboard.com/ship/45675/
 Enhanced Training Drone                             | https://zkillboard.com/ship/16693/
 Erinye                                              | https://zkillboard.com/ship/11375/
+♦ Forgemaster Caiman                                | https://zkillboard.com/ship/63154/
 Fury                                                | https://zkillboard.com/ship/614/
 Gallente Police Captain                             | https://zkillboard.com/ship/9984/
 Gallente Police Major                               | https://zkillboard.com/ship/11519/
@@ -805,9 +811,11 @@ Minmatar Security High Captain                      | https://zkillboard.com/shi
 Minmatar Security Officer 1st Rank                  | https://zkillboard.com/ship/9978/
 Minmatar Security Officer 2nd Rank                  | https://zkillboard.com/ship/9977/
 Minmatar Security Officer 3rd Rank                  | https://zkillboard.com/ship/9989/
+Moonwight Rakshasa                                  | https://zkillboard.com/ship/60943/
 Mordus Frigate                                      | https://zkillboard.com/ship/17707/
 Narco Pusher                                        | https://zkillboard.com/ship/34589/
 Narco Pusher                                        | https://zkillboard.com/ship/43924/
+♦ Officer Chemosh                                   | https://zkillboard.com/ship/64346/
 Opux Luxury Yacht                                   | https://zkillboard.com/ship/635/
 Petty Thief                                         | https://zkillboard.com/ship/27801/
 Polaris Centurion Frigate                           | https://zkillboard.com/ship/9862/
@@ -836,6 +844,7 @@ Serpentis Fugitive                                  | https://zkillboard.com/shi
 Serpentis Rookie                                    | https://zkillboard.com/ship/30381/
 SOCT 1                                              | https://zkillboard.com/ship/3751/
 SOCT 2                                              | https://zkillboard.com/ship/3753/
+Starwight Rakshasa                                  | https://zkillboard.com/ship/60942/
 Stratios Emergency Responder                        | https://zkillboard.com/ship/33553/
 Swordspine                                          | https://zkillboard.com/ship/619/
 Tempest Justice Edition                             | https://zkillboard.com/ship/34247/
