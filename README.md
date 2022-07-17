@@ -438,15 +438,15 @@ Rank | Destroyed                                      | ISK Value              |
  429 | Shadow Control Tower Medium                    | `      835,950,949.50` | https://zkillboard.com/kill/42193283/
  430 | Police Pursuit Comet                           | `      824,113,430.17` | https://zkillboard.com/kill/45074279/
  431 | True Sansha Control Tower Small                | `      800,000,000.50` | https://zkillboard.com/kill/4058610/
- 432 | Mammoth Nefantar Edition                       | `      777,119,451.61` | https://zkillboard.com/kill/40697423/
- 433 | Domination Control Tower Small                 | `      769,999,499.50` | https://zkillboard.com/kill/2479655/
- 434 | Dark Blood Control Tower Small                 | `      758,899,999.99` | https://zkillboard.com/kill/2501536/
- 435 | Angel Control Tower Medium                     | `      749,400,000.00` | https://zkillboard.com/kill/4193118/
- 436 | Thrasher Thukker Tribe Edition                 | `      741,187,143.58` | https://zkillboard.com/kill/45771231/
- 437 | Shadow Control Tower Small                     | `      698,000,049.50` | https://zkillboard.com/kill/2031960/
- 438 | InterBus Catalyst                              | `      695,264,105.73` | https://zkillboard.com/kill/30168373/
- 439 | Tornado                                        | `      694,587,844.30` | https://zkillboard.com/kill/28259637/
- 440 | Shadow                                         | `      663,151,969.92` | https://zkillboard.com/kill/69953902/
+ 432 | Shadow                                         | `      786,312,991.61` | https://zkillboard.com/kill/101779588/
+ 433 | Mammoth Nefantar Edition                       | `      777,119,451.61` | https://zkillboard.com/kill/40697423/
+ 434 | Domination Control Tower Small                 | `      769,999,499.50` | https://zkillboard.com/kill/2479655/
+ 435 | Dark Blood Control Tower Small                 | `      758,899,999.99` | https://zkillboard.com/kill/2501536/
+ 436 | Angel Control Tower Medium                     | `      749,400,000.00` | https://zkillboard.com/kill/4193118/
+ 437 | Thrasher Thukker Tribe Edition                 | `      741,187,143.58` | https://zkillboard.com/kill/45771231/
+ 438 | Shadow Control Tower Small                     | `      698,000,049.50` | https://zkillboard.com/kill/2031960/
+ 439 | InterBus Catalyst                              | `      695,264,105.73` | https://zkillboard.com/kill/30168373/
+ 440 | Tornado                                        | `      694,587,844.30` | https://zkillboard.com/kill/28259637/
  441 | Ferox Guristas Edition                         | `      660,971,414.92` | https://zkillboard.com/kill/44537106/
  442 | Talwar                                         | `      645,822,989.14` | https://zkillboard.com/kill/38179874/
  443 | Scalpel                                        | `      638,295,835.57` | https://zkillboard.com/kill/73671147/
