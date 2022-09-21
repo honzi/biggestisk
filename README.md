@@ -710,10 +710,10 @@ Rank | Destroyed                                      | ISK Value              |
  701 | Gallente Media Shuttle                         | `           12,605.04` | https://zkillboard.com/kill/2860172/
  702 | Amarr Media Shuttle                            | `           11,654.66` | https://zkillboard.com/kill/9620742/
  703 | InterBus Customs Office                        | `                0.01` | https://zkillboard.com/kill/21102950/
- 704 | ♦ Caiman                                       | `                0.01` | https://zkillboard.com/kill/66564117/
- 705 | ♦ Chemosh                                      | `                0.01` | https://zkillboard.com/kill/67989554/
- 706 | ♦ Chemosh                                      | `                0.01` | https://zkillboard.com/kill/68682402/
- 707 | ♦ Caiman                                       | `                0.01` | https://zkillboard.com/kill/72433658/
+ 704 | ◆ Caiman                                       | `                0.01` | https://zkillboard.com/kill/66564117/
+ 705 | ◆ Chemosh                                      | `                0.01` | https://zkillboard.com/kill/67989554/
+ 706 | ◆ Chemosh                                      | `                0.01` | https://zkillboard.com/kill/68682402/
+ 707 | ◆ Caiman                                       | `                0.01` | https://zkillboard.com/kill/72433658/
  708 | Highsec Authorized Mobile Cynosural Beacon     | `                0.01` | https://zkillboard.com/kill/92452933/
  709 | Polaris Inspector Frigate                      | `                0.01` | https://zkillboard.com/kill/93240958/
 
