@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `709` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `153` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
+* `161` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|---------------------------------------
@@ -771,6 +771,7 @@ CONCORD SWAT Captain                                | https://zkillboard.com/shi
 CONCORD SWAT Commander                              | https://zkillboard.com/ship/11126/
 Concord SWAT Frigate                                | https://zkillboard.com/ship/1898/
 CONCORD SWAT Officer                                | https://zkillboard.com/ship/10035/
+Cyclone Fleet Issue                                 |
 Dagger                                              | https://zkillboard.com/ship/12036/
 Damaged Vessel                                      | https://zkillboard.com/ship/32471/
 Darkwight Rakshasa                                  | https://zkillboard.com/ship/61292/
@@ -782,6 +783,7 @@ Dog_PLACEHOLDER                                     | https://zkillboard.com/shi
 Easy_PLACEHOLDER                                    | https://zkillboard.com/ship/45675/
 Enhanced Training Drone                             | https://zkillboard.com/ship/16693/
 Erinye                                              | https://zkillboard.com/ship/11375/
+Ferox Navy Issue                                    |
 ♦ Forgemaster Caiman                                | https://zkillboard.com/ship/63154/
 Fury                                                | https://zkillboard.com/ship/614/
 Gallente Police Captain                             | https://zkillboard.com/ship/9984/
@@ -792,6 +794,8 @@ Gallente Police Ship                                | https://zkillboard.com/shi
 Gatherer                                            | https://zkillboard.com/ship/11383/
 Guardian-Vexor                                      | https://zkillboard.com/ship/11011/
 Guristas Rookie                                     | https://zkillboard.com/ship/30380/
+Heron Navy Issue                                    |
+Imicus Navy Issue                                   |
 Immovable Enigma                                    | https://zkillboard.com/ship/17360/
 Insurance Teaching Drone                            | https://zkillboard.com/ship/3548/
 Khanid Surveillance General Major                   | https://zkillboard.com/ship/11518/
@@ -800,6 +804,7 @@ Khanid Surveillance Sergeant                        | https://zkillboard.com/shi
 Khanid Surveillance Sergeant Major                  | https://zkillboard.com/ship/10674/
 Kishar                                              | https://zkillboard.com/ship/11389/
 Lynx                                                | https://zkillboard.com/ship/618/
+Magnate Navy Issue                                  |
 Medusa                                              | https://zkillboard.com/ship/616/
 Megathron Federate Issue                            | https://zkillboard.com/ship/13202/
 Megathron Inner Zone Shipping Edition               | https://zkillboard.com/ship/34239/
@@ -813,6 +818,7 @@ Minmatar Security Officer 2nd Rank                  | https://zkillboard.com/shi
 Minmatar Security Officer 3rd Rank                  | https://zkillboard.com/ship/9989/
 Moonwight Rakshasa                                  | https://zkillboard.com/ship/60943/
 Mordus Frigate                                      | https://zkillboard.com/ship/17707/
+Myrmidon Navy Issue                                 |
 Narco Pusher                                        | https://zkillboard.com/ship/34589/
 Narco Pusher                                        | https://zkillboard.com/ship/43924/
 ♦ Officer Chemosh                                   | https://zkillboard.com/ship/64346/
@@ -822,6 +828,8 @@ Polaris Centurion Frigate                           | https://zkillboard.com/shi
 Polaris Centurion TEST                              | https://zkillboard.com/ship/9858/
 Polaris Enigma Frigate                              | https://zkillboard.com/ship/1233/
 Polaris Legatus Frigate                             | https://zkillboard.com/ship/9860/
+Probe Fleet Issue                                   |
+Prophecy Navy Issue                                 |
 Raven Guristas Edition                              | https://zkillboard.com/ship/34225/
 Raven Kaalakiota Edition                            | https://zkillboard.com/ship/34227/
 Raven Nugoeihuvi Edition                            | https://zkillboard.com/ship/34229/
