@@ -159,7 +159,7 @@ Rank | Destroyed                                      | ISK Value              |
  150 | Golem                                          | `   38,922,585,541.21` | https://zkillboard.com/kill/67403634/
  151 | Hound                                          | `   38,836,969,616.31` | https://zkillboard.com/kill/15797420/
  152 | Kryos                                          | `   38,546,337,141.24` | https://zkillboard.com/kill/15902412/
- 153 | Hecate                                         | `   36,670,557,706.22` | https://zkillboard.com/kill/63816133/
+ 153 | Hecate                                         | `   36,896,537,381.03` | https://zkillboard.com/kill/103740195/
  154 | Vindicator                                     | `   36,462,608,016.52` | https://zkillboard.com/kill/21035657/
  155 | Vigil                                          | `   36,451,224,807.05` | https://zkillboard.com/kill/14086532/
  156 | Hoarder                                        | `   36,291,763,451.01` | https://zkillboard.com/kill/14038048/
