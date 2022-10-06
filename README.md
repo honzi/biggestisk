@@ -822,7 +822,7 @@ Mordus Frigate                                      | https://zkillboard.com/shi
 Myrmidon Navy Issue                                 | https://zkillboard.com/ship/72869/
 Narco Pusher                                        | https://zkillboard.com/ship/34589/
 Narco Pusher                                        | https://zkillboard.com/ship/43924/
-♦ Officer Chemosh                                   | https://zkillboard.com/ship/64346/
+◆ Officer Chemosh                                   | https://zkillboard.com/ship/64346/
 Opux Luxury Yacht                                   | https://zkillboard.com/ship/635/
 Petty Thief                                         | https://zkillboard.com/ship/27801/
 Polaris Centurion Frigate                           | https://zkillboard.com/ship/9862/
