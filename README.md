@@ -449,22 +449,22 @@ Rank | Destroyed                                      | ISK Value              |
  440 | Dark Blood Control Tower Small                 | `      758,899,999.99` | https://zkillboard.com/kill/2501536/
  441 | Angel Control Tower Medium                     | `      749,400,000.00` | https://zkillboard.com/kill/4193118/
  442 | Thrasher Thukker Tribe Edition                 | `      741,187,143.58` | https://zkillboard.com/kill/45771231/
- 443 | Shadow Control Tower Small                     | `      698,000,049.50` | https://zkillboard.com/kill/2031960/
- 444 | InterBus Catalyst                              | `      695,264,105.73` | https://zkillboard.com/kill/30168373/
- 445 | Tornado                                        | `      694,587,844.30` | https://zkillboard.com/kill/28259637/
- 446 | Ferox Guristas Edition                         | `      660,971,414.92` | https://zkillboard.com/kill/44537106/
- 447 | Talwar                                         | `      645,822,989.14` | https://zkillboard.com/kill/38179874/
- 448 | Scalpel                                        | `      638,295,835.57` | https://zkillboard.com/kill/73671147/
- 449 | Compression Array                              | `      636,192,719.53` | https://zkillboard.com/kill/93101968/
- 450 | Stabber Krusual Edition                        | `      621,558,143.90` | https://zkillboard.com/kill/43982525/
- 451 | Keres                                          | `      610,686,986.16` | https://zkillboard.com/kill/78790414/
- 452 | Coercer                                        | `      604,977,782.73` | https://zkillboard.com/kill/29640592/
- 453 | True Sansha Control Tower Medium               | `      601,999,999.98` | https://zkillboard.com/kill/186476/
- 454 | Shadow Large Blaster Battery                   | `      563,999,999.40` | https://zkillboard.com/kill/9539837/
- 455 | Merlin Nugoeihuvi Edition                      | `      549,166,299.50` | https://zkillboard.com/kill/44578024/
- 456 | Infrastructure Hub                             | `      546,020,541.78` | https://zkillboard.com/kill/46994458/
- 457 | Thalia                                         | `      540,559,747.98` | https://zkillboard.com/kill/73837905/
- 458 | Imicus Navy Issue                              | `      526,655,446.10` | https://zkillboard.com/kill/103753025/
+ 443 | Imicus Navy Issue                              | `      715,578,257.24` | https://zkillboard.com/kill/103887151/
+ 444 | Shadow Control Tower Small                     | `      698,000,049.50` | https://zkillboard.com/kill/2031960/
+ 445 | InterBus Catalyst                              | `      695,264,105.73` | https://zkillboard.com/kill/30168373/
+ 446 | Tornado                                        | `      694,587,844.30` | https://zkillboard.com/kill/28259637/
+ 447 | Ferox Guristas Edition                         | `      660,971,414.92` | https://zkillboard.com/kill/44537106/
+ 448 | Talwar                                         | `      645,822,989.14` | https://zkillboard.com/kill/38179874/
+ 449 | Scalpel                                        | `      638,295,835.57` | https://zkillboard.com/kill/73671147/
+ 450 | Compression Array                              | `      636,192,719.53` | https://zkillboard.com/kill/93101968/
+ 451 | Stabber Krusual Edition                        | `      621,558,143.90` | https://zkillboard.com/kill/43982525/
+ 452 | Keres                                          | `      610,686,986.16` | https://zkillboard.com/kill/78790414/
+ 453 | Coercer                                        | `      604,977,782.73` | https://zkillboard.com/kill/29640592/
+ 454 | True Sansha Control Tower Medium               | `      601,999,999.98` | https://zkillboard.com/kill/186476/
+ 455 | Shadow Large Blaster Battery                   | `      563,999,999.40` | https://zkillboard.com/kill/9539837/
+ 456 | Merlin Nugoeihuvi Edition                      | `      549,166,299.50` | https://zkillboard.com/kill/44578024/
+ 457 | Infrastructure Hub                             | `      546,020,541.78` | https://zkillboard.com/kill/46994458/
+ 458 | Thalia                                         | `      540,559,747.98` | https://zkillboard.com/kill/73837905/
  459 | Probe Fleet Issue                              | `      521,687,240.43` | https://zkillboard.com/kill/103727786/
  460 | Serpentis Control Tower Small                  | `      498,999,999.50` | https://zkillboard.com/kill/293923/
  461 | Guristas Forward Operating Base                | `      492,008,318.01` | https://zkillboard.com/kill/90224131/
