@@ -789,7 +789,7 @@ Dog_PLACEHOLDER                                     | https://zkillboard.com/shi
 Easy_PLACEHOLDER                                    | https://zkillboard.com/ship/45675/
 Enhanced Training Drone                             | https://zkillboard.com/ship/16693/
 Erinye                                              | https://zkillboard.com/ship/11375/
-♦ Forgemaster Caiman                                | https://zkillboard.com/ship/63154/
+◆ Forgemaster Caiman                                | https://zkillboard.com/ship/63154/
 Fury                                                | https://zkillboard.com/ship/614/
 Gallente Police Captain                             | https://zkillboard.com/ship/9984/
 Gallente Police Major                               | https://zkillboard.com/ship/11519/
