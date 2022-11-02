@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `715` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `155` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
+* `163` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|---------------------------------------
@@ -763,8 +763,10 @@ Caldari Police 2nd Lieutenant                       | https://zkillboard.com/shi
 Caldari Police 3rd Lieutenant                       | https://zkillboard.com/ship/9970/
 Caldari Police Commissioner                         | https://zkillboard.com/ship/11521/
 Caldari Police Vice Commissioner                    | https://zkillboard.com/ship/9965/
+Catalyst Navy Issue                                 |
 Clonejacker Punk                                    | https://zkillboard.com/ship/34579/
 CloneJacker Punk                                    | https://zkillboard.com/ship/43922/
+Coercer Navy Issue                                  |
 Concord Army Battleship                             | https://zkillboard.com/ship/1918/
 Concord Army Frigate                                | https://zkillboard.com/ship/1900/
 Concord Police Battleship                           | https://zkillboard.com/ship/1912/
@@ -777,6 +779,7 @@ CONCORD SWAT Captain                                | https://zkillboard.com/shi
 CONCORD SWAT Commander                              | https://zkillboard.com/ship/11126/
 Concord SWAT Frigate                                | https://zkillboard.com/ship/1898/
 CONCORD SWAT Officer                                | https://zkillboard.com/ship/10035/
+Cormorant Navy Issue                                |
 Cyclone Fleet Issue                                 | https://zkillboard.com/ship/72811/
 Dagger                                              | https://zkillboard.com/ship/12036/
 Damaged Vessel                                      | https://zkillboard.com/ship/32471/
@@ -820,11 +823,14 @@ Minmatar Security Officer 2nd Rank                  | https://zkillboard.com/shi
 Minmatar Security Officer 3rd Rank                  | https://zkillboard.com/ship/9989/
 Moonwight Rakshasa                                  | https://zkillboard.com/ship/60943/
 Mordus Frigate                                      | https://zkillboard.com/ship/17707/
+Moros Navy Issue                                    |
+Naglfar Fleet Issue                                 |
 Narco Pusher                                        | https://zkillboard.com/ship/34589/
 Narco Pusher                                        | https://zkillboard.com/ship/43924/
 ◆ Officer Chemosh                                   | https://zkillboard.com/ship/64346/
 Opux Luxury Yacht                                   | https://zkillboard.com/ship/635/
 Petty Thief                                         | https://zkillboard.com/ship/27801/
+Phoenix Navy Issue                                  |
 Polaris Centurion Frigate                           | https://zkillboard.com/ship/9862/
 Polaris Centurion TEST                              | https://zkillboard.com/ship/9858/
 Polaris Enigma Frigate                              | https://zkillboard.com/ship/1233/
@@ -835,6 +841,7 @@ Raven Kaalakiota Edition                            | https://zkillboard.com/shi
 Raven Nugoeihuvi Edition                            | https://zkillboard.com/ship/34229/
 Raven State Issue                                   | https://zkillboard.com/ship/26840/
 Rebel Leader                                        | https://zkillboard.com/ship/2010/
+Revelation Navy Issue                               |
 Roden Police Major                                  | https://zkillboard.com/ship/32380/
 Roden Police Sergeant                               | https://zkillboard.com/ship/32381/
 Rogue Drone                                         | https://zkillboard.com/ship/13323/
@@ -861,6 +868,7 @@ Tempest Nefantar Edition                            | https://zkillboard.com/shi
 Tempest Tribal Issue                                | https://zkillboard.com/ship/26842/
 Test LCO Drone                                      | https://zkillboard.com/ship/3457/
 Test Site Maller                                    | https://zkillboard.com/ship/52267/
+Thrasher Fleet Issue                                |
 Tournament Bubble                                   | https://zkillboard.com/ship/26849/
 Tournament Micro Jump Unit                          | https://zkillboard.com/ship/33990/
 Tournament Practice Unit                            | https://zkillboard.com/ship/36523/
