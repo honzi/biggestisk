@@ -90,8 +90,8 @@ Rank | Destroyed                                      | ISK Value              |
   81 | Raitaru                                        | `  104,258,153,090.26` | https://zkillboard.com/kill/99513651/
   82 | Vangel                                         | `  103,776,919,955.60` | https://zkillboard.com/kill/22278966/
   83 | Rifter                                         | `  103,673,545,339.81` | https://zkillboard.com/kill/16062901/
-  84 | Whiptail                                       | `  103,085,417,188.60` | https://zkillboard.com/kill/75560800/
-  85 | Silver Magnate                                 | `  102,740,300,346.28` | https://zkillboard.com/kill/66370950/
+  84 | Silver Magnate                                 | `  103,216,890,851.87` | https://zkillboard.com/kill/104468891/
+  85 | Whiptail                                       | `  103,085,417,188.60` | https://zkillboard.com/kill/75560800/
   86 | Nyx                                            | `  101,618,804,133.50` | https://zkillboard.com/kill/58707661/
   87 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
   88 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
