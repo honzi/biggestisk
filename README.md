@@ -112,24 +112,24 @@ Rank | Destroyed                                      | ISK Value              |
  103 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
  104 | Nomad                                          | `   82,303,714,141.83` | https://zkillboard.com/kill/81218404/
  105 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
- 106 | 'Marginis' Fortizar                            | `   81,287,575,539.72` | https://zkillboard.com/kill/94475972/
- 107 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
- 108 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
- 109 | Vindicator                                     | `   75,625,937,495.61` | https://zkillboard.com/kill/104797031/
- 110 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
- 111 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
- 112 | Hematos                                        | `   70,118,296,715.41` | https://zkillboard.com/kill/79649125/
- 113 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
- 114 | 'Moreau' Fortizar                              | `   68,786,932,221.13` | https://zkillboard.com/kill/90392403/
- 115 | Council Diplomatic Shuttle                     | `   68,291,838,137.54` | https://zkillboard.com/kill/98483330/
- 116 | Machariel                                      | `   68,079,215,967.60` | https://zkillboard.com/kill/27694789/
- 117 | Maller                                         | `   66,237,112,598.42` | https://zkillboard.com/kill/14113212/
- 118 | Atron                                          | `   66,135,944,231.41` | https://zkillboard.com/kill/61567389/
- 119 | Leshak                                         | `   64,712,061,523.89` | https://zkillboard.com/kill/71800039/
- 120 | Aeon                                           | `   64,453,411,196.63` | https://zkillboard.com/kill/12583986/
- 121 | Inquisitor                                     | `   64,240,219,593.46` | https://zkillboard.com/kill/1246575/
- 122 | Hel                                            | `   62,058,101,379.93` | https://zkillboard.com/kill/97725094/
- 123 | Barghest                                       | `   59,767,512,887.09` | https://zkillboard.com/kill/96671831/
+ 106 | Barghest                                       | `   81,417,253,408.05` | https://zkillboard.com/kill/104825422/
+ 107 | 'Marginis' Fortizar                            | `   81,287,575,539.72` | https://zkillboard.com/kill/94475972/
+ 108 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
+ 109 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
+ 110 | Vindicator                                     | `   75,625,937,495.61` | https://zkillboard.com/kill/104797031/
+ 111 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
+ 112 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
+ 113 | Hematos                                        | `   70,118,296,715.41` | https://zkillboard.com/kill/79649125/
+ 114 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
+ 115 | 'Moreau' Fortizar                              | `   68,786,932,221.13` | https://zkillboard.com/kill/90392403/
+ 116 | Council Diplomatic Shuttle                     | `   68,291,838,137.54` | https://zkillboard.com/kill/98483330/
+ 117 | Machariel                                      | `   68,079,215,967.60` | https://zkillboard.com/kill/27694789/
+ 118 | Maller                                         | `   66,237,112,598.42` | https://zkillboard.com/kill/14113212/
+ 119 | Atron                                          | `   66,135,944,231.41` | https://zkillboard.com/kill/61567389/
+ 120 | Leshak                                         | `   64,712,061,523.89` | https://zkillboard.com/kill/71800039/
+ 121 | Aeon                                           | `   64,453,411,196.63` | https://zkillboard.com/kill/12583986/
+ 122 | Inquisitor                                     | `   64,240,219,593.46` | https://zkillboard.com/kill/1246575/
+ 123 | Hel                                            | `   62,058,101,379.93` | https://zkillboard.com/kill/97725094/
  124 | Executioner                                    | `   59,088,360,839.88` | https://zkillboard.com/kill/11070234/
  125 | Wreathe                                        | `   58,895,261,230.39` | https://zkillboard.com/kill/79740411/
  126 | Nighthawk                                      | `   58,325,347,141.03` | https://zkillboard.com/kill/5211305/
