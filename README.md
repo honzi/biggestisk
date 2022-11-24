@@ -33,9 +33,9 @@ Rank | Destroyed                                      | ISK Value              |
   24 | Victor                                         | `  242,035,231,385.59` | https://zkillboard.com/kill/94035723/
   25 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
   26 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
-  27 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
-  28 | Vendetta                                       | `  235,127,102,772.82` | https://zkillboard.com/kill/96232149/
-  29 | Laelaps                                        | `  233,531,930,304.41` | https://zkillboard.com/kill/101370538/
+  27 | Laelaps                                        | `  236,411,680,543.33` | https://zkillboard.com/kill/104890790/
+  28 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
+  29 | Vendetta                                       | `  235,127,102,772.82` | https://zkillboard.com/kill/96232149/
   30 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
   31 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
   32 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
