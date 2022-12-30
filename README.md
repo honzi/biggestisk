@@ -212,29 +212,29 @@ Rank | Destroyed                                      | ISK Value              |
  203 | Worm                                           | `   17,582,867,159.79` | https://zkillboard.com/kill/64012436/
  204 | Athanor                                        | `   17,577,933,190.27` | https://zkillboard.com/kill/87823506/
  205 | Ishkur                                         | `   17,128,960,963.95` | https://zkillboard.com/kill/14761589/
- 206 | Guristas Shuttle                               | `   16,892,359,253.06` | https://zkillboard.com/kill/17395448/
- 207 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
- 208 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
- 209 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
- 210 | Thanatos                                       | `   16,510,221,349.81` | https://zkillboard.com/kill/99163958/
- 211 | Chimera                                        | `   15,972,747,571.15` | https://zkillboard.com/kill/28037701/
- 212 | Imicus                                         | `   15,787,812,542.00` | https://zkillboard.com/kill/16897149/
- 213 | Megathron Navy Issue                           | `   15,708,037,789.06` | https://zkillboard.com/kill/41505052/
- 214 | Harbinger Navy Issue                           | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
- 215 | Moros Navy Issue                               | `   15,451,277,990.73` | https://zkillboard.com/kill/105571742/
- 216 | Phoenix Navy Issue                             | `   15,421,514,463.28` | https://zkillboard.com/kill/105173291/
- 217 | Navitas                                        | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
- 218 | Enforcer                                       | `   15,271,077,176.70` | https://zkillboard.com/kill/64824306/
- 219 | Manticore                                      | `   14,662,834,035.57` | https://zkillboard.com/kill/105118039/
- 220 | Breacher                                       | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
- 221 | Rorqual ORE Development Edition                | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
- 222 | Capsule                                        | `   14,106,237,513.46` | https://zkillboard.com/kill/42439974/
- 223 | Daredevil                                      | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
- 224 | Mobile Tractor Unit                            | `   12,905,702,279.76` | https://zkillboard.com/kill/89609628/
- 225 | Dominix Navy Issue                             | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
- 226 | 'Magpie' Mobile Tractor Unit                   | `   12,247,513,194.88` | https://zkillboard.com/kill/38603232/
- 227 | Chemosh                                        | `   12,097,312,582.31` | https://zkillboard.com/kill/79916322/
- 228 | Naglfar Fleet Issue                            | `   12,067,275,105.62` | https://zkillboard.com/kill/105358061/
+ 206 | Naglfar Fleet Issue                            | `   16,940,905,540.96` | https://zkillboard.com/kill/105666850/
+ 207 | Guristas Shuttle                               | `   16,892,359,253.06` | https://zkillboard.com/kill/17395448/
+ 208 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
+ 209 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
+ 210 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
+ 211 | Thanatos                                       | `   16,510,221,349.81` | https://zkillboard.com/kill/99163958/
+ 212 | Chimera                                        | `   15,972,747,571.15` | https://zkillboard.com/kill/28037701/
+ 213 | Imicus                                         | `   15,787,812,542.00` | https://zkillboard.com/kill/16897149/
+ 214 | Megathron Navy Issue                           | `   15,708,037,789.06` | https://zkillboard.com/kill/41505052/
+ 215 | Harbinger Navy Issue                           | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
+ 216 | Moros Navy Issue                               | `   15,451,277,990.73` | https://zkillboard.com/kill/105571742/
+ 217 | Phoenix Navy Issue                             | `   15,421,514,463.28` | https://zkillboard.com/kill/105173291/
+ 218 | Navitas                                        | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
+ 219 | Enforcer                                       | `   15,271,077,176.70` | https://zkillboard.com/kill/64824306/
+ 220 | Manticore                                      | `   14,662,834,035.57` | https://zkillboard.com/kill/105118039/
+ 221 | Breacher                                       | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
+ 222 | Rorqual ORE Development Edition                | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
+ 223 | Capsule                                        | `   14,106,237,513.46` | https://zkillboard.com/kill/42439974/
+ 224 | Daredevil                                      | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
+ 225 | Mobile Tractor Unit                            | `   12,905,702,279.76` | https://zkillboard.com/kill/89609628/
+ 226 | Dominix Navy Issue                             | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
+ 227 | 'Magpie' Mobile Tractor Unit                   | `   12,247,513,194.88` | https://zkillboard.com/kill/38603232/
+ 228 | Chemosh                                        | `   12,097,312,582.31` | https://zkillboard.com/kill/79916322/
  229 | Kitsune                                        | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
  230 | Eos                                            | `   11,793,854,120.87` | https://zkillboard.com/kill/64236772/
  231 | Thunderchild                                   | `   11,722,516,355.94` | https://zkillboard.com/kill/100829963/
