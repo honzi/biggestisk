@@ -97,9 +97,9 @@ Rank | Destroyed                                      | ISK Value              |
   88 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
   89 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
   90 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
-  91 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
-  92 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
-  93 | Marshal                                        | `   95,718,682,237.54` | https://zkillboard.com/kill/70357303/
+  91 | Marshal                                        | `   99,307,428,979.19` | https://zkillboard.com/kill/70357303/
+  92 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
+  93 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
   94 | Ark                                            | `   94,882,512,362.60` | https://zkillboard.com/kill/90474686/
   95 | Impel                                          | `   93,888,617,531.98` | https://zkillboard.com/kill/94423743/
   96 | Widow                                          | `   92,334,579,705.68` | https://zkillboard.com/kill/80681361/
