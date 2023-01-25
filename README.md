@@ -11,8 +11,8 @@ Rank | Destroyed                                      | ISK Value              |
    2 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
    3 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
    4 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
-   5 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
-   6 | Molok                                          | `  763,453,896,186.84` | https://zkillboard.com/kill/95071096/
+   5 | Molok                                          | `  796,937,177,134.58` | https://zkillboard.com/kill/106309460/
+   6 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
    7 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
    8 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
    9 | Vanquisher                                     | `  634,324,712,772.76` | https://zkillboard.com/kill/95071176/
