@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `725` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `153` entities have yet to be killed and are [listed in a separate table](#unkilled-entities).
+* `153` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|---------------------------------------
@@ -32,8 +32,8 @@ Rank | Destroyed                                      | ISK Value              |
   23 | Revenant                                       | `  265,754,038,733.83` | https://zkillboard.com/kill/96232154/
   24 | Victor                                         | `  242,035,231,385.59` | https://zkillboard.com/kill/94035723/
   25 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
-  26 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
-  27 | Laelaps                                        | `  236,411,680,543.33` | https://zkillboard.com/kill/104890790/
+  26 | Laelaps                                        | `  240,613,289,146.88` | https://zkillboard.com/kill/107617188/
+  27 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
   28 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   29 | Vendetta                                       | `  235,127,102,772.82` | https://zkillboard.com/kill/96232149/
   30 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
@@ -343,7 +343,7 @@ Rank | Destroyed                                      | ISK Value              |
  334 | Boobook                                        | `    2,907,462,630.78` | https://zkillboard.com/kill/102412032/
  335 | Cynabal                                        | `    2,863,692,533.46` | https://zkillboard.com/kill/25837022/
  336 | Maelstrom Nefantar Edition                     | `    2,859,881,102.90` | https://zkillboard.com/kill/39745502/
- 337s | Augoror Navy Issue                             | `    2,819,217,570.24` | https://zkillboard.com/kill/74137830/
+ 337 | Augoror Navy Issue                             | `    2,819,217,570.24` | https://zkillboard.com/kill/74137830/
  338 | Prophecy Navy Issue                            | `    2,776,980,912.73` | https://zkillboard.com/kill/104497411/
  339 | Retriever                                      | `    2,748,995,568.66` | https://zkillboard.com/kill/31386180/
  340 | Hyena                                          | `    2,720,095,675.32` | https://zkillboard.com/kill/2087757/
