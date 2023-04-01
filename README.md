@@ -30,7 +30,7 @@ Rank | Destroyed                                      | ISK Value              |
   21 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
   22 | Obelisk                                        | `  268,572,588,113.31` | https://zkillboard.com/kill/7154867/
   23 | Revenant                                       | `  265,754,038,733.83` | https://zkillboard.com/kill/96232154/
-  24 | Victor                                         | `  242,035,231,385.59` | https://zkillboard.com/kill/94035723/
+  24 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
   25 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
   26 | Laelaps                                        | `  240,613,289,146.88` | https://zkillboard.com/kill/107617188/
   27 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
