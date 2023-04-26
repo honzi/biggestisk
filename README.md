@@ -308,13 +308,13 @@ Rank | Destroyed                                      | ISK Value              |
  299 | Miasmos Amastris Edition                       | `    4,380,493,652.53` | https://zkillboard.com/kill/26328441/
  300 | Violator                                       | `    4,366,514,894.99` | https://zkillboard.com/kill/55229995/
  301 | Scorpion                                       | `    4,352,833,797.74` | https://zkillboard.com/kill/51068815/
- 302 | Eagle                                          | `    4,126,615,971.81` | https://zkillboard.com/kill/73907924/
- 303 | Mobile Depot                                   | `    4,082,196,355.49` | https://zkillboard.com/kill/70004545/
- 304 | Domination Control Tower                       | `    4,075,153,846.15` | https://zkillboard.com/kill/7928337/
- 305 | Cyclone Fleet Issue                            | `    4,000,340,424.85` | https://zkillboard.com/kill/104095431/
- 306 | Immolator                                      | `    3,965,047,546.00` | https://zkillboard.com/kill/106082194/
- 307 | Tenebrex Cyno Jammer                           | `    3,952,000,786.80` | https://zkillboard.com/kill/73749727/
- 308 | Curse                                          | `    3,818,942,241.70` | https://zkillboard.com/kill/76297418/
+ 302 | Curse                                          | `    4,193,457,186.94` | https://zkillboard.com/kill/108416958/
+ 303 | Eagle                                          | `    4,126,615,971.81` | https://zkillboard.com/kill/73907924/
+ 304 | Mobile Depot                                   | `    4,082,196,355.49` | https://zkillboard.com/kill/70004545/
+ 305 | Domination Control Tower                       | `    4,075,153,846.15` | https://zkillboard.com/kill/7928337/
+ 306 | Cyclone Fleet Issue                            | `    4,000,340,424.85` | https://zkillboard.com/kill/104095431/
+ 307 | Immolator                                      | `    3,965,047,546.00` | https://zkillboard.com/kill/106082194/
+ 308 | Tenebrex Cyno Jammer                           | `    3,952,000,786.80` | https://zkillboard.com/kill/73749727/
  309 | Draugur                                        | `    3,807,208,739.22` | https://zkillboard.com/kill/82767286/
  310 | Venture                                        | `    3,751,896,084.65` | https://zkillboard.com/kill/53736548/
  311 | Oneiros                                        | `    3,741,185,040.67` | https://zkillboard.com/kill/99118387/
