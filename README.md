@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `730` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `154` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
+* `155` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|-----------------------:|---------------------------------------
@@ -827,6 +827,7 @@ Megathron Federate Issue                            | https://zkillboard.com/shi
 Megathron Inner Zone Shipping Edition               | https://zkillboard.com/ship/34239/
 Megathron Police Edition                            | https://zkillboard.com/ship/34237/
 Mercenary Trainee                                   | https://zkillboard.com/ship/2052/
+Metamorphosis                                       | https://zkillboard.com/ship/77114/
 Minmatar Media Shuttle                              | https://zkillboard.com/ship/29334/
 Minmatar Peacekeeper Ship                           | https://zkillboard.com/ship/600/
 Minmatar Security High Captain                      | https://zkillboard.com/ship/11520/
