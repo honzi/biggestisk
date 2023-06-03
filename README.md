@@ -13,9 +13,9 @@ Rank | Destroyed                                      | ISK Value              |
    4 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
    5 | Molok                                          | `  796,937,177,134.58` | https://zkillboard.com/kill/106309460/
    6 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
-   7 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
-   8 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
-   9 | Vanquisher                                     | `  634,324,712,772.76` | https://zkillboard.com/kill/95071176/
+   7 | Vanquisher                                     | `  774,776,971,902.55` | https://zkillboard.com/kill/62097910/
+   8 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
+   9 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
   10 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
   11 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
   12 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
