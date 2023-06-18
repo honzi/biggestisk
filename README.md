@@ -77,7 +77,7 @@ Rank | Destroyed                                      | ISK Value              |
   68 | Loki                                           | `  124,011,278,892.90` | https://zkillboard.com/kill/82266299/
   69 | Raptor                                         | `  123,116,933,672.47` | https://zkillboard.com/kill/11471643/
   70 | Prorator                                       | `  122,755,494,961.35` | https://zkillboard.com/kill/20194132/
-  71 | Geri                                           | `  121,030,615,780.46` | https://zkillboard.com/kill/107933252/
+  71 | Geri                                           | `  122,647,708,372.04` | https://zkillboard.com/kill/109685743/
   72 | Minmatar Shuttle                               | `  120,021,374,858.28` | https://zkillboard.com/kill/17766051/
   73 | Gnosis                                         | `  117,084,282,757.19` | https://zkillboard.com/kill/79647848/
   74 | Tayra                                          | `  116,046,533,060.23` | https://zkillboard.com/kill/12548517/
