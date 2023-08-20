@@ -96,26 +96,26 @@ Rank | Destroyed                                      | ISK Value              |
   87 | Rifter                                         | `  103,673,545,339.81` | https://zkillboard.com/kill/16062901/
   88 | Silver Magnate                                 | `  103,216,890,851.87` | https://zkillboard.com/kill/104468891/
   89 | Whiptail                                       | `  103,085,417,188.60` | https://zkillboard.com/kill/75560800/
-  90 | Nyx                                            | `  101,618,804,133.50` | https://zkillboard.com/kill/58707661/
-  91 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
-  92 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
-  93 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
-  94 | Marshal                                        | `   99,307,428,979.19` | https://zkillboard.com/kill/70357303/
-  95 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
-  96 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
-  97 | Ark                                            | `   94,882,512,362.60` | https://zkillboard.com/kill/90474686/
-  98 | Impel                                          | `   93,888,617,531.98` | https://zkillboard.com/kill/94423743/
-  99 | Widow                                          | `   92,334,579,705.68` | https://zkillboard.com/kill/80681361/
- 100 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
- 101 | Caiman                                         | `   90,207,959,261.83` | https://zkillboard.com/kill/102037871/
- 102 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
- 103 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
- 104 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
- 105 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
- 106 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
- 107 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
- 108 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
- 109 | Barghest                                       | `   81,417,253,408.05` | https://zkillboard.com/kill/104825422/
+  90 | Barghest                                       | `  101,902,113,568.89` | https://zkillboard.com/kill/110976673/
+  91 | Nyx                                            | `  101,618,804,133.50` | https://zkillboard.com/kill/58707661/
+  92 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
+  93 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
+  94 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
+  95 | Marshal                                        | `   99,307,428,979.19` | https://zkillboard.com/kill/70357303/
+  96 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
+  97 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
+  98 | Ark                                            | `   94,882,512,362.60` | https://zkillboard.com/kill/90474686/
+  99 | Impel                                          | `   93,888,617,531.98` | https://zkillboard.com/kill/94423743/
+ 100 | Widow                                          | `   92,334,579,705.68` | https://zkillboard.com/kill/80681361/
+ 101 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
+ 102 | Caiman                                         | `   90,207,959,261.83` | https://zkillboard.com/kill/102037871/
+ 103 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
+ 104 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
+ 105 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
+ 106 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
+ 107 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
+ 108 | Vehement                                       | `   83,194,308,231.78` | https://zkillboard.com/kill/77855451/
+ 109 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
  110 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
  111 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
  112 | Vindicator                                     | `   75,625,937,495.61` | https://zkillboard.com/kill/104797031/
