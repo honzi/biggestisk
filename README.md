@@ -255,8 +255,8 @@ Rank | Destroyed                                      | ISK Value              |
  246 | Vulture                                        | `   10,618,485,343.55` | https://zkillboard.com/kill/7775089/
  247 | Maelstrom                                      | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
  248 | Capsule - Genolution 'Auroral' 197-variant     | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
- 249 | Stratios                                       | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
- 250 | Jackdaw                                        | `    9,667,971,924.71` | https://zkillboard.com/kill/104040995/
+ 249 | Jackdaw                                        | `   10,269,397,831.54` | https://zkillboard.com/kill/111638199/
+ 250 | Stratios                                       | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
  251 | Prophecy                                       | `    9,617,506,469.03` | https://zkillboard.com/kill/5379039/
  252 | Myrmidon Navy Issue                            | `    9,603,702,585.17` | https://zkillboard.com/kill/103990387/
  253 | Phantasm                                       | `    9,470,597,185.63` | https://zkillboard.com/kill/30032977/
