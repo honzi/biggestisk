@@ -32,7 +32,7 @@ Rank | Destroyed                                      | ISK Value              |
   23 | Revenant                                       | `  265,754,038,733.83` | https://zkillboard.com/kill/96232154/
   24 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
   25 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
-  26 | Laelaps                                        | `  240,613,289,146.88` | https://zkillboard.com/kill/107617188/
+  26 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   27 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
   28 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   29 | Vendetta                                       | `  235,127,102,772.82` | https://zkillboard.com/kill/96232149/
