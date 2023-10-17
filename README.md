@@ -6,7 +6,7 @@ Biggest ISK
 * `153` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
-----:|------------------------------------------------|-----------------------:|---------------------------------------
+----:|------------------------------------------------|------------------------|---------------------------------------
    1 | Iteron Mark V                                  | `2,076,723,785,396.80` | https://zkillboard.com/kill/79723240/
    2 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
    3 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
