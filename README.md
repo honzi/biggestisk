@@ -66,8 +66,8 @@ Rank | Destroyed                                      | ISK Value              |
   57 | Adrestia                                       | `  156,100,363,922.36` | https://zkillboard.com/kill/50724250/
   58 | Virtuoso                                       | `  155,529,503,018.16` | https://zkillboard.com/kill/75790303/
   59 | Wyvern                                         | `  155,154,418,242.32` | https://zkillboard.com/kill/103628479/
-  60 | Epithal                                        | `  153,004,948,150.72` | https://zkillboard.com/kill/12413244/
-  61 | Bestla                                         | `  152,508,029,435.29` | https://zkillboard.com/kill/108768315/
+  60 | Bestla                                         | `  154,653,916,899.07` | https://zkillboard.com/kill/114070012/
+  61 | Epithal                                        | `  153,004,948,150.72` | https://zkillboard.com/kill/12413244/
   62 | Orca                                           | `  150,834,255,285.68` | https://zkillboard.com/kill/82157902/
   63 | Shepash                                        | `  150,000,000,000.00` | https://zkillboard.com/kill/113813648/
   64 | Buzzard                                        | `  149,736,053,588.46` | https://zkillboard.com/kill/5266144/
