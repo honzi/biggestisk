@@ -190,7 +190,7 @@ Rank | Destroyed                                      | ISK Value              |
  181 | Praxis                                         | `   31,823,757,335.12` | https://zkillboard.com/kill/90745313/
  182 | Federation Navy Comet                          | `   31,414,609,305.32` | https://zkillboard.com/kill/20724383/
  183 | Griffin                                        | `   31,270,907,663.01` | https://zkillboard.com/kill/79625150/
- 184 | Lif                                            | `   30,477,861,976.93` | https://zkillboard.com/kill/110172431/
+ 184 | Lif                                            | `   30,596,497,950.79` | https://zkillboard.com/kill/114212034/
  185 | Typhoon Fleet Issue                            | `   30,430,073,532.13` | https://zkillboard.com/kill/55798335/
  186 | Echelon                                        | `   29,299,661,467.41` | https://zkillboard.com/kill/105720403/
  187 | Raven Navy Issue                               | `   29,219,136,218.19` | https://zkillboard.com/kill/67360198/
@@ -252,24 +252,24 @@ Rank | Destroyed                                      | ISK Value              |
  243 | Mobile Tractor Unit                            | `   12,905,702,279.76` | https://zkillboard.com/kill/89609628/
  244 | Dominix Navy Issue                             | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
  245 | 'Magpie' Mobile Tractor Unit                   | `   12,247,513,194.88` | https://zkillboard.com/kill/38603232/
- 246 | Kitsune                                        | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
- 247 | Eos                                            | `   11,793,854,120.87` | https://zkillboard.com/kill/64236772/
- 248 | Thunderchild                                   | `   11,722,516,355.94` | https://zkillboard.com/kill/100829963/
- 249 | 'Packrat' Mobile Tractor Unit                  | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
- 250 | Republic Fleet Firetail                        | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
- 251 | Scorpion Ishukone Watch                        | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
- 252 | Redeemer                                       | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
- 253 | Dragoon                                        | `   10,697,150,865.65` | https://zkillboard.com/kill/54665312/
- 254 | Vulture                                        | `   10,618,485,343.55` | https://zkillboard.com/kill/7775089/
- 255 | Maelstrom                                      | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
- 256 | Capsule - Genolution 'Auroral' 197-variant     | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
- 257 | Jackdaw                                        | `   10,269,397,831.54` | https://zkillboard.com/kill/111638199/
- 258 | Mekubal                                        | `   10,250,031,819.61` | https://zkillboard.com/kill/111992621/
- 259 | Stratios                                       | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
- 260 | Prophecy                                       | `    9,617,506,469.03` | https://zkillboard.com/kill/5379039/
- 261 | Myrmidon Navy Issue                            | `    9,603,702,585.17` | https://zkillboard.com/kill/103990387/
- 262 | Phantasm                                       | `    9,470,597,185.63` | https://zkillboard.com/kill/30032977/
- 263 | Minokawa                                       | `    9,120,143,072.09` | https://zkillboard.com/kill/61616688/
+ 246 | Minokawa                                       | `   12,245,630,166.26` | https://zkillboard.com/kill/104188280/
+ 247 | Kitsune                                        | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
+ 248 | Eos                                            | `   11,793,854,120.87` | https://zkillboard.com/kill/64236772/
+ 249 | Thunderchild                                   | `   11,722,516,355.94` | https://zkillboard.com/kill/100829963/
+ 250 | 'Packrat' Mobile Tractor Unit                  | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
+ 251 | Republic Fleet Firetail                        | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
+ 252 | Scorpion Ishukone Watch                        | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
+ 253 | Redeemer                                       | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
+ 254 | Dragoon                                        | `   10,697,150,865.65` | https://zkillboard.com/kill/54665312/
+ 255 | Vulture                                        | `   10,618,485,343.55` | https://zkillboard.com/kill/7775089/
+ 256 | Maelstrom                                      | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
+ 257 | Capsule - Genolution 'Auroral' 197-variant     | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
+ 258 | Jackdaw                                        | `   10,269,397,831.54` | https://zkillboard.com/kill/111638199/
+ 259 | Mekubal                                        | `   10,250,031,819.61` | https://zkillboard.com/kill/111992621/
+ 260 | Stratios                                       | `    9,922,149,241.00` | https://zkillboard.com/kill/56786595/
+ 261 | Prophecy                                       | `    9,617,506,469.03` | https://zkillboard.com/kill/5379039/
+ 262 | Myrmidon Navy Issue                            | `    9,603,702,585.17` | https://zkillboard.com/kill/103990387/
+ 263 | Phantasm                                       | `    9,470,597,185.63` | https://zkillboard.com/kill/30032977/
  264 | Harpy                                          | `    9,087,932,157.00` | https://zkillboard.com/kill/67669842/
  265 | Zephyr                                         | `    9,069,927,154.14` | https://zkillboard.com/kill/73046296/
  266 | Sukuuvestaa Heron                              | `    8,814,155,211.74` | https://zkillboard.com/kill/42117285/
