@@ -154,13 +154,13 @@ Rank | Destroyed                                      | ISK Value              |
  145 | Proteus                                        | `   45,955,927,444.19` | https://zkillboard.com/kill/103975479/
  146 | Incursus                                       | `   45,917,581,370.55` | https://zkillboard.com/kill/1687756/
  147 | Rattlesnake                                    | `   44,708,373,124.25` | https://zkillboard.com/kill/83497945/
- 148 | Thrasher                                       | `   44,085,513,214.60` | https://zkillboard.com/kill/13891659/
- 149 | Bustard                                        | `   43,780,760,750.05` | https://zkillboard.com/kill/7394182/
- 150 | Sunesis                                        | `   43,334,557,038.09` | https://zkillboard.com/kill/105361965/
- 151 | Eris                                           | `   42,583,534,676.93` | https://zkillboard.com/kill/7849186/
- 152 | Gila                                           | `   41,794,736,486.52` | https://zkillboard.com/kill/104482164/
- 153 | Bowhead                                        | `   41,634,694,650.28` | https://zkillboard.com/kill/59135248/
- 154 | Nightmare                                      | `   40,993,796,081.83` | https://zkillboard.com/kill/26451268/
+ 148 | Nightmare                                      | `   44,480,642,014.01` | https://zkillboard.com/kill/114871366/
+ 149 | Thrasher                                       | `   44,085,513,214.60` | https://zkillboard.com/kill/13891659/
+ 150 | Bustard                                        | `   43,780,760,750.05` | https://zkillboard.com/kill/7394182/
+ 151 | Sunesis                                        | `   43,334,557,038.09` | https://zkillboard.com/kill/105361965/
+ 152 | Eris                                           | `   42,583,534,676.93` | https://zkillboard.com/kill/7849186/
+ 153 | Gila                                           | `   41,794,736,486.52` | https://zkillboard.com/kill/104482164/
+ 154 | Bowhead                                        | `   41,634,694,650.28` | https://zkillboard.com/kill/59135248/
  155 | Fortizar                                       | `   40,862,491,539.47` | https://zkillboard.com/kill/59249664/
  156 | Abaddon                                        | `   40,796,623,103.65` | https://zkillboard.com/kill/32463577/
  157 | Exequror                                       | `   40,742,251,528.67` | https://zkillboard.com/kill/18897556/
