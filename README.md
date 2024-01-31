@@ -29,7 +29,7 @@ Rank | Destroyed                                      | ISK Value              |
   20 | Charon                                         | `  331,482,029,848.47` | https://zkillboard.com/kill/14535158/
   21 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
   22 | Obelisk                                        | `  268,572,588,113.31` | https://zkillboard.com/kill/7154867/
-  23 | Revenant                                       | `  265,754,038,733.83` | https://zkillboard.com/kill/96232154/
+  23 | Revenant                                       | `  266,610,512,911.26` | https://zkillboard.com/kill/115073525/
   24 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
   25 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
   26 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
