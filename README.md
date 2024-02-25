@@ -73,7 +73,7 @@ Rank | Destroyed                                      | ISK Value              |
   64 | Shepash                                        | `  150,000,000,000.00` | https://zkillboard.com/kill/113813648/
   65 | Buzzard                                        | `  149,736,053,588.46` | https://zkillboard.com/kill/5266144/
   66 | Imp                                            | `  147,599,036,862.12` | https://zkillboard.com/kill/77789901/
-  67 | Dramiel                                        | `  141,137,936,997.06` | https://zkillboard.com/kill/20375844/
+  67 | Dramiel                                        | `  146,134,554,549.24` | https://zkillboard.com/kill/115781407/
   68 | Taipan                                         | `  135,014,791,964.57` | https://zkillboard.com/kill/79691222/
   69 | Tatara                                         | `  132,956,226,827.52` | https://zkillboard.com/kill/70510179/
   70 | Apotheosis                                     | `  132,556,072,901.83` | https://zkillboard.com/kill/3615862/
