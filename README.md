@@ -70,7 +70,7 @@ Rank | Destroyed                                      | ISK Value              |
   61 | Bestla                                         | `  154,653,916,899.07` | https://zkillboard.com/kill/114070012/
   62 | Epithal                                        | `  153,004,948,150.72` | https://zkillboard.com/kill/12413244/
   63 | Orca                                           | `  150,834,255,285.68` | https://zkillboard.com/kill/82157902/
-  64 | Shepash                                        | `  150,000,000,000.00` | https://zkillboard.com/kill/113813648/
+  64 | Shepash                                        | `  150,357,647,820.86` | https://zkillboard.com/kill/116384244/
   65 | Buzzard                                        | `  149,736,053,588.46` | https://zkillboard.com/kill/5266144/
   66 | Imp                                            | `  147,599,036,862.12` | https://zkillboard.com/kill/77789901/
   67 | Dramiel                                        | `  146,134,554,549.24` | https://zkillboard.com/kill/115781407/
