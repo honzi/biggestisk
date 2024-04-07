@@ -31,11 +31,11 @@ Rank | Destroyed                                      | ISK Value              |
   22 | Obelisk                                        | `  268,572,588,113.31` | https://zkillboard.com/kill/7154867/
   23 | Revenant                                       | `  266,610,512,911.26` | https://zkillboard.com/kill/115073525/
   24 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
-  25 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
-  26 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
-  27 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
-  28 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
-  29 | Cybele                                         | `  240,916,533,045.78` | https://zkillboard.com/kill/114726301/
+  25 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
+  26 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
+  27 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
+  28 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
+  29 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   30 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
   31 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   32 | Vendetta                                       | `  234,151,349,159.77` | https://zkillboard.com/kill/96232149/
