@@ -147,20 +147,20 @@ Rank | Destroyed                                      | ISK Value              |
  138 | Cheetah                                        | `   54,107,018,476.63` | https://zkillboard.com/kill/14360876/
  139 | Mastodon                                       | `   52,365,286,888.51` | https://zkillboard.com/kill/13628510/
  140 | Confessor                                      | `   51,686,330,455.50` | https://zkillboard.com/kill/86525691/
- 141 | Paladin                                        | `   50,057,915,024.69` | https://zkillboard.com/kill/28003625/
- 142 | Armageddon Navy Issue                          | `   49,317,582,117.32` | https://zkillboard.com/kill/14575546/
- 143 | Kestrel                                        | `   49,005,161,599.98` | https://zkillboard.com/kill/16897374/
- 144 | Ship Maintenance Array                         | `   48,113,718,999.68` | https://zkillboard.com/kill/50240671/
- 145 | Zirnitra                                       | `   47,149,687,483.12` | https://zkillboard.com/kill/81282897/
- 146 | Proteus                                        | `   45,955,927,444.19` | https://zkillboard.com/kill/103975479/
- 147 | Incursus                                       | `   45,917,581,370.55` | https://zkillboard.com/kill/1687756/
- 148 | Rattlesnake                                    | `   44,708,373,124.25` | https://zkillboard.com/kill/83497945/
- 149 | Nightmare                                      | `   44,480,642,014.01` | https://zkillboard.com/kill/114871366/
- 150 | Thrasher                                       | `   44,085,513,214.60` | https://zkillboard.com/kill/13891659/
- 151 | Bustard                                        | `   43,780,760,750.05` | https://zkillboard.com/kill/7394182/
- 152 | Sunesis                                        | `   43,334,557,038.09` | https://zkillboard.com/kill/105361965/
- 153 | Eris                                           | `   42,583,534,676.93` | https://zkillboard.com/kill/7849186/
- 154 | Gila                                           | `   41,794,736,486.52` | https://zkillboard.com/kill/104482164/
+ 141 | Gila                                           | `   51,255,455,048.42` | https://zkillboard.com/kill/116825029/
+ 142 | Paladin                                        | `   50,057,915,024.69` | https://zkillboard.com/kill/28003625/
+ 143 | Armageddon Navy Issue                          | `   49,317,582,117.32` | https://zkillboard.com/kill/14575546/
+ 144 | Kestrel                                        | `   49,005,161,599.98` | https://zkillboard.com/kill/16897374/
+ 145 | Ship Maintenance Array                         | `   48,113,718,999.68` | https://zkillboard.com/kill/50240671/
+ 146 | Zirnitra                                       | `   47,149,687,483.12` | https://zkillboard.com/kill/81282897/
+ 147 | Proteus                                        | `   45,955,927,444.19` | https://zkillboard.com/kill/103975479/
+ 148 | Incursus                                       | `   45,917,581,370.55` | https://zkillboard.com/kill/1687756/
+ 149 | Rattlesnake                                    | `   44,708,373,124.25` | https://zkillboard.com/kill/83497945/
+ 150 | Nightmare                                      | `   44,480,642,014.01` | https://zkillboard.com/kill/114871366/
+ 151 | Thrasher                                       | `   44,085,513,214.60` | https://zkillboard.com/kill/13891659/
+ 152 | Bustard                                        | `   43,780,760,750.05` | https://zkillboard.com/kill/7394182/
+ 153 | Sunesis                                        | `   43,334,557,038.09` | https://zkillboard.com/kill/105361965/
+ 154 | Eris                                           | `   42,583,534,676.93` | https://zkillboard.com/kill/7849186/
  155 | Bowhead                                        | `   41,634,694,650.28` | https://zkillboard.com/kill/59135248/
  156 | Fortizar                                       | `   40,862,491,539.47` | https://zkillboard.com/kill/59249664/
  157 | Abaddon                                        | `   40,796,623,103.65` | https://zkillboard.com/kill/32463577/
