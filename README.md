@@ -27,16 +27,16 @@ Rank | Destroyed                                      | ISK Value              |
   18 | Sotiyo                                         | `  364,096,697,824.86` | https://zkillboard.com/kill/90834035/
   19 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
   20 | Charon                                         | `  331,482,029,848.47` | https://zkillboard.com/kill/14535158/
-  21 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
-  22 | Obelisk                                        | `  268,572,588,113.31` | https://zkillboard.com/kill/7154867/
-  23 | Revenant                                       | `  266,610,512,911.26` | https://zkillboard.com/kill/115073525/
-  24 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
-  25 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
-  26 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
-  27 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
-  28 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
-  29 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
-  30 | Komodo                                         | `  239,585,972,566.16` | https://zkillboard.com/kill/75489664/
+  21 | Komodo                                         | `  321,256,787,873.32` | https://zkillboard.com/kill/117423656/
+  22 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
+  23 | Obelisk                                        | `  268,572,588,113.31` | https://zkillboard.com/kill/7154867/
+  24 | Revenant                                       | `  266,610,512,911.26` | https://zkillboard.com/kill/115073525/
+  25 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
+  26 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
+  27 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
+  28 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
+  29 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
+  30 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   31 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   32 | Vendetta                                       | `  234,151,349,159.77` | https://zkillboard.com/kill/96232149/
   33 | Ragnarok                                       | `  228,086,126,410.45` | https://zkillboard.com/kill/93671626/
