@@ -402,9 +402,9 @@ Rank | Destroyed                                      | ISK Value              |
  393 | Apocalypse                                     | `    1,913,647,701.71` | https://zkillboard.com/kill/9180627/
  394 | Griffin Navy Issue                             | `    1,879,840,413.02` | https://zkillboard.com/kill/72584202/
  395 | Rokh Nugoeihuvi Edition                        | `    1,870,559,846.75` | https://zkillboard.com/kill/37656225/
- 396 | Consortium Mobile Tractor Unit                 | `    1,849,287,474.03` | https://zkillboard.com/kill/116814912/
- 397 | Hyperion Inner Zone Shipping Edition           | `    1,821,078,136.22` | https://zkillboard.com/kill/40063216/
- 398 | Procurer                                       | `    1,784,108,973.20` | https://zkillboard.com/kill/61164959/
+ 396 | Hyperion Inner Zone Shipping Edition           | `    1,821,078,136.22` | https://zkillboard.com/kill/40063216/
+ 397 | Procurer                                       | `    1,784,108,973.20` | https://zkillboard.com/kill/61164959/
+ 398 | Consortium Mobile Tractor Unit                 | `    1,760,645,703.59` | https://zkillboard.com/kill/116814912/
  399 | Armageddon                                     | `    1,759,973,981.46` | https://zkillboard.com/kill/49368305/
  400 | Lachesis                                       | `    1,759,734,302.90` | https://zkillboard.com/kill/72691563/
  401 | Typhoon                                        | `    1,678,297,988.69` | https://zkillboard.com/kill/58069487/
