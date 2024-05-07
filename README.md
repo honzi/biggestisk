@@ -64,10 +64,10 @@ Rank | Destroyed                                      | ISK Value              |
   55 | Chameleon                                      | `  163,379,669,099.61` | https://zkillboard.com/kill/78373188/
   56 | Rhea                                           | `  158,797,684,321.91` | https://zkillboard.com/kill/82772374/
   57 | Fenrir                                         | `  156,563,068,959.98` | https://zkillboard.com/kill/92136964/
-  58 | Adrestia                                       | `  156,100,363,922.36` | https://zkillboard.com/kill/50724250/
-  59 | Virtuoso                                       | `  155,529,503,018.16` | https://zkillboard.com/kill/75790303/
-  60 | Wyvern                                         | `  155,154,418,242.32` | https://zkillboard.com/kill/103628479/
-  61 | Bestla                                         | `  154,653,916,899.07` | https://zkillboard.com/kill/114070012/
+  58 | Bestla                                         | `  156,517,809,684.06` | https://zkillboard.com/kill/117601209/
+  59 | Adrestia                                       | `  156,100,363,922.36` | https://zkillboard.com/kill/50724250/
+  60 | Virtuoso                                       | `  155,529,503,018.16` | https://zkillboard.com/kill/75790303/
+  61 | Wyvern                                         | `  155,154,418,242.32` | https://zkillboard.com/kill/103628479/
   62 | Epithal                                        | `  153,004,948,150.72` | https://zkillboard.com/kill/12413244/
   63 | Orca                                           | `  150,834,255,285.68` | https://zkillboard.com/kill/82157902/
   64 | Shepash                                        | `  150,357,647,820.86` | https://zkillboard.com/kill/116384244/
