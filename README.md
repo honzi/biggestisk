@@ -432,9 +432,9 @@ Rank | Destroyed                                      | ISK Value              |
  423 | Stork                                          | `    1,272,844,266.42` | https://zkillboard.com/kill/81656084/
  424 | Exequror Navy Issue                            | `    1,242,944,972.89` | https://zkillboard.com/kill/29372701/
  425 | Aliastra Catalyst                              | `    1,191,686,731.30` | https://zkillboard.com/kill/27309041/
- 426 | Dread Guristas Control Tower Small             | `    1,136,000,000.00` | https://zkillboard.com/kill/9749271/
- 427 | Blood Control Tower                            | `    1,132,750,000.46` | https://zkillboard.com/kill/32171466/
- 428 | Orbital Skyhook                                | `    1,131,119,622.33` | https://zkillboard.com/kill/118837391/
+ 426 | Orbital Skyhook                                | `    1,155,582,376.78` | https://zkillboard.com/kill/118980994/
+ 427 | Dread Guristas Control Tower Small             | `    1,136,000,000.00` | https://zkillboard.com/kill/9749271/
+ 428 | Blood Control Tower                            | `    1,132,750,000.46` | https://zkillboard.com/kill/32171466/
  429 | CONCORD Rogue Analysis Beacon                  | `    1,126,437,822.91` | https://zkillboard.com/kill/100106245/
  430 | Huginn                                         | `    1,112,001,014.26` | https://zkillboard.com/kill/46320908/
  431 | Deacon                                         | `    1,076,622,263.94` | https://zkillboard.com/kill/77510085/
