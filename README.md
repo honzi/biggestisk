@@ -205,22 +205,22 @@ Rank | Destroyed                                      | ISK Value              |
  196 | Torrent                                        | `   27,279,194,774.75` | https://zkillboard.com/kill/119022047/
  197 | Nestor                                         | `   27,220,001,874.99` | https://zkillboard.com/kill/92281357/
  198 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
- 199 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
- 200 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
- 201 | Noctis                                         | `   24,219,274,646.91` | https://zkillboard.com/kill/105570796/
- 202 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
- 203 | Moros                                          | `   23,740,043,371.12` | https://zkillboard.com/kill/58764666/
- 204 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
- 205 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
- 206 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
- 207 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
- 208 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
- 209 | Apocalypse Navy Issue                          | `   22,313,337,413.79` | https://zkillboard.com/kill/37898496/
- 210 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
- 211 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
- 212 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
- 213 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
- 214 | Moros Navy Issue                               | `   19,306,178,396.16` | https://zkillboard.com/kill/113899810/
+ 199 | Moros Navy Issue                               | `   25,968,024,530.50` | https://zkillboard.com/kill/120060009/
+ 200 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
+ 201 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
+ 202 | Noctis                                         | `   24,219,274,646.91` | https://zkillboard.com/kill/105570796/
+ 203 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
+ 204 | Moros                                          | `   23,740,043,371.12` | https://zkillboard.com/kill/58764666/
+ 205 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
+ 206 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
+ 207 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
+ 208 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
+ 209 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
+ 210 | Apocalypse Navy Issue                          | `   22,313,337,413.79` | https://zkillboard.com/kill/37898496/
+ 211 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
+ 212 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
+ 213 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
+ 214 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
  215 | Valravn                                        | `   19,304,092,313.05` | https://zkillboard.com/kill/111740587/
  216 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
  217 | Hubris                                         | `   19,048,614,842.44` | https://zkillboard.com/kill/113211829/
