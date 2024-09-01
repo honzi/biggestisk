@@ -236,7 +236,7 @@ Rank | Destroyed                                      | ISK Value              |
  227 | Onyx                                           | `   16,861,293,289.57` | https://zkillboard.com/kill/113256174/
  228 | Maulus Navy Issue                              | `   16,776,113,940.54` | https://zkillboard.com/kill/108357323/
  229 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
- 230 | Bane                                           | `   16,691,824,300.96` | https://zkillboard.com/kill/113473314/
+ 230 | Bane                                           | `   16,722,383,653.60` | https://zkillboard.com/kill/120458845/
  231 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
  232 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
  233 | Karura                                         | `   16,404,256,467.17` | https://zkillboard.com/kill/110856291/
