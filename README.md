@@ -38,8 +38,8 @@ Rank | Destroyed                                      | ISK Value              |
   29 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
   30 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
   31 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
-  32 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
-  33 | Ragnarok                                       | `  228,086,126,410.45` | https://zkillboard.com/kill/93671626/
+  32 | Ragnarok                                       | `  239,230,746,960.35` | https://zkillboard.com/kill/120650353/
+  33 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   34 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
   35 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
   36 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
