@@ -36,10 +36,10 @@ Rank | Destroyed                                      | ISK Value              |
   27 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
   28 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
   29 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
-  30 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
-  31 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
-  32 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
-  33 | Ragnarok                                       | `  239,230,746,960.35` | https://zkillboard.com/kill/120650353/
+  30 | Ragnarok                                       | `  243,641,748,747.10` | https://zkillboard.com/kill/121492029/
+  31 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
+  32 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
+  33 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   34 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   35 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
   36 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
