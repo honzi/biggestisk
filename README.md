@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `750` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `155` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
+* `157` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|------------------------|---------------------------------------
@@ -798,6 +798,7 @@ Caldari Police 2nd Lieutenant                       | https://zkillboard.com/shi
 Caldari Police 3rd Lieutenant                       | https://zkillboard.com/ship/9970/
 Caldari Police Commissioner                         | https://zkillboard.com/ship/11521/
 Caldari Police Vice Commissioner                    | https://zkillboard.com/ship/9965/
+Cenotaph                                            | https://zkillboard.com/ship/85086/
 Clonejacker Punk                                    | https://zkillboard.com/ship/34579/
 CloneJacker Punk                                    | https://zkillboard.com/ship/43922/
 Concord Army Battleship                             | https://zkillboard.com/ship/1918/
@@ -896,6 +897,7 @@ Tempest Nefantar Edition                            | https://zkillboard.com/shi
 Tempest Tribal Issue                                | https://zkillboard.com/ship/26842/
 Test LCO Drone                                      | https://zkillboard.com/ship/3457/
 Test Site Maller                                    | https://zkillboard.com/ship/52267/
+Tholos                                              | https://zkillboard.com/ship/85087/
 Tournament Bubble                                   | https://zkillboard.com/ship/26849/
 Tournament Micro Jump Unit                          | https://zkillboard.com/ship/33990/
 Tournament Practice Unit                            | https://zkillboard.com/ship/36523/
