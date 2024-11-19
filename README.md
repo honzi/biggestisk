@@ -227,10 +227,10 @@ Rank | Destroyed                                      | ISK Value              |
  218 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
  219 | Karura                                         | `   19,585,852,247.89` | https://zkillboard.com/kill/122464342/
  220 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
- 221 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
- 222 | Valravn                                        | `   19,304,092,313.05` | https://zkillboard.com/kill/111740587/
- 223 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
- 224 | Hubris                                         | `   19,048,614,842.44` | https://zkillboard.com/kill/113211829/
+ 221 | Hubris                                         | `   19,393,813,825.90` | https://zkillboard.com/kill/117314683/
+ 222 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
+ 223 | Valravn                                        | `   19,304,092,313.05` | https://zkillboard.com/kill/111740587/
+ 224 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
  225 | Naglfar Fleet Issue                            | `   18,746,690,700.59` | https://zkillboard.com/kill/109629065/
  226 | Jaguar                                         | `   18,550,440,608.95` | https://zkillboard.com/kill/932026/
  227 | Revelation Navy Issue                          | `   18,182,838,018.31` | https://zkillboard.com/kill/113898968/
