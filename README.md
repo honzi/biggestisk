@@ -124,9 +124,9 @@ Rank | Destroyed                                      | ISK Value              |
  115 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
  116 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
  117 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
- 118 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
- 119 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
- 120 | Utu                                            | `   81,620,840,543.61` | https://zkillboard.com/kill/14417218/
+ 118 | Utu                                            | `   87,320,342,744.66` | https://zkillboard.com/kill/122610072/
+ 119 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
+ 120 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
  121 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
  122 | Chemosh                                        | `   78,633,427,952.19` | https://zkillboard.com/kill/79916322/
  123 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
