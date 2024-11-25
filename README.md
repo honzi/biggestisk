@@ -120,18 +120,18 @@ Rank | Destroyed                                      | ISK Value              |
  111 | Impel                                          | `   93,888,617,531.98` | https://zkillboard.com/kill/94423743/
  112 | Widow                                          | `   92,334,579,705.68` | https://zkillboard.com/kill/80681361/
  113 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
- 114 | Caiman                                         | `   90,207,959,261.83` | https://zkillboard.com/kill/102037871/
- 115 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
- 116 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
- 117 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
- 118 | Utu                                            | `   87,320,342,744.66` | https://zkillboard.com/kill/122610072/
- 119 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
- 120 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
- 121 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
- 122 | Chemosh                                        | `   78,633,427,952.19` | https://zkillboard.com/kill/79916322/
- 123 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
- 124 | Vindicator                                     | `   75,625,937,495.61` | https://zkillboard.com/kill/104797031/
- 125 | Paladin                                        | `   74,311,898,939.28` | https://zkillboard.com/kill/118314798/
+ 114 | Paladin                                        | `   90,836,195,273.89` | https://zkillboard.com/kill/122729560/
+ 115 | Caiman                                         | `   90,207,959,261.83` | https://zkillboard.com/kill/102037871/
+ 116 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
+ 117 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
+ 118 | Tormentor                                      | `   87,496,789,130.05` | https://zkillboard.com/kill/3193482/
+ 119 | Utu                                            | `   87,320,342,744.66` | https://zkillboard.com/kill/122610072/
+ 120 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
+ 121 | 'Prometheus' Fortizar                          | `   83,517,433,111.51` | https://zkillboard.com/kill/70844463/
+ 122 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
+ 123 | Chemosh                                        | `   78,633,427,952.19` | https://zkillboard.com/kill/79916322/
+ 124 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
+ 125 | Vindicator                                     | `   75,625,937,495.61` | https://zkillboard.com/kill/104797031/
  126 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
  127 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
  128 | Hematos                                        | `   70,118,296,715.41` | https://zkillboard.com/kill/79649125/
