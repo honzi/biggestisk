@@ -16,20 +16,20 @@ Rank | Destroyed                                      | ISK Value              |
    7 | Molok                                          | `  830,680,055,549.26` | https://zkillboard.com/kill/106309460/
    8 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
    9 | Vanquisher                                     | `  774,776,971,902.55` | https://zkillboard.com/kill/62097910/
-  10 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
-  11 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
-  12 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
-  13 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
-  14 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
-  15 | Moracha                                        | `  517,121,034,591.32` | https://zkillboard.com/kill/53900531/
-  16 | Opux Dragoon Yacht                             | `  500,000,000,000.02` | https://zkillboard.com/kill/63711228/
-  17 | Catalyst                                       | `  435,594,386,419.36` | https://zkillboard.com/kill/12240997/
-  18 | Crane                                          | `  407,919,161,449.21` | https://zkillboard.com/kill/79650638/
-  19 | Providence                                     | `  383,458,935,112.62` | https://zkillboard.com/kill/40690841/
-  20 | Sotiyo                                         | `  364,096,697,824.86` | https://zkillboard.com/kill/90834035/
-  21 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
-  22 | Charon                                         | `  331,482,029,848.47` | https://zkillboard.com/kill/14535158/
-  23 | Komodo                                         | `  321,256,787,873.32` | https://zkillboard.com/kill/117423656/
+  10 | Komodo                                         | `  720,913,656,710.10` | https://zkillboard.com/kill/122868616/
+  11 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
+  12 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
+  13 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
+  14 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
+  15 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
+  16 | Moracha                                        | `  517,121,034,591.32` | https://zkillboard.com/kill/53900531/
+  17 | Opux Dragoon Yacht                             | `  500,000,000,000.02` | https://zkillboard.com/kill/63711228/
+  18 | Catalyst                                       | `  435,594,386,419.36` | https://zkillboard.com/kill/12240997/
+  19 | Crane                                          | `  407,919,161,449.21` | https://zkillboard.com/kill/79650638/
+  20 | Providence                                     | `  383,458,935,112.62` | https://zkillboard.com/kill/40690841/
+  21 | Sotiyo                                         | `  364,096,697,824.86` | https://zkillboard.com/kill/90834035/
+  22 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
+  23 | Charon                                         | `  331,482,029,848.47` | https://zkillboard.com/kill/14535158/
   24 | Nemesis                                        | `  288,153,808,217.66` | https://zkillboard.com/kill/17680488/
   25 | Obelisk                                        | `  268,572,588,113.31` | https://zkillboard.com/kill/7154867/
   26 | Revenant                                       | `  266,610,512,911.26` | https://zkillboard.com/kill/115073525/
