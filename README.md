@@ -43,14 +43,14 @@ Rank | Destroyed                                      | ISK Value              |
   34 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   35 | Ragnarok                                       | `  236,444,863,477.37` | https://zkillboard.com/kill/120650353/
   36 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
-  37 | Avalanche                                      | `  231,287,768,334.75` | https://zkillboard.com/kill/122191632/
-  38 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
-  39 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
-  40 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
-  41 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
-  42 | Probe                                          | `  214,988,177,725.28` | https://zkillboard.com/kill/79632461/
-  43 | Aeon                                           | `  212,010,049,783.08` | https://zkillboard.com/kill/12583986/
-  44 | Erebus                                         | `  210,461,509,313.74` | https://zkillboard.com/kill/106464076/
+  37 | Erebus                                         | `  234,902,441,655.48` | https://zkillboard.com/kill/122868542/
+  38 | Avalanche                                      | `  231,287,768,334.75` | https://zkillboard.com/kill/122191632/
+  39 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
+  40 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
+  41 | Viator                                         | `  215,959,745,633.40` | https://zkillboard.com/kill/5299802/
+  42 | Anshar                                         | `  215,339,178,087.90` | https://zkillboard.com/kill/73085962/
+  43 | Probe                                          | `  214,988,177,725.28` | https://zkillboard.com/kill/79632461/
+  44 | Aeon                                           | `  212,010,049,783.08` | https://zkillboard.com/kill/12583986/
   45 | Geri                                           | `  210,434,059,281.02` | https://zkillboard.com/kill/122580466/
   46 | Chremoas                                       | `  208,435,078,755.25` | https://zkillboard.com/kill/73676084/
   47 | Ares                                           | `  207,418,999,809.01` | https://zkillboard.com/kill/15449831/
