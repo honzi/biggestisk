@@ -8,7 +8,7 @@ Biggest ISK
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|------------------------|---------------------------------------
    1 | Iteron Mark V                                  | `2,076,723,785,396.80` | https://zkillboard.com/kill/79723240/
-   2 | Python                                         | `1,279,045,060,582.61` | https://zkillboard.com/kill/122538211/
+   2 | Python                                         | `1,528,696,196,721.95` | https://zkillboard.com/kill/122888362/
    3 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
    4 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
    5 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
