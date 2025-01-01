@@ -37,8 +37,8 @@ Rank | Destroyed                                      | ISK Value              |
   28 | Cobra                                          | `  254,941,766,512.12` | https://zkillboard.com/kill/122373289/
   29 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
   30 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
-  31 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
-  32 | Avatar                                         | `  242,102,737,127.65` | https://zkillboard.com/kill/115029322/
+  31 | Avatar                                         | `  248,159,998,938.11` | https://zkillboard.com/kill/123639016/
+  32 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
   33 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
   34 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   35 | Ragnarok                                       | `  236,444,863,477.37` | https://zkillboard.com/kill/120650353/
