@@ -35,11 +35,11 @@ Rank | Destroyed                                      | ISK Value              |
   26 | Revenant                                       | `  266,610,512,911.26` | https://zkillboard.com/kill/115073525/
   27 | Vendetta                                       | `  262,983,019,291.68` | https://zkillboard.com/kill/119272045/
   28 | Cobra                                          | `  254,941,766,512.12` | https://zkillboard.com/kill/122373289/
-  29 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
-  30 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
-  31 | Avatar                                         | `  248,159,998,938.11` | https://zkillboard.com/kill/123639016/
-  32 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
-  33 | Tiamat                                         | `  242,027,486,543.10` | https://zkillboard.com/kill/84534896/
+  29 | Tiamat                                         | `  251,423,229,580.38` | https://zkillboard.com/kill/124221316/
+  30 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
+  31 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
+  32 | Avatar                                         | `  248,159,998,938.11` | https://zkillboard.com/kill/123639016/
+  33 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
   34 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   35 | Ragnarok                                       | `  236,444,863,477.37` | https://zkillboard.com/kill/120650353/
   36 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
