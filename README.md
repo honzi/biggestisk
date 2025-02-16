@@ -78,7 +78,7 @@ Rank | Destroyed                                      | ISK Value              |
   69 | Wyvern                                         | `  155,154,418,242.32` | https://zkillboard.com/kill/103628479/
   70 | Epithal                                        | `  153,004,948,150.72` | https://zkillboard.com/kill/12413244/
   71 | Orca                                           | `  150,834,255,285.68` | https://zkillboard.com/kill/82157902/
-  72 | Shepash                                        | `  150,357,647,820.86` | https://zkillboard.com/kill/116384244/
+  72 | Shepash                                        | `  150,761,256,110.01` | https://zkillboard.com/kill/124716281/
   73 | Buzzard                                        | `  149,736,053,588.46` | https://zkillboard.com/kill/5266144/
   74 | Imp                                            | `  147,599,036,862.12` | https://zkillboard.com/kill/77789901/
   75 | Dramiel                                        | `  146,134,554,549.24` | https://zkillboard.com/kill/115781407/
