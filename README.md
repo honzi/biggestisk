@@ -42,8 +42,8 @@ Rank | Destroyed                                      | ISK Value              |
   33 | Victor                                         | `  243,906,462,360.07` | https://zkillboard.com/kill/107920362/
   34 | Laelaps                                        | `  241,998,557,963.77` | https://zkillboard.com/kill/111652893/
   35 | Ragnarok                                       | `  236,444,863,477.37` | https://zkillboard.com/kill/120650353/
-  36 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
-  37 | Erebus                                         | `  234,902,441,655.48` | https://zkillboard.com/kill/122868542/
+  36 | Erebus                                         | `  235,736,377,402.58` | https://zkillboard.com/kill/126298211/
+  37 | Velator                                        | `  235,726,668,120.01` | https://zkillboard.com/kill/18582093/
   38 | Avalanche                                      | `  231,287,768,334.75` | https://zkillboard.com/kill/122191632/
   39 | Impairor                                       | `  227,832,273,503.66` | https://zkillboard.com/kill/101925496/
   40 | Vagabond                                       | `  218,199,992,697.01` | https://zkillboard.com/kill/5747531/
