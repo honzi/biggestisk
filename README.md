@@ -35,7 +35,7 @@ Rank | Destroyed                                      | ISK Value              |
   26 | Obelisk                                        | `  268,572,588,113.31` | https://zkillboard.com/kill/7154867/
   27 | Revenant                                       | `  266,610,512,911.26` | https://zkillboard.com/kill/115073525/
   28 | Vendetta                                       | `  262,983,019,291.68` | https://zkillboard.com/kill/119272045/
-  29 | Cobra                                          | `  254,941,766,512.12` | https://zkillboard.com/kill/122373289/
+  29 | Cobra                                          | `  256,903,121,003.06` | https://zkillboard.com/kill/126476166/
   30 | Tiamat                                         | `  251,423,229,580.38` | https://zkillboard.com/kill/124221316/
   31 | Leviathan                                      | `  250,624,191,515.58` | https://zkillboard.com/kill/93325296/
   32 | Cybele                                         | `  248,744,631,187.97` | https://zkillboard.com/kill/116792011/
