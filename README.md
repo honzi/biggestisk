@@ -71,8 +71,8 @@ Rank | Destroyed                                      | ISK Value              |
   62 | Chameleon                                      | `  163,379,669,099.61` | https://zkillboard.com/kill/78373188/
   63 | Rhea                                           | `  158,797,684,321.91` | https://zkillboard.com/kill/82772374/
   64 | Armageddon Navy Issue                          | `  156,998,406,124.80` | https://zkillboard.com/kill/121960462/
-  65 | Fenrir                                         | `  156,563,068,959.98` | https://zkillboard.com/kill/92136964/
-  66 | Bestla                                         | `  156,517,809,684.06` | https://zkillboard.com/kill/117601209/
+  65 | Bestla                                         | `  156,883,895,955.52` | https://zkillboard.com/kill/127809541/
+  66 | Fenrir                                         | `  156,563,068,959.98` | https://zkillboard.com/kill/92136964/
   67 | Adrestia                                       | `  156,100,363,922.36` | https://zkillboard.com/kill/50724250/
   68 | Virtuoso                                       | `  155,529,503,018.16` | https://zkillboard.com/kill/75790303/
   69 | Wyvern                                         | `  155,154,418,242.32` | https://zkillboard.com/kill/103628479/
