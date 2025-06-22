@@ -246,23 +246,23 @@ Rank | Destroyed                                      | ISK Value              |
  237 | Athanor                                        | `   17,577,933,190.27` | https://zkillboard.com/kill/87823506/
  238 | Ishkur                                         | `   17,128,960,963.95` | https://zkillboard.com/kill/14761589/
  239 | Guristas Shuttle                               | `   16,892,359,253.06` | https://zkillboard.com/kill/17395448/
- 240 | Mobile Tractor Unit                            | `   16,684,573,985.36` | https://zkillboard.com/kill/122958343/
+ 240 | Capsule                                        | `   16,872,155,193.59` | https://zkillboard.com/kill/127958181/
  241 | Onyx                                           | `   16,861,293,289.57` | https://zkillboard.com/kill/113256174/
  242 | Maulus Navy Issue                              | `   16,776,113,940.54` | https://zkillboard.com/kill/108357323/
  243 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
- 244 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
- 245 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
- 246 | Retriever                                      | `   16,456,028,091.43` | https://zkillboard.com/kill/123928773/
- 247 | Chimera                                        | `   15,972,747,571.15` | https://zkillboard.com/kill/28037701/
- 248 | Megathron Navy Issue                           | `   15,708,037,789.06` | https://zkillboard.com/kill/41505052/
- 249 | Harbinger Navy Issue                           | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
- 250 | Heron                                          | `   15,528,765,526.29` | https://zkillboard.com/kill/109040451/
- 251 | Navitas                                        | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
- 252 | Enforcer                                       | `   15,271,077,176.70` | https://zkillboard.com/kill/64824306/
- 253 | Manticore                                      | `   14,662,834,035.57` | https://zkillboard.com/kill/105118039/
- 254 | Breacher                                       | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
- 255 | Rorqual ORE Development Edition                | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
- 256 | Capsule                                        | `   14,106,237,513.46` | https://zkillboard.com/kill/42439974/
+ 244 | Mobile Tractor Unit                            | `   16,684,573,985.36` | https://zkillboard.com/kill/122958343/
+ 245 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
+ 246 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
+ 247 | Retriever                                      | `   16,456,028,091.43` | https://zkillboard.com/kill/123928773/
+ 248 | Chimera                                        | `   15,972,747,571.15` | https://zkillboard.com/kill/28037701/
+ 249 | Megathron Navy Issue                           | `   15,708,037,789.06` | https://zkillboard.com/kill/41505052/
+ 250 | Harbinger Navy Issue                           | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
+ 251 | Heron                                          | `   15,528,765,526.29` | https://zkillboard.com/kill/109040451/
+ 252 | Navitas                                        | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
+ 253 | Enforcer                                       | `   15,271,077,176.70` | https://zkillboard.com/kill/64824306/
+ 254 | Manticore                                      | `   14,662,834,035.57` | https://zkillboard.com/kill/105118039/
+ 255 | Breacher                                       | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
+ 256 | Rorqual ORE Development Edition                | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
  257 | Daredevil                                      | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
  258 | Archon                                         | `   13,134,985,853.29` | https://zkillboard.com/kill/98534069/
  259 | Dominix Navy Issue                             | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
