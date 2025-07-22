@@ -224,17 +224,17 @@ Rank | Destroyed                                      | ISK Value              |
  215 | Hubris                                         | `   23,511,394,202.57` | https://zkillboard.com/kill/123419694/
  216 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
  217 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
- 218 | Mackinaw                                       | `   22,823,205,665.75` | https://zkillboard.com/kill/124147773/
- 219 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
- 220 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
- 221 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
- 222 | Apocalypse Navy Issue                          | `   22,313,337,413.79` | https://zkillboard.com/kill/37898496/
- 223 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
- 224 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
- 225 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
- 226 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
- 227 | Valravn                                        | `   19,304,092,313.05` | https://zkillboard.com/kill/111740587/
- 228 | Babaroga                                       | `   19,222,084,588.86` | https://zkillboard.com/kill/127586699/
+ 218 | Babaroga                                       | `   22,932,512,150.79` | https://zkillboard.com/kill/127841088/
+ 219 | Mackinaw                                       | `   22,823,205,665.75` | https://zkillboard.com/kill/124147773/
+ 220 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
+ 221 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
+ 222 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
+ 223 | Apocalypse Navy Issue                          | `   22,313,337,413.79` | https://zkillboard.com/kill/37898496/
+ 224 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
+ 225 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
+ 226 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
+ 227 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
+ 228 | Valravn                                        | `   19,304,092,313.05` | https://zkillboard.com/kill/111740587/
  229 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
  230 | Cenotaph                                       | `   19,074,235,297.67` | https://zkillboard.com/kill/122512483/
  231 | Naglfar Fleet Issue                            | `   18,746,690,700.59` | https://zkillboard.com/kill/109629065/
