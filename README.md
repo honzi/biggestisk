@@ -232,9 +232,9 @@ Rank | Destroyed                                      | ISK Value              |
  223 | Apocalypse Navy Issue                          | `   22,313,337,413.79` | https://zkillboard.com/kill/37898496/
  224 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
  225 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
- 226 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
- 227 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
- 228 | Valravn                                        | `   19,304,092,313.05` | https://zkillboard.com/kill/111740587/
+ 226 | Valravn                                        | `   20,596,815,634.13` | https://zkillboard.com/kill/125300482/
+ 227 | Ninazu                                         | `   19,442,167,296.58` | https://zkillboard.com/kill/76684706/
+ 228 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
  229 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
  230 | Cenotaph                                       | `   19,074,235,297.67` | https://zkillboard.com/kill/122512483/
  231 | Naglfar Fleet Issue                            | `   18,746,690,700.59` | https://zkillboard.com/kill/109629065/
