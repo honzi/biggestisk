@@ -159,7 +159,7 @@ Rank | Destroyed                                      | ISK Value              |
  150 | Cheetah                                        | `   54,107,018,476.63` | https://zkillboard.com/kill/14360876/
  151 | Mastodon                                       | `   52,365,286,888.51` | https://zkillboard.com/kill/13628510/
  152 | Confessor                                      | `   51,686,330,455.50` | https://zkillboard.com/kill/86525691/
- 153 | Sarathiel                                      | `   50,219,756,953.61` | https://zkillboard.com/kill/128597061/
+ 153 | Sarathiel                                      | `   51,495,052,841.31` | https://zkillboard.com/kill/129108615/
  154 | Kestrel                                        | `   49,005,161,599.98` | https://zkillboard.com/kill/16897374/
  155 | Ship Maintenance Array                         | `   48,113,718,999.68` | https://zkillboard.com/kill/50240671/
  156 | Zirnitra                                       | `   47,149,687,483.12` | https://zkillboard.com/kill/81282897/
