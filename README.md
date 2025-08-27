@@ -64,12 +64,12 @@ Rank | Destroyed                                      | ISK Value              |
   55 | X-Large Ship Maintenance Array                 | `  185,320,220,112.94` | https://zkillboard.com/kill/111535312/
   56 | Caracal Navy Issue                             | `  183,625,442,143.80` | https://zkillboard.com/kill/15049251/
   57 | Nomad                                          | `  179,960,044,645.25` | https://zkillboard.com/kill/110843407/
-  58 | Fiend                                          | `  175,425,712,701.48` | https://zkillboard.com/kill/51797738/
-  59 | Caldari Shuttle                                | `  172,121,559,999.96` | https://zkillboard.com/kill/79637670/
-  60 | Bestower                                       | `  167,391,988,176.60` | https://zkillboard.com/kill/18312601/
-  61 | Barghest                                       | `  166,883,572,612.16` | https://zkillboard.com/kill/121802853/
-  62 | Chameleon                                      | `  163,379,669,099.61` | https://zkillboard.com/kill/78373188/
-  63 | Rhea                                           | `  158,797,684,321.91` | https://zkillboard.com/kill/82772374/
+  58 | Rhea                                           | `  178,473,326,081.82` | https://zkillboard.com/kill/129478094/
+  59 | Fiend                                          | `  175,425,712,701.48` | https://zkillboard.com/kill/51797738/
+  60 | Caldari Shuttle                                | `  172,121,559,999.96` | https://zkillboard.com/kill/79637670/
+  61 | Bestower                                       | `  167,391,988,176.60` | https://zkillboard.com/kill/18312601/
+  62 | Barghest                                       | `  166,883,572,612.16` | https://zkillboard.com/kill/121802853/
+  63 | Chameleon                                      | `  163,379,669,099.61` | https://zkillboard.com/kill/78373188/
   64 | Armageddon Navy Issue                          | `  156,998,406,124.80` | https://zkillboard.com/kill/121960462/
   65 | Bestla                                         | `  156,883,895,955.52` | https://zkillboard.com/kill/127809541/
   66 | Fenrir                                         | `  156,563,068,959.98` | https://zkillboard.com/kill/92136964/
