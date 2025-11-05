@@ -107,24 +107,24 @@ Rank | Destroyed                                      | ISK Value              |
   98 | Crow                                           | `  107,640,919,249.64` | https://zkillboard.com/kill/771885/
   99 | Slasher                                        | `  107,540,231,249.38` | https://zkillboard.com/kill/69997390/
  100 | Crusader                                       | `  107,205,644,126.00` | https://zkillboard.com/kill/5273799/
- 101 | Raitaru                                        | `  104,258,153,090.26` | https://zkillboard.com/kill/99513651/
- 102 | Vangel                                         | `  103,776,919,955.60` | https://zkillboard.com/kill/22278966/
- 103 | Rifter                                         | `  103,673,545,339.81` | https://zkillboard.com/kill/16062901/
- 104 | Silver Magnate                                 | `  103,216,890,851.87` | https://zkillboard.com/kill/104468891/
- 105 | Whiptail                                       | `  103,085,417,188.60` | https://zkillboard.com/kill/75560800/
- 106 | Loggerhead                                     | `  102,276,837,558.68` | https://zkillboard.com/kill/116385627/
- 107 | Mimir                                          | `  101,843,706,008.17` | https://zkillboard.com/kill/126445853/
- 108 | Babaroga                                       | `  101,777,082,890.01` | https://zkillboard.com/kill/129974597/
- 109 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
- 110 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
- 111 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
- 112 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
- 113 | Vehement                                       | `   96,864,613,464.11` | https://zkillboard.com/kill/115191473/
- 114 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
- 115 | Impel                                          | `   93,888,617,531.98` | https://zkillboard.com/kill/94423743/
- 116 | Widow                                          | `   92,334,579,705.68` | https://zkillboard.com/kill/80681361/
- 117 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
- 118 | Paladin                                        | `   90,836,195,273.89` | https://zkillboard.com/kill/122729560/
+ 101 | Paladin                                        | `  105,096,893,144.46` | https://zkillboard.com/kill/131000658/
+ 102 | Raitaru                                        | `  104,258,153,090.26` | https://zkillboard.com/kill/99513651/
+ 103 | Vangel                                         | `  103,776,919,955.60` | https://zkillboard.com/kill/22278966/
+ 104 | Rifter                                         | `  103,673,545,339.81` | https://zkillboard.com/kill/16062901/
+ 105 | Silver Magnate                                 | `  103,216,890,851.87` | https://zkillboard.com/kill/104468891/
+ 106 | Whiptail                                       | `  103,085,417,188.60` | https://zkillboard.com/kill/75560800/
+ 107 | Loggerhead                                     | `  102,276,837,558.68` | https://zkillboard.com/kill/116385627/
+ 108 | Mimir                                          | `  101,843,706,008.17` | https://zkillboard.com/kill/126445853/
+ 109 | Babaroga                                       | `  101,777,082,890.01` | https://zkillboard.com/kill/129974597/
+ 110 | Vargur                                         | `  100,826,201,220.33` | https://zkillboard.com/kill/51482562/
+ 111 | Cambion                                        | `  100,079,013,469.54` | https://zkillboard.com/kill/32369995/
+ 112 | Etana                                          | `  100,035,144,752.95` | https://zkillboard.com/kill/56613434/
+ 113 | Badger                                         | `   98,484,374,097.30` | https://zkillboard.com/kill/79697962/
+ 114 | Vehement                                       | `   96,864,613,464.11` | https://zkillboard.com/kill/115191473/
+ 115 | Primae                                         | `   96,134,960,843.63` | https://zkillboard.com/kill/15201225/
+ 116 | Impel                                          | `   93,888,617,531.98` | https://zkillboard.com/kill/94423743/
+ 117 | Widow                                          | `   92,334,579,705.68` | https://zkillboard.com/kill/80681361/
+ 118 | Azbel                                          | `   91,547,734,012.72` | https://zkillboard.com/kill/74813118/
  119 | Caiman                                         | `   90,207,959,261.83` | https://zkillboard.com/kill/102037871/
  120 | Maulus                                         | `   88,702,232,328.72` | https://zkillboard.com/kill/2319770/
  121 | 'Draccous' Fortizar                            | `   88,213,901,868.96` | https://zkillboard.com/kill/70668698/
