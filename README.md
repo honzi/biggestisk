@@ -489,16 +489,16 @@ Rank | Destroyed                                      | ISK Value              |
  480 | Angel Control Tower Medium                     | `      749,400,000.00` | https://zkillboard.com/kill/4193118/
  481 | Thrasher Thukker Tribe Edition                 | `      741,187,143.58` | https://zkillboard.com/kill/45771231/
  482 | Imicus Navy Issue                              | `      729,772,060.01` | https://zkillboard.com/kill/104665984/
- 483 | Shadow Control Tower Small                     | `      698,000,049.50` | https://zkillboard.com/kill/2031960/
- 484 | InterBus Catalyst                              | `      695,264,105.73` | https://zkillboard.com/kill/30168373/
- 485 | Tornado                                        | `      694,587,844.30` | https://zkillboard.com/kill/28259637/
- 486 | Ferox Guristas Edition                         | `      660,971,414.92` | https://zkillboard.com/kill/44537106/
- 487 | Talwar                                         | `      645,822,989.14` | https://zkillboard.com/kill/38179874/
- 488 | Scalpel                                        | `      638,295,835.57` | https://zkillboard.com/kill/73671147/
- 489 | Compression Array                              | `      636,192,719.53` | https://zkillboard.com/kill/93101968/
- 490 | Stabber Krusual Edition                        | `      621,558,143.90` | https://zkillboard.com/kill/43982525/
- 491 | Keres                                          | `      610,686,986.16` | https://zkillboard.com/kill/78790414/
- 492 | Pioneer Consortium Issue                       | `      606,752,622.15` | https://zkillboard.com/kill/131428202/
+ 483 | Pioneer Consortium Issue                       | `      702,531,438.22` | https://zkillboard.com/kill/131567586/
+ 484 | Shadow Control Tower Small                     | `      698,000,049.50` | https://zkillboard.com/kill/2031960/
+ 485 | InterBus Catalyst                              | `      695,264,105.73` | https://zkillboard.com/kill/30168373/
+ 486 | Tornado                                        | `      694,587,844.30` | https://zkillboard.com/kill/28259637/
+ 487 | Ferox Guristas Edition                         | `      660,971,414.92` | https://zkillboard.com/kill/44537106/
+ 488 | Talwar                                         | `      645,822,989.14` | https://zkillboard.com/kill/38179874/
+ 489 | Scalpel                                        | `      638,295,835.57` | https://zkillboard.com/kill/73671147/
+ 490 | Compression Array                              | `      636,192,719.53` | https://zkillboard.com/kill/93101968/
+ 491 | Stabber Krusual Edition                        | `      621,558,143.90` | https://zkillboard.com/kill/43982525/
+ 492 | Keres                                          | `      610,686,986.16` | https://zkillboard.com/kill/78790414/
  493 | Coercer                                        | `      604,977,782.73` | https://zkillboard.com/kill/29640592/
  494 | True Sansha Control Tower Medium               | `      601,999,999.98` | https://zkillboard.com/kill/186476/
  495 | Shadow Large Blaster Battery                   | `      563,999,999.40` | https://zkillboard.com/kill/9539837/
