@@ -219,14 +219,14 @@ Rank | Destroyed                                      | ISK Value              |
  210 | Griffin Navy Issue                             | `   27,962,076,652.06` | https://zkillboard.com/kill/126103016/
  211 | Revelation                                     | `   27,956,324,709.12` | https://zkillboard.com/kill/74969682/
  212 | Nestor                                         | `   27,220,001,874.99` | https://zkillboard.com/kill/92281357/
- 213 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
- 214 | Moros Navy Issue                               | `   25,968,024,530.50` | https://zkillboard.com/kill/120060009/
- 215 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
- 216 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
- 217 | Noctis                                         | `   24,219,274,646.91` | https://zkillboard.com/kill/105570796/
- 218 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
- 219 | Moros                                          | `   23,740,043,371.12` | https://zkillboard.com/kill/58764666/
- 220 | Hubris                                         | `   23,511,394,202.57` | https://zkillboard.com/kill/123419694/
+ 213 | Hubris                                         | `   26,289,344,474.30` | https://zkillboard.com/kill/131550013/
+ 214 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
+ 215 | Moros Navy Issue                               | `   25,968,024,530.50` | https://zkillboard.com/kill/120060009/
+ 216 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
+ 217 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
+ 218 | Noctis                                         | `   24,219,274,646.91` | https://zkillboard.com/kill/105570796/
+ 219 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
+ 220 | Moros                                          | `   23,740,043,371.12` | https://zkillboard.com/kill/58764666/
  221 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
  222 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
  223 | Mackinaw                                       | `   22,823,205,665.75` | https://zkillboard.com/kill/124147773/
