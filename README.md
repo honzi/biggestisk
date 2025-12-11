@@ -3,7 +3,7 @@ Biggest ISK
 
 * A list of the most expensive kills of `764` entities in [EVE Online](https://eveonline.com), based upon the `Grand Total` ISK value reported on https://zkillboard.com. If multiple kills have the same value, then the oldest kill will be listed first.
 * Many things explode every day, so this list may be outdated. If you find a more expensive kill, or a kill had its value updated, then please contribute it as a [pull request](https://github.com/honzi/biggestisk/pulls?q=is%3Apr), [issue](https://github.com/honzi/biggestisk/issues?q=is%3Aissue), or in-game mail sent to `Honzifox`!
-* `154` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
+* `156` entities haven't been killed yet and are [listed in a separate table](#unkilled-entities).
 
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|------------------------|---------------------------------------
@@ -789,6 +789,7 @@ Ammatar Surveillance Sergeant                       | https://zkillboard.com/shi
 Ammatar Surveillance Sergeant Major                 | https://zkillboard.com/ship/10099/
 Angel Fugitive                                      | https://zkillboard.com/ship/12245/
 Angel Rookie                                        | https://zkillboard.com/ship/30369/
+Anhinga                                             | https://zkillboard.com/ship/89807/
 Apocalypse 125ms 2500m                              | https://zkillboard.com/ship/25215/
 Apocalypse Blood Raider Edition                     | https://zkillboard.com/ship/34213/
 Apocalypse Imperial Issue                           | https://zkillboard.com/ship/11936/
@@ -898,6 +899,7 @@ Serenity Only Chinese Spring Festival Event NPC Lv4 | https://zkillboard.com/shi
 Serpentis Fugitive                                  | https://zkillboard.com/ship/12249/
 Serpentis Rookie                                    | https://zkillboard.com/ship/30381/
 Sidewinder                                          | https://zkillboard.com/ship/85062/
+Skua                                                | https://zkillboard.com/ship/89808/
 SOCT 1                                              | https://zkillboard.com/ship/3751/
 SOCT 2                                              | https://zkillboard.com/ship/3753/
 Starwight Rakshasa                                  | https://zkillboard.com/ship/60942/
