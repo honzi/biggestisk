@@ -8,25 +8,25 @@ Biggest ISK
 Rank | Destroyed                                      | ISK Value              | Link
 ----:|------------------------------------------------|------------------------|---------------------------------------
    1 | Iteron Mark V                                  | `2,076,723,785,396.80` | https://zkillboard.com/kill/79723240/
-   2 | Python                                         | `1,528,696,196,721.95` | https://zkillboard.com/kill/122888362/
-   3 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
-   4 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
-   5 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
-   6 | Azariel                                        | `  883,517,701,725.84` | https://zkillboard.com/kill/121021225/
-   7 | Molok                                          | `  830,680,055,549.26` | https://zkillboard.com/kill/106309460/
-   8 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
-   9 | Vanquisher                                     | `  774,776,971,902.55` | https://zkillboard.com/kill/62097910/
-  10 | Sotiyo                                         | `  723,858,600,716.04` | https://zkillboard.com/kill/131204889/
-  11 | Komodo                                         | `  720,913,656,710.10` | https://zkillboard.com/kill/122868616/
-  12 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
-  13 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
-  14 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
-  15 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
-  16 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
-  17 | Moracha                                        | `  517,121,034,591.32` | https://zkillboard.com/kill/53900531/
-  18 | Opux Dragoon Yacht                             | `  500,000,000,000.02` | https://zkillboard.com/kill/63711228/
-  19 | Catalyst                                       | `  435,594,386,419.36` | https://zkillboard.com/kill/12240997/
-  20 | Crane                                          | `  407,919,161,449.21` | https://zkillboard.com/kill/79650638/
+   2 | Crane                                          | `1,559,212,279,192.63` | https://zkillboard.com/kill/135404056/
+   3 | Python                                         | `1,528,696,196,721.95` | https://zkillboard.com/kill/122888362/
+   4 | ◆ Sotiyo                                       | `1,007,794,487,022.02` | https://zkillboard.com/kill/64435864/
+   5 | Cockroach                                      | `1,000,018,000,000.01` | https://zkillboard.com/kill/22231822/
+   6 | Amarr Shuttle                                  | `  950,284,359,800.00` | https://zkillboard.com/kill/13088468/
+   7 | Azariel                                        | `  883,517,701,725.84` | https://zkillboard.com/kill/121021225/
+   8 | Molok                                          | `  830,680,055,549.26` | https://zkillboard.com/kill/106309460/
+   9 | Crucifier                                      | `  787,510,073,466.62` | https://zkillboard.com/kill/79719133/
+  10 | Vanquisher                                     | `  774,776,971,902.55` | https://zkillboard.com/kill/62097910/
+  11 | Sotiyo                                         | `  723,858,600,716.04` | https://zkillboard.com/kill/131204889/
+  12 | Komodo                                         | `  720,913,656,710.10` | https://zkillboard.com/kill/122868616/
+  13 | Keepstar                                       | `  708,517,961,280.96` | https://zkillboard.com/kill/63507899/
+  14 | Miasmos                                        | `  654,693,180,686.15` | https://zkillboard.com/kill/40418011/
+  15 | Sigil                                          | `  627,443,870,802.85` | https://zkillboard.com/kill/9356259/
+  16 | Nereus                                         | `  625,000,658,501.26` | https://zkillboard.com/kill/79632331/
+  17 | Ibis                                           | `  559,519,219,015.91` | https://zkillboard.com/kill/14846898/
+  18 | Moracha                                        | `  517,121,034,591.32` | https://zkillboard.com/kill/53900531/
+  19 | Opux Dragoon Yacht                             | `  500,000,000,000.02` | https://zkillboard.com/kill/63711228/
+  20 | Catalyst                                       | `  435,594,386,419.36` | https://zkillboard.com/kill/12240997/
   21 | Providence                                     | `  383,458,935,112.62` | https://zkillboard.com/kill/40690841/
   22 | Malediction                                    | `  336,784,680,124.03` | https://zkillboard.com/kill/79630034/
   23 | Charon                                         | `  331,482,029,848.47` | https://zkillboard.com/kill/14535158/
