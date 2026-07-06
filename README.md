@@ -177,7 +177,7 @@ Rank | Destroyed                                      | ISK Value              |
  168 | Zirnitra                                       | `   47,149,687,483.12` | https://zkillboard.com/kill/81282897/
  169 | Proteus                                        | `   45,955,927,444.19` | https://zkillboard.com/kill/103975479/
  170 | Incursus                                       | `   45,917,581,370.55` | https://zkillboard.com/kill/1687756/
- 171 | Rattlesnake                                    | `   44,708,373,124.25` | https://zkillboard.com/kill/83497945/
+ 171 | Rattlesnake                                    | `   45,878,655,374.24` | https://zkillboard.com/kill/134411625/
  172 | Nightmare                                      | `   44,480,642,014.01` | https://zkillboard.com/kill/114871366/
  173 | Thrasher                                       | `   44,085,513,214.60` | https://zkillboard.com/kill/13891659/
  174 | Sunesis                                        | `   43,334,557,038.09` | https://zkillboard.com/kill/105361965/
