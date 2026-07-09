@@ -141,19 +141,19 @@ Rank | Destroyed                                      | ISK Value              |
  132 | Taranis                                        | `   87,190,910,222.63` | https://zkillboard.com/kill/42187062/
  133 | Magnate                                        | `   85,206,204,241.66` | https://zkillboard.com/kill/123092725/
  134 | Torrent                                        | `   85,095,440,517.20` | https://zkillboard.com/kill/128044909/
- 135 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
- 136 | Chemosh                                        | `   78,633,427,952.19` | https://zkillboard.com/kill/79916322/
- 137 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
- 138 | Vindicator                                     | `   75,625,937,495.61` | https://zkillboard.com/kill/104797031/
- 139 | Merlin                                         | `   73,033,623,261.95` | https://zkillboard.com/kill/125596298/
- 140 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
- 141 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
- 142 | Hematos                                        | `   70,118,296,715.41` | https://zkillboard.com/kill/79649125/
- 143 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
- 144 | 'Moreau' Fortizar                              | `   68,786,932,221.13` | https://zkillboard.com/kill/90392403/
- 145 | Council Diplomatic Shuttle                     | `   68,291,838,137.54` | https://zkillboard.com/kill/98483330/
- 146 | Machariel                                      | `   68,079,215,967.60` | https://zkillboard.com/kill/27694789/
- 147 | Sarathiel                                      | `   66,279,937,334.17` | https://zkillboard.com/kill/129465456/
+ 135 | Sarathiel                                      | `   83,482,276,819.31` | https://zkillboard.com/kill/136779042/
+ 136 | Malice                                         | `   80,016,825,713.74` | https://zkillboard.com/kill/26777738/
+ 137 | Chemosh                                        | `   78,633,427,952.19` | https://zkillboard.com/kill/79916322/
+ 138 | 'Horizon' Fortizar                             | `   76,600,403,209.70` | https://zkillboard.com/kill/72362136/
+ 139 | Vindicator                                     | `   75,625,937,495.61` | https://zkillboard.com/kill/104797031/
+ 140 | Merlin                                         | `   73,033,623,261.95` | https://zkillboard.com/kill/125596298/
+ 141 | Claw                                           | `   72,536,016,147.45` | https://zkillboard.com/kill/78428518/
+ 142 | Condor                                         | `   71,799,835,935.70` | https://zkillboard.com/kill/54764597/
+ 143 | Hematos                                        | `   70,118,296,715.41` | https://zkillboard.com/kill/79649125/
+ 144 | Stiletto                                       | `   70,160,212,655.93` | https://zkillboard.com/kill/8278842/
+ 145 | 'Moreau' Fortizar                              | `   68,786,932,221.13` | https://zkillboard.com/kill/90392403/
+ 146 | Council Diplomatic Shuttle                     | `   68,291,838,137.54` | https://zkillboard.com/kill/98483330/
+ 147 | Machariel                                      | `   68,079,215,967.60` | https://zkillboard.com/kill/27694789/
  148 | Maller                                         | `   66,237,112,598.42` | https://zkillboard.com/kill/14113212/
  149 | Atron                                          | `   66,135,944,231.41` | https://zkillboard.com/kill/61567389/
  150 | Leshak                                         | `   64,712,061,523.89` | https://zkillboard.com/kill/71800039/
