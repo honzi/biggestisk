@@ -227,67 +227,67 @@ Rank | Destroyed                                      | ISK Value              |
  218 | Bantam                                         | `   26,223,342,464.96` | https://zkillboard.com/kill/6582647/
  219 | Moros Navy Issue                               | `   25,968,024,530.50` | https://zkillboard.com/kill/120060009/
  220 | Arbitrator                                     | `   24,684,435,426.83` | https://zkillboard.com/kill/18193979/
- 221 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
- 222 | Noctis                                         | `   24,219,274,646.91` | https://zkillboard.com/kill/105570796/
- 223 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
- 224 | Moros                                          | `   23,740,043,371.12` | https://zkillboard.com/kill/58764666/
- 225 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
- 226 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
- 227 | Mackinaw                                       | `   22,823,205,665.75` | https://zkillboard.com/kill/124147773/
- 228 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
- 229 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
- 230 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
- 231 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
- 232 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
- 233 | Valravn                                        | `   20,596,815,634.13` | https://zkillboard.com/kill/125300482/
- 234 | Mobile Tractor Unit                            | `   19,841,484,582.68` | https://zkillboard.com/kill/132392167/
- 235 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
- 236 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
- 237 | Cenotaph                                       | `   19,074,235,297.67` | https://zkillboard.com/kill/122512483/
- 238 | Naglfar Fleet Issue                            | `   18,746,690,700.59` | https://zkillboard.com/kill/109629065/
- 239 | Jaguar                                         | `   18,550,440,608.95` | https://zkillboard.com/kill/932026/
- 240 | Revelation Navy Issue                          | `   18,182,838,018.31` | https://zkillboard.com/kill/113898968/
- 241 | Osprey                                         | `   18,170,034,772.70` | https://zkillboard.com/kill/10676005/
- 242 | Omen Navy Issue                                | `   17,992,783,929.88` | https://zkillboard.com/kill/2995938/
- 243 | Worm                                           | `   17,582,867,159.79` | https://zkillboard.com/kill/64012436/
- 244 | Athanor                                        | `   17,577,933,190.27` | https://zkillboard.com/kill/87823506/
- 245 | Ishkur                                         | `   17,128,960,963.95` | https://zkillboard.com/kill/14761589/
- 246 | Guristas Shuttle                               | `   16,892,359,253.06` | https://zkillboard.com/kill/17395448/
- 247 | Capsule                                        | `   16,872,155,193.59` | https://zkillboard.com/kill/127958181/
- 248 | Onyx                                           | `   16,861,293,289.57` | https://zkillboard.com/kill/113256174/
- 249 | Maulus Navy Issue                              | `   16,776,113,940.54` | https://zkillboard.com/kill/108357323/
- 250 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
- 251 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
- 252 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
- 253 | Retriever                                      | `   16,456,028,091.43` | https://zkillboard.com/kill/123928773/
- 254 | Chimera                                        | `   15,972,747,571.15` | https://zkillboard.com/kill/28037701/
- 255 | Megathron Navy Issue                           | `   15,708,037,789.06` | https://zkillboard.com/kill/41505052/
- 256 | Harbinger Navy Issue                           | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
- 257 | Heron                                          | `   15,528,765,526.29` | https://zkillboard.com/kill/109040451/
- 258 | Navitas                                        | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
- 259 | Enforcer                                       | `   15,271,077,176.70` | https://zkillboard.com/kill/64824306/
- 260 | Manticore                                      | `   14,662,834,035.57` | https://zkillboard.com/kill/105118039/
- 261 | Breacher                                       | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
- 262 | Rorqual ORE Development Edition                | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
- 263 | Daredevil                                      | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
- 264 | Archon                                         | `   13,134,985,853.29` | https://zkillboard.com/kill/98534069/
- 265 | Dominix Navy Issue                             | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
- 266 | Ymir                                           | `   12,359,573,457.00` | https://zkillboard.com/kill/136932908/
- 267 | 'Magpie' Mobile Tractor Unit                   | `   12,247,513,194.88` | https://zkillboard.com/kill/38603232/
- 268 | Minokawa                                       | `   12,245,630,166.26` | https://zkillboard.com/kill/104188280/
- 269 | Kitsune                                        | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
- 270 | Eos                                            | `   11,793,854,120.87` | https://zkillboard.com/kill/64236772/
- 271 | Salvation                                      | `   11,726,844,402.30` | https://zkillboard.com/kill/136674274/
- 272 | Thunderchild                                   | `   11,722,516,355.94` | https://zkillboard.com/kill/100829963/
- 273 | 'Packrat' Mobile Tractor Unit                  | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
- 274 | Republic Fleet Firetail                        | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
- 275 | Scorpion Ishukone Watch                        | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
- 276 | Redeemer                                       | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
- 277 | Dragoon                                        | `   10,697,150,865.65` | https://zkillboard.com/kill/54665312/
- 278 | Vulture                                        | `   10,618,485,343.55` | https://zkillboard.com/kill/7775089/
- 279 | Maelstrom                                      | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
- 280 | Capsule - Genolution 'Auroral' 197-variant     | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
- 281 | Odysseus                                       | `   10,437,577,422.76` | https://zkillboard.com/kill/131545162/
+ 221 | Odysseus                                       | `   24,642,773,304.14` | https://zkillboard.com/kill/136508766/
+ 222 | Burst                                          | `   24,541,410,057.77` | https://zkillboard.com/kill/9534943/
+ 223 | Noctis                                         | `   24,219,274,646.91` | https://zkillboard.com/kill/105570796/
+ 224 | Caldari Navy Hookbill                          | `   23,800,439,857.25` | https://zkillboard.com/kill/12195934/
+ 225 | Moros                                          | `   23,740,043,371.12` | https://zkillboard.com/kill/58764666/
+ 226 | Phoenix                                        | `   23,184,580,801.85` | https://zkillboard.com/kill/54182823/
+ 227 | Scorpion Navy Issue                            | `   22,940,812,151.33` | https://zkillboard.com/kill/50102461/
+ 228 | Mackinaw                                       | `   22,823,205,665.75` | https://zkillboard.com/kill/124147773/
+ 229 | Tristan                                        | `   22,612,535,470.24` | https://zkillboard.com/kill/7932485/
+ 230 | Panther                                        | `   22,536,309,693.79` | https://zkillboard.com/kill/53389927/
+ 231 | Sin                                            | `   22,423,774,082.41` | https://zkillboard.com/kill/59227326/
+ 232 | Rattlesnake Victory Edition                    | `   22,110,724,676.49` | https://zkillboard.com/kill/50736149/
+ 233 | Blackbird                                      | `   21,603,684,754.23` | https://zkillboard.com/kill/19275430/
+ 234 | Valravn                                        | `   20,596,815,634.13` | https://zkillboard.com/kill/125300482/
+ 235 | Mobile Tractor Unit                            | `   19,841,484,582.68` | https://zkillboard.com/kill/132392167/
+ 236 | Nidhoggur                                      | `   19,310,776,610.74` | https://zkillboard.com/kill/40070585/
+ 237 | Hyperion                                       | `   19,213,568,897.51` | https://zkillboard.com/kill/88691605/
+ 238 | Cenotaph                                       | `   19,074,235,297.67` | https://zkillboard.com/kill/122512483/
+ 239 | Naglfar Fleet Issue                            | `   18,746,690,700.59` | https://zkillboard.com/kill/109629065/
+ 240 | Jaguar                                         | `   18,550,440,608.95` | https://zkillboard.com/kill/932026/
+ 241 | Revelation Navy Issue                          | `   18,182,838,018.31` | https://zkillboard.com/kill/113898968/
+ 242 | Osprey                                         | `   18,170,034,772.70` | https://zkillboard.com/kill/10676005/
+ 243 | Omen Navy Issue                                | `   17,992,783,929.88` | https://zkillboard.com/kill/2995938/
+ 244 | Worm                                           | `   17,582,867,159.79` | https://zkillboard.com/kill/64012436/
+ 245 | Athanor                                        | `   17,577,933,190.27` | https://zkillboard.com/kill/87823506/
+ 246 | Ishkur                                         | `   17,128,960,963.95` | https://zkillboard.com/kill/14761589/
+ 247 | Guristas Shuttle                               | `   16,892,359,253.06` | https://zkillboard.com/kill/17395448/
+ 248 | Capsule                                        | `   16,872,155,193.59` | https://zkillboard.com/kill/127958181/
+ 249 | Onyx                                           | `   16,861,293,289.57` | https://zkillboard.com/kill/113256174/
+ 250 | Maulus Navy Issue                              | `   16,776,113,940.54` | https://zkillboard.com/kill/108357323/
+ 251 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
+ 252 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
+ 253 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
+ 254 | Retriever                                      | `   16,456,028,091.43` | https://zkillboard.com/kill/123928773/
+ 255 | Chimera                                        | `   15,972,747,571.15` | https://zkillboard.com/kill/28037701/
+ 256 | Megathron Navy Issue                           | `   15,708,037,789.06` | https://zkillboard.com/kill/41505052/
+ 257 | Harbinger Navy Issue                           | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
+ 258 | Heron                                          | `   15,528,765,526.29` | https://zkillboard.com/kill/109040451/
+ 259 | Navitas                                        | `   15,313,222,297.78` | https://zkillboard.com/kill/1404193/
+ 260 | Enforcer                                       | `   15,271,077,176.70` | https://zkillboard.com/kill/64824306/
+ 261 | Manticore                                      | `   14,662,834,035.57` | https://zkillboard.com/kill/105118039/
+ 262 | Breacher                                       | `   14,529,566,072.94` | https://zkillboard.com/kill/10719085/
+ 263 | Rorqual ORE Development Edition                | `   14,432,324,408.58` | https://zkillboard.com/kill/42034674/
+ 264 | Daredevil                                      | `   13,763,609,736.15` | https://zkillboard.com/kill/71593666/
+ 265 | Archon                                         | `   13,134,985,853.29` | https://zkillboard.com/kill/98534069/
+ 266 | Dominix Navy Issue                             | `   12,764,968,903.92` | https://zkillboard.com/kill/21034694/
+ 267 | Ymir                                           | `   12,359,573,457.00` | https://zkillboard.com/kill/136932908/
+ 268 | 'Magpie' Mobile Tractor Unit                   | `   12,247,513,194.88` | https://zkillboard.com/kill/38603232/
+ 269 | Minokawa                                       | `   12,245,630,166.26` | https://zkillboard.com/kill/104188280/
+ 270 | Kitsune                                        | `   11,939,994,895.22` | https://zkillboard.com/kill/705783/
+ 271 | Eos                                            | `   11,793,854,120.87` | https://zkillboard.com/kill/64236772/
+ 272 | Salvation                                      | `   11,726,844,402.30` | https://zkillboard.com/kill/136674274/
+ 273 | Thunderchild                                   | `   11,722,516,355.94` | https://zkillboard.com/kill/100829963/
+ 274 | 'Packrat' Mobile Tractor Unit                  | `   11,699,497,971.44` | https://zkillboard.com/kill/77288748/
+ 275 | Republic Fleet Firetail                        | `   11,349,641,102.35` | https://zkillboard.com/kill/12011832/
+ 276 | Scorpion Ishukone Watch                        | `   11,208,349,284.60` | https://zkillboard.com/kill/34416198/
+ 277 | Redeemer                                       | `   11,019,898,146.35` | https://zkillboard.com/kill/52020069/
+ 278 | Dragoon                                        | `   10,697,150,865.65` | https://zkillboard.com/kill/54665312/
+ 279 | Vulture                                        | `   10,618,485,343.55` | https://zkillboard.com/kill/7775089/
+ 280 | Maelstrom                                      | `   10,613,110,951.78` | https://zkillboard.com/kill/36849017/
+ 281 | Capsule - Genolution 'Auroral' 197-variant     | `   10,550,959,142.53` | https://zkillboard.com/kill/81679948/
  282 | Jackdaw                                        | `   10,269,397,831.54` | https://zkillboard.com/kill/111638199/
  283 | Hulk                                           | `   10,261,224,907.21` | https://zkillboard.com/kill/123807233/
  284 | Mekubal                                        | `   10,250,031,819.61` | https://zkillboard.com/kill/111992621/
