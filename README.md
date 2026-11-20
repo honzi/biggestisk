@@ -255,17 +255,17 @@ Rank | Destroyed                                      | ISK Value              |
  246 | Omen Navy Issue                                | `   17,992,783,929.88` | https://zkillboard.com/kill/2995938/
  247 | Worm                                           | `   17,582,867,159.79` | https://zkillboard.com/kill/64012436/
  248 | Athanor                                        | `   17,577,933,190.27` | https://zkillboard.com/kill/87823506/
- 249 | Ishkur                                         | `   17,128,960,963.95` | https://zkillboard.com/kill/14761589/
- 250 | Guristas Shuttle                               | `   16,892,359,253.06` | https://zkillboard.com/kill/17395448/
- 251 | Capsule                                        | `   16,872,155,193.59` | https://zkillboard.com/kill/127958181/
- 252 | Onyx                                           | `   16,861,293,289.57` | https://zkillboard.com/kill/113256174/
- 253 | Maulus Navy Issue                              | `   16,776,113,940.54` | https://zkillboard.com/kill/108357323/
- 254 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
- 255 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
- 256 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
- 257 | Retriever                                      | `   16,456,028,091.43` | https://zkillboard.com/kill/123928773/
- 258 | Gaia                                           | `   16,134,623,806.19` | https://zkillboard.com/kill/137410036/
- 259 | Chimera                                        | `   15,972,747,571.15` | https://zkillboard.com/kill/28037701/
+ 249 | Chimera                                        | `   17,160,583,356.79` | https://zkillboard.com/kill/140001353/
+ 250 | Ishkur                                         | `   17,128,960,963.95` | https://zkillboard.com/kill/14761589/
+ 251 | Guristas Shuttle                               | `   16,892,359,253.06` | https://zkillboard.com/kill/17395448/
+ 252 | Capsule                                        | `   16,872,155,193.59` | https://zkillboard.com/kill/127958181/
+ 253 | Onyx                                           | `   16,861,293,289.57` | https://zkillboard.com/kill/113256174/
+ 254 | Maulus Navy Issue                              | `   16,776,113,940.54` | https://zkillboard.com/kill/108357323/
+ 255 | Ikitursa                                       | `   16,743,539,585.17` | https://zkillboard.com/kill/80749109/
+ 256 | Rook                                           | `   16,528,177,862.73` | https://zkillboard.com/kill/2396089/
+ 257 | Drake Navy Issue                               | `   16,515,006,798.05` | https://zkillboard.com/kill/46933257/
+ 258 | Retriever                                      | `   16,456,028,091.43` | https://zkillboard.com/kill/123928773/
+ 259 | Gaia                                           | `   16,134,623,806.19` | https://zkillboard.com/kill/137410036/
  260 | Megathron Navy Issue                           | `   15,708,037,789.06` | https://zkillboard.com/kill/41505052/
  261 | Harbinger Navy Issue                           | `   15,653,077,148.45` | https://zkillboard.com/kill/31605707/
  262 | Heron                                          | `   15,528,765,526.29` | https://zkillboard.com/kill/109040451/
